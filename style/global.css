@@ -1,0 +1,183 @@
+body{
+	background-color: #A7C2D1;
+}
+
+.container{
+	background-color: #F1F0E8;
+}
+
+.header{
+	padding-top: 20px;
+	background: url("/images/bg_header.jpg") top left no-repeat;	
+}
+.header img{
+	margin-left: 100px;
+}
+
+.menu{
+	padding-left: 8px;	
+}
+
+.section-menu{
+    margin: 10px 0 0 8px;
+}
+
+.section-menu ul{
+    list-style: none;
+    margin: 0; padding: 2px 0;
+    background-color: #C0C0C0;
+    width: 220px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    /* //TODO: Rounded corners for IE*/
+}
+
+.section-menu ul li{
+    margin: 5px 0;
+    text-align: center;
+}
+
+.section-menu ul li a{
+    margin: auto;
+}
+
+.section-menu ul li.current a, .section-menu ul li.current a:HOVER{
+    color: #fff;
+}
+
+ul.secondary-menu{
+    list-style: none;
+    background-color: #C0C0C0;
+    -moz-border-radius: 8px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    padding-top: 1px;
+}
+
+ul.secondary-menu li{
+    display: inline;
+    margin: 0 5px;
+    padding: 2px;
+}
+
+.listHeader{
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: #979797;
+    color: #dff1e8;
+}
+
+#main-title{
+	position: relative;
+	width: 209px; height: 129px;
+	overflow: hidden;
+	float: left;
+}
+
+#main-title span{
+    display: block;
+    position: absolute;
+    left:0; top:0; z-index:1;
+    width:209px; height: 129px;
+    margin:0; padding:0;
+    background:url("/images/cap02.jpg") top left no-repeat;
+}
+
+.content{
+    min-height: 500px;
+}
+
+.centerImage{
+    text-align: center;
+}
+
+.ajuntamentTableTitle{
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+#sectionHeader{
+    margin: 0 0 15px 0;
+    width: 650px;
+    height: 41px;
+}
+.underConstruction{
+    margin: 10px;
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.emphatize{
+    font-weight: bolder;
+}
+
+li.down-excel{
+    list-style-image: url('/images/excel_16_16.gif');
+}
+li.down-oocalc{
+    list-style-image: url('/images/soffice_calc_16_16.gif');
+}
+li.down-pdf{
+    list-style-image: url("/images/file_acrobat.gif");
+}
+
+a:link, .ui-widget-content div a:link {
+    color:#666666;
+    text-decoration:none;
+}
+a:visited, .ui-widget-content div a:visited{
+    color:#666666;
+    text-decoration:none;
+}
+a:hover, .ui-widget-content div a:hover {
+    color:#910000;
+}
+
+
+.footer{
+    padding: 10px 0 0 8px;
+}
+
+.empty-menu{
+    display: block;
+}
+
+#footer-info{
+    position: relative;
+    width: 940px; height: 53px;
+    overflow: hidden;
+    float: left;
+}
+
+#footer-info span{
+    display: block;
+    position: absolute;
+    left:0; top:0; z-index:1;
+    width:940px; height: 53px;
+    margin:0; padding:0;
+    background:url("/images/bg_footer.jpg") top left no-repeat;
+}
+
+.vcard .info-label{
+    font-weight: bold;
+    float: left;
+    min-width: 100px;
+}
+
+.tel .type{
+    display: none;
+}
+
+#biblioteca .postal-code, #biblioteca .country-name{
+    display: none;
+}
+
+h2.urbanisme{
+	padding: 5px;
+	background-color: #a6765f;
+	color: #fff;
+	padding-right: 15px;
+	font-weight: bolder;
+}

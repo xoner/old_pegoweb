@@ -1,0 +1,30 @@
+.gallery{
+    margin-left: 50px;
+    text-align: center;
+}
+
+.thumbnail{
+    width: 128px; height: 128px;
+    padding: 20px;
+    margin: 3px;
+    float: left;
+    background-color: #000;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.thumbnail thumb-content a{
+    min-width: 128px;
+    min-height: 128px;
+}
+
+.thumb-content{
+    background-color: #fff;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    min-height: 128px;
+}
+
+.thumbnail .down{
+    text-align: center;
+}

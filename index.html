@@ -1,0 +1,22 @@
+---
+layout: default
+title: Ajuntament de Pego
+---
+<div class="news-header">
+    <img id="sect-header-img" src="images/news-header.jpg" alt="noticies" />
+</div>
+<!-- NEWS -->
+{% for itPost in site.posts limit:5 %}
+<div class="span-13 news">
+    <article>
+        <header>
+            <h2>{{ itPost.title}}</h2>
+            <div class="post-info">
+                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date }}">{{ itPost.date | date: "%d de %m de %Y" }}</time>
+            </div>
+        </header>
+        <p>{{ itPost.content }}</p>
+    </article>
+</div>
+{% endfor %}
+<!-- END NEWS -->
