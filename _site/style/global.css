@@ -1,3 +1,76 @@
+.ajuntament-hx{
+    color: #2e448d;
+    border-bottom: 1px dotted #2e448d;
+}
+
+.economia-hx{
+    color: #bb7c51;
+    border-bottom: 1px dotted #bb7c51;
+}
+
+.serveis-hx{
+    color: #56A89C;
+    border-bottom: 1px dotted #56A89C;
+}
+
+.esports-hx{
+    color: #DA1C40;
+    border-bottom: 1px dotted #DA1C40;
+}
+
+.medi-hx{
+    color: #9EC301;
+    border-bottom: 1px dotted #9EC301;
+}
+
+.urbanisme-hx{
+    color: #A6765F;
+    border-bottom: 1px dotted #A6765F;
+}
+
+.iajuntament-hx{
+    color: #fff;
+    background-color: #2e448d;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.ieconomia-hx{
+    color: #fff;
+    background-color: #bb7c51;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.iserveis-hx{
+    color: #fff;
+    background-color: #56A89C;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+
+.iesports-hx{
+    color: #fff;
+    background-color: #DA1C40;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.imedi-hx{
+    color: #fff;
+    background-color: #9EC301;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.iurbanisme-hx{
+    color: #fff;
+    background-color: #A6765F;
+    border-radius: 3px;
+    padding: 3px;
+}
+
 body{
 	background-color: #A7C2D1;
 }
@@ -20,13 +93,13 @@ body{
 
 .section-menu{
     margin: 10px 0 0 8px;
+    width: 200px;
 }
 
 .section-menu ul{
     list-style: none;
     margin: 0; padding: 2px 0;
     background-color: #C0C0C0;
-    width: 220px;
     -moz-border-radius: 8px;
     border-radius: 8px;
     /* //TODO: Rounded corners for IE*/
@@ -35,6 +108,7 @@ body{
 .section-menu ul li{
     margin: 5px 0;
     text-align: center;
+    font-family: TitilliumText22LMedium, Georgia, Arial, Verdana;
 }
 
 .section-menu ul li a{
@@ -85,6 +159,7 @@ ul.secondary-menu li{
 
 .content{
     min-height: 500px;
+    padding: 10px;
 }
 
 .centerImage{
@@ -180,4 +255,62 @@ h2.urbanisme{
 	color: #fff;
 	padding-right: 15px;
 	font-weight: bolder;
+}
+
+.content-header{
+    margin-bottom: 10px;
+	padding: 0px 5px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 2px #888;
+}
+
+#section-header-img{
+	margin-top: 5px;
+	margin-bottom: -5px;
+}
+
+.serveis-header{
+    background-color: #56a89c;
+}
+
+p.content{
+    margin: 0 2%;
+    text-align: justify;
+}
+
+h2, h3{
+    font-family: TitilliumText22LMedium, Georgia, Arial, Verdana;
+}
+
+.serveis h2{
+    color: #56a89c;
+    border-bottom: 1px dotted #56a89c;
+}
+
+.serveis .oferta-treball{
+    border: 1px solid #acacac;
+    padding: 20px;
+    box-shadow: #AAA 0px 10px 16px;
+    margin-bottom: 25px;
+    background-color: #fff;
+}
+
+.serveis .oferta-treball .update{
+    font-size: 0.9em;
+    border: 1px solid #c3b329;
+    background-color: #e1d56c;
+    padding: 5px;
+    text-align: center;
+}
+
+.serveis .oferta-treball .update p{
+    margin: 0;
+}
+
+.serveis .oferta-treball ul{
+    margin-top: 10px;
+}
+
+.impressos li{
+    list-style-image: url("/images/file_acrobat.gif");
 }

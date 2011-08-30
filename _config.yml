@@ -1,0 +1,21 @@
+title: Ajuntament de Pego
+url: http://www.pego.org
+description: Plana web del M.I. Ajuntament de Pego
+markdown: maruku
+
+author:
+    name: M.I. Ajuntament de Pego
+    email: siap@pego.org
+    twitter: http://twitter.com/ajupego
+    facebook: http://ca-es.facebook.com/pages/Ajuntament-de-Pego
+
+menu:
+    serveis:
+        - src: /serveis/mancomunitat.html
+          txt: Mancomunitat
+        - src: /serveis/normativa.html
+          txt: Normativa
+        - src: /serveis/impressos.html
+          txt: Impressos
+        - src: /serveis/contractacio.html
+          txt: Contractació;

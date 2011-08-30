@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="span-6 menu">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="204" height="365">
+            <param name="movie" value="legacy_flash/menu.swf"/>
+            <param name="quality" value="high"/>
+            <embed src="legacy_flash/menu.swf" type="application/x-shockwave-flash" width="204" height="365"/>
+      </object>
+    <div class="section-menu">
+         <ul class="menu-seccion main-menu">
+            <li><a href="visitavirtual/virtual_tour.php">Visita virtual</a></li>
+            <li><a href="video/videos.html">Vídeos de Pego</a></li>
+            <li><a href="serveis/telefons.html">Telèfons D'interés</a></li>
+            <li><a href="serveis/contractacio.html">Contractació</a></li>
+            <li><a href="serveis/normativa.html">Normativa</a></li>
+            <li><a href="serveis/impressos.html">Impressos</a></li>
+            <li><a href="/serveis/ocupacio_publica.html">Ocupació Pública</a></li>
+         </ul>
+    </div>
+</div>
+<div class="span-17 last content">
+    {{ content }}
+    <!-- Banners -->
+    {% include banners.html %}
+    <!-- End Banners -->
+</div>

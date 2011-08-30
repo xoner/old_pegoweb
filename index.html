@@ -1,13 +1,13 @@
 ---
-layout: default
-title: Ajuntament de Pego
+layout: front_page
+title: Noticies
 ---
-<div class="news-header">
-    <img id="sect-header-img" src="images/news-header.jpg" alt="noticies" />
+<div class="news-header content-header">
+    <img id="section-header-img" src="images/news-header.jpg" alt="noticies" />
 </div>
 <!-- NEWS -->
-{% for itPost in site.posts limit:5 %}
 <div class="span-13 news">
+{% for itPost in site.posts limit:5 %}
     <article>
         <header>
             <h2>{{ itPost.title}}</h2>
@@ -17,6 +17,6 @@ title: Ajuntament de Pego
         </header>
         <p>{{ itPost.content }}</p>
     </article>
-</div>
 {% endfor %}
+</div>
 <!-- END NEWS -->

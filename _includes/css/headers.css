@@ -1,0 +1,72 @@
+.ajuntament-hx{
+    color: #2e448d;
+    border-bottom: 1px dotted #2e448d;
+}
+
+.economia-hx{
+    color: #bb7c51;
+    border-bottom: 1px dotted #bb7c51;
+}
+
+.serveis-hx{
+    color: #56A89C;
+    border-bottom: 1px dotted #56A89C;
+}
+
+.esports-hx{
+    color: #DA1C40;
+    border-bottom: 1px dotted #DA1C40;
+}
+
+.medi-hx{
+    color: #9EC301;
+    border-bottom: 1px dotted #9EC301;
+}
+
+.urbanisme-hx{
+    color: #A6765F;
+    border-bottom: 1px dotted #A6765F;
+}
+
+.iajuntament-hx{
+    color: #fff;
+    background-color: #2e448d;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.ieconomia-hx{
+    color: #fff;
+    background-color: #bb7c51;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.iserveis-hx{
+    color: #fff;
+    background-color: #56A89C;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+
+.iesports-hx{
+    color: #fff;
+    background-color: #DA1C40;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.imedi-hx{
+    color: #fff;
+    background-color: #9EC301;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.iurbanisme-hx{
+    color: #fff;
+    background-color: #A6765F;
+    border-radius: 3px;
+    padding: 3px;
+}

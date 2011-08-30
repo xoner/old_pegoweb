@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="span-6 menu">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="204" height="37">
+        <param name="movie" value="/legacy_flash/tornar.swf"/>
+        <param name="quality" value="high"/>
+        <embed src="/legacy_flash/tornar.swf" type="application/x-shockwave-flash" width="204" height="37"/>
+      </object>
+    <div class="section-menu">
+        {% case page.menu %}
+        {% when 'serveis' %} {% capture sidebar %}{% include menu_serveis.markdown %}{% endcapture %}
+        {% else %}
+        {% endcase %}
+        {{ sidebar | markdownify }}
+    </div>
+</div>
+<div class="span-17 last content">
+    {{ content }}
+</div>
