@@ -2,6 +2,7 @@
 layout: default
 author: Ajuntament de Pego
 title: Martin Berasategui visitarà terres Pegolines
+published: false
 ---
 <a href="/images/news/09022011_berasategui_marjal_big.png" class="inline-image" target="_blank">
     <img src="/images/news/09022011_berasategui_marjal_small.png" alt="Martin Berasategui" title="Martin Berasategui"/>

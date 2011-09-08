@@ -4,23 +4,23 @@ layout: nil
 {% include css/headers.css %}
 
 body{
-	background-color: #A7C2D1;
+    background-color: #A7C2D1;
 }
 
 .container{
-	background-color: #F1F0E8;
+    background-color: #F1F0E8;
 }
 
 .header{
-	padding-top: 20px;
-	background: url("/images/bg_header.jpg") top left no-repeat;	
+    padding-top: 20px;
+    background: url("/images/bg_header.jpg") top left no-repeat;    
 }
 .header img{
-	margin-left: 100px;
+    margin-left: 100px;
 }
 
 .menu{
-	padding-left: 8px;	
+    padding-left: 8px;    
 }
 
 .section-menu{
@@ -47,8 +47,14 @@ body{
     margin: auto;
 }
 
+.current{
+    font-weight: bolder;
+    font-size: 1.1em;
+    background-color: #666666;
+}
+
 .section-menu ul li.current a, .section-menu ul li.current a:HOVER{
-    color: #fff;
+    color: #c0c0c0;
 }
 
 ul.secondary-menu{
@@ -74,10 +80,10 @@ ul.secondary-menu li{
 }
 
 #main-title{
-	position: relative;
-	width: 209px; height: 129px;
-	overflow: hidden;
-	float: left;
+    position: relative;
+    width: 209px; height: 129px;
+    overflow: hidden;
+    float: left;
 }
 
 #main-title span{
@@ -182,27 +188,23 @@ a:hover, .ui-widget-content div a:hover {
 }
 
 h2.urbanisme{
-	padding: 5px;
-	background-color: #a6765f;
-	color: #fff;
-	padding-right: 15px;
-	font-weight: bolder;
+    padding: 5px;
+    background-color: #a6765f;
+    color: #fff;
+    padding-right: 15px;
+    font-weight: bolder;
 }
 
 .content-header{
     margin-bottom: 10px;
-	padding: 0px 5px;
-	border-radius: 5px;
-	box-shadow: 5px 5px 2px #888;
+    padding: 0px 5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px #888;
 }
 
 #section-header-img{
-	margin-top: 5px;
-	margin-bottom: -5px;
-}
-
-.serveis-header{
-    background-color: #56a89c;
+    margin-top: 5px;
+    margin-bottom: -5px;
 }
 
 p.content{
@@ -210,38 +212,21 @@ p.content{
     text-align: justify;
 }
 
-h2, h3{
+h2, h3, h4{
     font-family: TitilliumText22LMedium, Georgia, Arial, Verdana;
 }
 
-.serveis h2{
-    color: #56a89c;
-    border-bottom: 1px dotted #56a89c;
-}
-
-.serveis .oferta-treball{
-    border: 1px solid #acacac;
-    padding: 20px;
+.publicBuilding{
+    width: 300px;
+    margin: 0 auto;
     box-shadow: #AAA 0px 10px 16px;
-    margin-bottom: 25px;
     background-color: #fff;
+    padding: 10px;
 }
 
-.serveis .oferta-treball .update{
-    font-size: 0.9em;
-    border: 1px solid #c3b329;
-    background-color: #e1d56c;
-    padding: 5px;
-    text-align: center;
-}
+{% include css/serveis.css %}
 
-.serveis .oferta-treball .update p{
-    margin: 0;
-}
-
-.serveis .oferta-treball ul{
-    margin-top: 10px;
-}
+{% include css/esports.css %}
 
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");

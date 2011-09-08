@@ -9,7 +9,8 @@ layout: default
       </object>
     <div class="section-menu">
         {% case page.menu %}
-        {% when 'serveis' %} {% capture sidebar %}{% include menu_serveis.markdown %}{% endcapture %}
+        {% when 'serveis' %} {% capture sidebar %}{% include menus/serveis.markdown %}{% endcapture %}
+        {% when 'esports' %} {% capture sidebar %}{% include menus/esports.markdown %}{% endcapture %}
         {% else %}
         {% endcase %}
         {{ sidebar | markdownify }}

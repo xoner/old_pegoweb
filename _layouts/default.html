@@ -11,8 +11,11 @@
     <link rel="stylesheet" href="/fonts/TitilliumText/stylesheet.css" media="all" />
     <link rel="stylesheet" href="/style/global.css" type="text/css" media="screen, projection" />
     <link rel="stylesheet" href="/style/front_page.css" type="text/css" media="screen, projection" />
-    <!--[if lte IE 8]><script src="script/html5.js" type="text/javascript"></script><![endif]-->
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+{% if page.jqueryui %}
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+{% endif %}
 </head>
 <body>
     <div class="container">
@@ -44,17 +47,28 @@
         </div>
     </div>
 <script type="text/javascript">
-// Google analitics
 //<![CDATA[
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-16993222-1']);
-  _gaq.push(['_trackPageview']);
+    $(function(){
+    
+    });
+    $(window).load(function(){
+        $('.section-menu a').each(function(){
+            if(this.href == window.location.href){
+                $(this).parents('li').addClass('current');
+            }
+        });
+    });
+    
+    // Google analitics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-16993222-1']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 //]]>
 </script>
 </body>
