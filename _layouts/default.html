@@ -15,6 +15,7 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
 {% if page.jqueryui %}
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="/style/jquery-ui/jquery-ui-1.8.2.custom.css" type="text/css" media="screen, projection" />
 {% endif %}
 </head>
 <body>
@@ -49,7 +50,7 @@
 <script type="text/javascript">
 //<![CDATA[
     $(function(){
-    
+        $('.tabs').tabs();
     });
     $(window).load(function(){
         $('.section-menu a').each(function(){
@@ -58,7 +59,9 @@
             }
         });
     });
-    
+    {% if page.customjs %}
+    {{page.customjs}}
+    {% endif %}
     // Google analitics
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-16993222-1']);

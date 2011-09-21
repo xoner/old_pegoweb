@@ -1,6 +1,7 @@
 ---
 layout: page_esports
 title: Instal·lacions Esportives
+jqueryui: true
 ---
 <div class="tabs-instalacions tabs">
     <ul>
@@ -9,14 +10,30 @@ title: Instal·lacions Esportives
         <li><a href="#pujol">Zona esportiva del "Pujol"</a></li>
         <li><a href="#trilladora">Zona esportiva "La Trilladora"</a></li>
         <li><a href="#pavello">Pavello cobert municipal</a></li>
-        <li><a href="#clot">Camp de futbol el clot</a></li>
         <li><a href="#tiriarros">Camp de tir i arrosegament</a></li>
     </ul>
-    <div id="piscina">Piscina coberta</div>
-    <div id="cervantes">Camp de futbol "Cervantes"</div>
-    <div id="pujol">Zona esportiva del "Pujol"</div>
-    <div id="trilladora">Zona esportiva "La Trilladora"</div>
-    <div id="pavello">Pavello cobert municipal</div>
-    <div id="clot">Camp de futbol el clot</div>
-    <div id="tiriarros">Camp de tir i arrosegament</div>
+    <div id="piscina">
+        {% capture lContent %}{% include esports/instalacions/piscina.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="cervantes">
+        {% capture lContent %}{% include esports/instalacions/cervantes.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="pujol">
+        {% capture lContent %}{% include esports/instalacions/pujol.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="trilladora">
+        {% capture lContent %}{% include esports/instalacions/trilladora.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="pavello">
+        {% capture lContent %}{% include esports/instalacions/pavello.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="tiriarros">
+        {% capture lContent %}{% include esports/instalacions/tiriarros.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
 </div>

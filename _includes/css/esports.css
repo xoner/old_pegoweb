@@ -1,3 +1,21 @@
 .esports-header{
     background-color:#DA1C40;
 }
+
+.esports time{
+    font-weight: bold;
+}
+
+.esports .ui-tabs a{
+    font-size: 0.7em;
+}
+
+.esports .ui-tabs>ul>li{
+    border-radius: 5px;
+    border-bottom: 1px solid lightGrey !important;
+}
+
+.esports .ui-tabs li.ui-tabs-selected{
+    border-bottom: 1px solid #aaa !important;
+    padding-bottom: 0 !important;
+}

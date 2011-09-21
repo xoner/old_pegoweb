@@ -7,24 +7,12 @@
     border-bottom: 1px dotted #56a89c;
 }
 
-.serveis .oferta-treball{
+.serveis .oferta-treball, .ppp{
     border: 1px solid #acacac;
     padding: 20px;
     box-shadow: #AAA 0px 10px 16px;
     margin-bottom: 25px;
     background-color: #fff;
-}
-
-.serveis .oferta-treball .update{
-    font-size: 0.9em;
-    border: 1px solid #c3b329;
-    background-color: #e1d56c;
-    padding: 5px;
-    text-align: center;
-}
-
-.serveis .oferta-treball .update p{
-    margin: 0;
 }
 
 .serveis .oferta-treball ul{

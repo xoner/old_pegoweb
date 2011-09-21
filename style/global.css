@@ -224,9 +224,24 @@ h2, h3, h4{
     padding: 10px;
 }
 
+.update{
+    font-size: 0.9em;
+    border: 1px solid #c3b329;
+    background-color: #e1d56c;
+    padding: 5px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.update p{
+    margin: 0;
+}
+
 {% include css/serveis.css %}
 
 {% include css/esports.css %}
+
+{% include css/urbanisme.css %}
 
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");

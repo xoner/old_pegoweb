@@ -23,7 +23,7 @@ layout: nil
 		{% if .size > 0 %}
 		<summary>{{post.description}}</summary>
 		{% else %}
-		<content>{{post.content | strip_html | xml_escape | truncatewords: 60}}</content>
+		<content type="html">{{post.content | xml_escape | truncatewords: 60}}</content>
 		{% endif %}
 	</entry>
 	{% endfor %}
