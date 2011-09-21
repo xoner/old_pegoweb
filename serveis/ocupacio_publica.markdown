@@ -1,9 +1,8 @@
 ---
-layout: page_serveis
+layout: page_section
 title: Ocupació Pública
+section: serveis
 ---
-## Ocupació Pública
-
 +-- {: .oferta-treball}
 ### Borsa de Treball d'auxiliars d'infermeria de la residència "Sant Joan de Deu"
 

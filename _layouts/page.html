@@ -8,10 +8,11 @@ layout: default
         <embed src="/legacy_flash/tornar.swf" type="application/x-shockwave-flash" width="204" height="37"/>
       </object>
     <div class="section-menu">
-        {% case page.menu %}
+        {% case page.section %}
         {% when 'serveis' %} {% capture sidebar %}{% include menus/serveis.markdown %}{% endcapture %}
         {% when 'esports' %} {% capture sidebar %}{% include menus/esports.markdown %}{% endcapture %}
         {% when 'urbanisme' %} {% capture sidebar %}{% include menus/urbanisme.markdown %}{% endcapture %}
+        {% when 'educacio' %} {% capture sidebar %}{% include menus/educacio.markdown %}{% endcapture %}
         {% else %}
         {% endcase %}
         {{ sidebar | markdownify }}

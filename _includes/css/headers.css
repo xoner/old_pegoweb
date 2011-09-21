@@ -13,6 +13,11 @@
     border-bottom: 1px dotted #56A89C;
 }
 
+.educacio-hx{
+    color: #FF0066;
+    border-bottom: 1px dotted #FF0066;
+}
+
 .esports-hx{
     color: #DA1C40;
     border-bottom: 1px dotted #DA1C40;
@@ -53,6 +58,13 @@
 .iesports-hx{
     color: #fff;
     background-color: #DA1C40;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.ieducacio-hx{
+    color: #fff;
+    background-color: #FF0066;
     border-radius: 3px;
     padding: 3px;
 }

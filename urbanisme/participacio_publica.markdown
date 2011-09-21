@@ -1,6 +1,7 @@
 ---
-layout: page_urbanisme
+layout: page_section
 title: Plans de participació pública
+section: urbanisme
 ---
 +-- {.ppp}
 ### Pla de Participació Pública de l’estudi d’integració paisatgística per a la legalització d’habitatge Castelló, polígon 10, parcel·la 212

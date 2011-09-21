@@ -1,6 +1,7 @@
 ---
-layout: page_urbanisme
+layout: page_section
 title: Pla General Ordenació Urbana
+section: urbanisme
 jqueryui: true
 customjs: |
     $(function(){$('#accordion').accordion({allwaysOpen: false,active: false,header: 'h3',clearStyle: true});$('.acc-content-3').accordion({allwaysOpen: false,active: false,header: 'h4',clearStyle: true});$('.acc-content-4').accordion({allwaysOpen: false,active: false,header: 'h5',clearStyle: true});});

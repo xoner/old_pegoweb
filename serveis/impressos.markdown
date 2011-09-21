@@ -1,9 +1,8 @@
 ---
-layout: page_serveis
+layout: page_section
 title: Descàrrega d'Impressos
+section: serveis
 ---
-## Impressos
-
 +-- {: .impressos}
 
 ### Personal    {: .iserveis-hx }

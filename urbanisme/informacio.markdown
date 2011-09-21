@@ -1,6 +1,7 @@
 ---
-layout: page_urbanisme
+layout: page_section
 title: Urbanisme
+section: urbanisme
 ---
 ### Situació    {.urbanisme-hx}
 L'oficina d'urbanisme es troba situada al primer pis de l'Ajuntament de Pego.

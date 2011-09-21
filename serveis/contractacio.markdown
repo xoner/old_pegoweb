@@ -1,6 +1,6 @@
 ---
-layout: page_serveis
+layout: page_section
 title: Contractació
+section: serveis
 ---
-## Contractació
 Actualment no hi han documents publicats en aquesta secció.

@@ -1,9 +1,8 @@
 ---
-layout: page_serveis
+layout: page_section
 title: Telèfons d'interés
+section: serveis
 ---
-## Telèfons d'interés
-
 Entitat                                     | Telefon
 --------------------------------------------|----------
 Ajuntament                                  | **96 557 00 11**

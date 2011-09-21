@@ -1,9 +1,8 @@
 ---
-layout: page_serveis
+layout: page_section
 title: Normativa
+section: serveis
 ---
-## Normativa
-
 +-- {: .impressos }
 
 ### Ajuntament  {: .iajuntament-hx }
