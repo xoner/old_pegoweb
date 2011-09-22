@@ -1,34 +1,34 @@
-.ajuntament-hx{
+.ajuntament h1, .ajuntament h2, .ajuntament h3, .ajuntament h4, .ajuntament h5{
     color: #2e448d;
     border-bottom: 1px dotted #2e448d;
 }
 
-.economia-hx{
+.economia h1, .economia h2, .economia h3, .economia h4, .economia h5{
     color: #bb7c51;
     border-bottom: 1px dotted #bb7c51;
 }
 
-.serveis-hx{
+.serveis h1, .serveis h2, .serveis h3, .serveis h4, .serveis h5{
     color: #56A89C;
     border-bottom: 1px dotted #56A89C;
 }
 
-.educacio-hx{
+.educacio h1, .educacio h2, .educacio h3, .educacio h4, .educacio h5{
     color: #FF0066;
     border-bottom: 1px dotted #FF0066;
 }
 
-.esports-hx{
+.esports h1, .esports h2, .esports h3, .esports h4, .esports h5{
     color: #DA1C40;
     border-bottom: 1px dotted #DA1C40;
 }
 
-.medi-hx{
+.medi h1, .medi h2, .medi h3, .medi h4, .medi h5{
     color: #9EC301;
     border-bottom: 1px dotted #9EC301;
 }
 
-.urbanisme-hx{
+.urbanisme h1, .urbanisme h2, .urbanisme h3, .urbanisme h4, .urbanisme h5{
     color: #A6765F;
     border-bottom: 1px dotted #A6765F;
 }
@@ -38,6 +38,7 @@
     background-color: #2e448d;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }
 
 .ieconomia-hx{
@@ -45,6 +46,7 @@
     background-color: #bb7c51;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }
 
 .iserveis-hx{
@@ -52,6 +54,7 @@
     background-color: #56A89C;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }
 
 
@@ -60,6 +63,7 @@
     background-color: #DA1C40;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }
 
 .ieducacio-hx{
@@ -67,6 +71,7 @@
     background-color: #FF0066;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }
 
 .imedi-hx{
@@ -74,6 +79,7 @@
     background-color: #9EC301;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }
 
 .iurbanisme-hx{
@@ -81,4 +87,5 @@
     background-color: #A6765F;
     border-radius: 3px;
     padding: 3px;
+    border-bottom: none;
 }

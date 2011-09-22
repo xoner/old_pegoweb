@@ -1,3 +1,11 @@
 .educacio-header{
     background-color:#FF0066;
 }
+
+.educacio .tabs table>thead{
+    display: none;
+}
+
+.educacio .tabs table tbody>tr>td:first-child{
+    font-weight: bold;
+}

@@ -126,13 +126,13 @@ ul.secondary-menu li{
     font-weight: bolder;
 }
 
-li.down-excel{
+.down-excel{
     list-style-image: url('/images/excel_16_16.gif');
 }
-li.down-oocalc{
+.down-oocalc{
     list-style-image: url('/images/soffice_calc_16_16.gif');
 }
-li.down-pdf{
+.down-pdf{
     list-style-image: url("/images/file_acrobat.gif");
 }
 
