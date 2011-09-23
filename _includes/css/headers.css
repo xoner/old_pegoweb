@@ -34,58 +34,58 @@
 }
 
 .iajuntament-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #2e448d;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 .ieconomia-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #bb7c51;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 .iserveis-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #56A89C;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 
 .iesports-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #DA1C40;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 .ieducacio-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #FF0066;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 .imedi-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #9EC301;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }
 
 .iurbanisme-hx{
-    color: #fff;
+    color: #fff !important;
     background-color: #A6765F;
     border-radius: 3px;
     padding: 3px;
-    border-bottom: none;
+    border-bottom: none !important;
 }

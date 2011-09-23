@@ -2,10 +2,12 @@
 layout: page_section
 title: Mancomunitat de Serveis Socials i Turisme
 section: serveis
+jqueryui: true
 ---
-Sota construcció. En breu estarà disponible.
 {% comment %}
-<div id="tabs-centres">
+Sota construcció. En breu estarà disponible.
+{% endcomment %}
+<div id="tabs-centres" class="tabs">
     <ul>
         <li><a href="#presentacio">Presentació</a></li>
         <li><a href="#estructura">Estructura Orgànica</a></li>
@@ -14,7 +16,7 @@ Sota construcció. En breu estarà disponible.
         <li><a href="#activitats">Activitats</a></li>
         <li><a href="#telefons">Telèfons d'informació</a></li>
     </ul>
-    <div id="#presentacio">
+    <div id="presentacio">
         {% capture lContent %}{% include manco/presentacio.markdown %}{% endcapture %}
         {{ lContent | markdownify }}
     </div>
@@ -39,4 +41,3 @@ Sota construcció. En breu estarà disponible.
         {{ lContent | markdownify }}
     </div>
 </div>
-{% endcomment %}

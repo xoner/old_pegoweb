@@ -12,10 +12,10 @@ title: Noticies
         <header>
             <h2>{{ itPost.title}}</h2>
             <div class="post-info">
-                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date }}">{{ itPost.date | date: "%d de %m de %Y" }}</time>
+                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d de %m de %Y" }}</time>
             </div>
         </header>
-        <p>{{ itPost.content }}</p>
+        <div class="art-content">{{ itPost.content }}</div>
     </article>
 {% endfor %}
 </div>

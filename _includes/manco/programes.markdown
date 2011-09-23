@@ -43,78 +43,87 @@ Servei dirigit a tota la població en general per a donar informació, orientaci
 #### INSS:
 * Prestación por Hijo a cargo.
 
-Emergencia:
+### Emergencia
 Dirigit a paliar una situació de necessitat de una persona o del seu nucli de convivencia familiar, es tracta de necesitats de caràter bàsic i urgent, recolzat per un treball per reestabliment de la situació económicasocial de la persona o nucli familiar, prestació de caràcter temporal.
 
-Actuacions:
+### Actuacions:
 
 *Prestació Económica Reglada (P.E.R.). Dins del Pla de Medides de Inserció Social són prestacions econòmiques amb la finalitat de garantizar uns ingresos mínims a les persones físiques que manquen de medis de subsistencia i a més haja factors de risc, amb el fi de recolzar i afavorir la seua integració socio-laboral.
 *Ajudes econòmiques individualizades (P.E.I.). Ajudes dirigides a persones individuals o a nuclis de convivencia per atendre situacions greus, de necessitat o amb problemes específics que afecten a la seua autonomia personal, social i económica.
-Tipus d’Ajudes Econòmiques individualizades:
 
-Ajudes de Emergencia
-Us de la vivenda habitual.
-Accions extraordinaries.
-Necessitats bàsiques.
+### Tipus d’Ajudes Econòmiques individualizades:
 
-Ajudes per al desenvolupament de persones majors (més de 60 anys)
-Ajudes per a l’eliminació de barreres arquitectòniques en la vivenda.
-Ajudes tècniques (audifons, adaptació de la llar i utils).
-Adaptació de vehicle a motor.
+1. Ajudes de Emergencia
+    * Us de la vivenda habitual.
+    * Accions extraordinaries.
+    * Necessitats bàsiques.
 
-Ajudes de Acogimiento familiar (l’acolliment cal estar formalitzat) per a manutenció, despeses extraordinaries i disponibilitat.
-Acolliment familiar simple i permanent amb familia extensa o afí.
-Acolliment familiar simple i permanent amb persona o familia acollidora.
-Estancies temporals de menors amb persona o familia acollidora/educadora.
-Acolliment familiar simple i permanent en familia educadora de urgencia diagnòstic.
+2. Ajudes per al desenvolupament de persones majors (més de 60 anys)
+    * Ajudes per a l’eliminació de barreres arquitectòniques en la vivenda.
+    * Ajudes tècniques (audifons, adaptació de la llar i utils).
+    * Adaptació de vehicle a motor.
 
-Ajudes per a discapacitats (menors de 60 anys amb certificat de minusvalia).
-Desenvolupament Personal
+3. Ajudes de Acogimiento familiar (l’acolliment cal estar formalitzat) per a manutenció, despeses extraordinaries i disponibilitat.
+    * Acolliment familiar simple i permanent amb familia extensa o afí.
+    * Acolliment familiar simple i permanent amb persona o familia acollidora.
+    * Estancies temporals de menors amb persona o familia acollidora/educadora.
+    * Acolliment familiar simple i permanent en familia educadora de urgencia diagnòstic.
 
-Eliminació de barreres arquitectòniques.
-Adaptació de vehicle a motor.
-Ajudes tècniques (adaptació de la llar i utils)
-Atenció Institucional (majors de 16/18 anys i menors de 60 anys)
+<ol>
+<li>Ajudes per a discapacitats (menors de 60 anys amb certificat de minusvalia).
+<ul><li>Desenvolupament Personal
+<ul><li>Eliminació de barreres arquitectòniques.</li>
+<li>Adaptació de vehicle a motor.</li>
+<li>Ajudes tècniques (adaptació de la llar i utils)</li></ul></li>
+<li>Atenció Institucional (majors de 16/18 anys i menors de 60 anys)
+<ul><li>Enfermos mentales (mayores de 18 anys).</li>
+<li>Discapacitats psíquics, físics i sensorials  (majors de 16 anys)</li></ul></li></ul></li>
+</ol>
 
-Enfermos mentales (mayores de 18 anys).
-Discapacitats psíquics, físics i sensorials  (majors de 16 anys)
-Convivència:
+### Convivència
 Promoure la convivencia social i familiar, així com possibilitar la integració comunitaria, tot això per serveis d’assesorament i orientació, accions divulgatives generals i ajudes properes a la familia per a prevenir la desintegració familiar i posar remei a situacions de mancansa.
 
 SERVEIS:
+* Servei d’ajuda a domicili (SAD): consisteix en prestar ajuda en el propi domicili del beneficiari, oferint una sèrie d’atencions de carácter  domèstic, social, personal i educatiu, quan la situació individual o familiar siga d’especial necessitat, per promoure la permanencia en el nucli de convivencia.
+* Teleassitència. Servei d’atenció telefònica, mitjançant el qual el usuari esta atés durant 24 hores del dia,  front qualsevol situació d’emergencia o risc que passe en el domicili.
+* Acolliment Familiar. És una mesura de protecció que adopta l’entitat publica competent en materia de protecció (la Generalitat, mitjançant la Conselleria de Benestar Social), amb ella una persona o nucli familiar s’encarregarà de cuidar i vetlar per el benestar del menor en acollida. L’Equip Base informa del procediment d’inscripció en el registre de families educadores.
 
-Servei d’ajuda a domicili (SAD): consisteix en prestar ajuda en el propi domicili del beneficiari, oferint una sèrie d’atencions de carácter  domèstic, social, personal i educatiu, quan la situació individual o familiar siga d’especial necessitat, per promoure la permanencia en el nucli de convivencia.
-Teleassitència. Servei d’atenció telefònica, mitjançant el qual el usuari esta atés durant 24 hores del dia,  front qualsevol situació d’emergencia o risc que passe en el domicili.
-Acolliment Familiar. És una mesura de protecció que adopta l’entitat publica competent en materia de protecció (la Generalitat, mitjançant la Conselleria de Benestar Social), amb ella una persona o nucli familiar s’encarregarà de cuidar i vetlar per el benestar del menor en acollida. L’Equip Base informa del procediment d’inscripció en el registre de families educadores.
-Cooperació:
+### Cooperació
 Promoure, facilitar i potenciar la participació ciutadana i recolzar les organizacions comunitaries de iniciatives socials, posibilitar la creació d’associacions  i facilitar el voluntariat.
 
 ACTUACIONS:
 
-Recolzament a entitats.
-Assesorament a associacions.
-Subvencions a entitats, any 2007.
-Prevenció i Insercció. Desenvolupament de la intervenció social en persones o grups d’alt risc que necesiten d’ajuda, per a la prevenció de conflictes i la seua inserció personal en el medi social.
+* Recolzament a entitats.
+* Assesorament a associacions.
+* Subvencions a entitats, any 2007.
+
+### Prevenció i Insercció
+Desenvolupament de la intervenció social en persones o grups d’alt risc que necesiten d’ajuda, per a la prevenció de conflictes i la seua inserció personal en el medi social.
  
 Inserció. Promoure i facilitar la inserció sociofamiliar de les persones immigrants .
 
-SERVEIS IMMIGRANTS:
+### Serveis Inmigrants
 
-Elaboració d’informes de inserció social per arraigo.
-Elaboració d’informes per reagrupació familiar.
-Assesorament  jurídic per immigrants.
-Servei Discapacitats físics i psíquics
+* Elaboració d’informes de inserció social per arraigo.
+* Elaboració d’informes per reagrupació familiar.
+* Assesorament  jurídic per immigrants.
 
-Taller de Salut Mental.
-Logopèdia.
-Menors
+### Servei Discapacitats físics i psíquics
+* Taller de Salut Mental.
+* Logopèdia.
 
-Programa de Intervenció Familiar (PIF).
-Conductes addictives. Atenció i prevenció del abus de drogues, es desenvolupen actuacions per a evitar o reduir el comsum de sustancies toxiques. Servei d’orientació de carácter confidencial.
+### Menors
+* Programa de Intervenció Familiar (PIF).
+
+### Conductes addictives
+
+Atenció i prevenció del abus de drogues, es desenvolupen actuacions per a evitar o reduir el comsum de sustancies toxiques. Servei d’orientació de carácter confidencial.
 
 ACTUACIONS:
 
-Servei de informació i assesorament a tota la població. Atenció de la treballadora social de 9 a 13 en el c/ Lavadero nº5 .
-Atenció mitjaçant el correu electronic pegosense@hotmail.com.
-Campanya de sensibilització a les escoles i al institut de secundaria.
-Logopèdia. Treballa la prevenció, el diagnóstic i el tractament de les alteracions que afecten al lleguatge, la parla, l’audició, la veu, així com a la comprensió oral i escrita, dirigit a tota la població. Sol·licituds del servei mitjançant una cita prèvia amb la treballador social.
+* Servei de informació i assesorament a tota la població. Atenció de la treballadora social de 9 a 13 en el c/ Lavadero nº5 .
+* Atenció mitjaçant el correu electronic pegosense@hotmail.com.
+* Campanya de sensibilització a les escoles i al institut de secundaria.
+
+### Logopèdia
+Treballa la prevenció, el diagnóstic i el tractament de les alteracions que afecten al lleguatge, la parla, l’audició, la veu, així com a la comprensió oral i escrita, dirigit a tota la població. Sol·licituds del servei mitjançant una cita prèvia amb la treballador social.
