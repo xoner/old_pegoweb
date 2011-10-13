@@ -8,7 +8,7 @@ Les persones adultes es podran incorporar a la Formació Bàsica de Persones Adu
 
 ### Oferta educativa: Programes i cursos
 
-1. Programes d’alfabetització i d’iniciació a la formació bàsica.
+1. Programes d'alfabetització i d'iniciació a la formació bàsica.
 2. Programes per a adquirir i actualitzar la formació bàsica de les persones adultes fins a l’obtenció del títol de Graduat en Educació Secundària.
 3. Cursos de preparació per a la prova perquè els majors de 18 anys puguen obtindre directament el títol de Graduat en Educació Secundària.
 4. Cursos de preparació per a la prova d’accés als Cicles Formatius de Grau Mitjà.
@@ -24,4 +24,5 @@ La duració de cada curs depèn de la preparació prèvia de cada persona i del 
 +-- {.down-pdf}
 * [Programació Curs 2011/2012](/pdf/Educacio/prog20112012.pdf)
 * [Impres Sol·licitud de matricula 2011/2012](/pdf/Educacio/SolicitudFPA2011-2012.pdf)
+* [Horaris curs 2011/2012](/pdf/Educacio/horariFPA2011-2012.pdf)
 =--

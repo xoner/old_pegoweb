@@ -200,6 +200,8 @@ h2.urbanisme{
     padding: 0px 5px;
     border-radius: 5px;
     box-shadow: 5px 5px 2px #888;
+    -webkit-border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 2px #888;
 }
 
 #section-header-img{
@@ -219,6 +221,7 @@ h2, h3, h4{
 .publicBuilding{
     width: 300px;
     margin: 0 auto;
+    -webkit-box-shadow: #AAA 0px 10px 16px;
     box-shadow: #AAA 0px 10px 16px;
     background-color: #fff;
     padding: 10px;

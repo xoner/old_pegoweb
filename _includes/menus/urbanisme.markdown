@@ -1,4 +1,5 @@
 * [Informació](/urbanisme/informacio.html)
 * [Plans de participació pública](/urbanisme/participacio_publica.html)
+* [Exposició Pública](/urbanisme/exp_publica.html)
 * [PGOU](/urbanisme/pgou.php)
 * [Convenis Urbanístics](/urbanisme/convenis.html)

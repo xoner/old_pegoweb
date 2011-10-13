@@ -11,6 +11,7 @@
 }
 
 .esports .ui-tabs>ul>li{
+    -webkit-border-radius: 5px;
     border-radius: 5px;
     border-bottom: 1px solid lightGrey !important;
 }

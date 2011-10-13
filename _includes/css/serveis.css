@@ -10,6 +10,7 @@
 .serveis .oferta-treball, .ppp{
     border: 1px solid #acacac;
     padding: 20px;
+    -webkit-box-shadow: #AAA 0px 10px 16px;
     box-shadow: #AAA 0px 10px 16px;
     margin-bottom: 25px;
     background-color: #fff;
