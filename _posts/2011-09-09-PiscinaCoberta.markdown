@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Reobertura piscina coberta de Pego
 author: Regidoria d'esports
 ---

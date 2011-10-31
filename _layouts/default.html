@@ -3,6 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="generator" content="jekyll">
+    <meta name="keywords" content="ajuntament, ayuntamiento, pego, alicante, alacant, informacio, informacion" />
+{% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+{% endif %}
     <title>{{ site.title }} - {{ page.title }}</title>
     <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="/style/blueprint/screen.css" type="text/css" media="screen, projection" />
@@ -10,7 +14,6 @@
     <!--[if lt IE 8]><link rel="stylesheet" href="/style/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
     <link rel="stylesheet" href="/fonts/TitilliumText/stylesheet.css" media="all" />
     <link rel="stylesheet" href="/style/global.css" type="text/css" media="screen, projection" />
-    <link rel="stylesheet" href="/style/front_page.css" type="text/css" media="screen, projection" />
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
 {% if page.jqueryui %}
@@ -21,7 +24,7 @@
 <body>
     <div class="container">
         <div class="span-24 last header">
-           <h1 id="main-title">Ajuntament de Pego<span></span></h1>
+           <h1 id="main-title">Ajuntament de Pego<a href="/"><span></span></a></h1>
            <object name="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="594" height="125" style="margin-left: 115px;" data="/images/bannerintro.swf" type="application/x-shockwave-flash">
                 <param name="movie" value="/images/bannerintro.swf"/>
                 <!--[if !IE]>-->

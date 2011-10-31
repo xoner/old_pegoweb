@@ -1,0 +1,73 @@
+/* Menu
+-------------------------------------*/
+.menu-ajuntament .current{
+    background-color: #2E448D;
+}
+
+/* Headers
+---------------------------------------*/
+.ajuntament-header{
+    background-color: #2E448D;
+}
+
+/* Tables
+---------------------------------------*/
+.ajuntament thead{
+    display: none;
+}
+.ajuntament table{
+    padding: 10px;
+    box-shadow: #AAA 0px 10px 16px;
+    background-color: #fff;
+}
+.ajuntament td{
+    border-bottom: 1px dotted #000;
+}
+
+/* Fitxes Regidors
+-----------------------------------------*/
+.fitxa-regidor{
+    border: 2px solid #2E448D;
+    border-radius: 3px;
+    margin: 10px auto;
+    width: 500px;
+}
+
+.fitxa-regidor .name{
+    background-color: #2E448D;
+    background-image: linear-gradient(bottom, rgb(75,91,143) 35%, rgb(46,68,141) 68%, rgb(46,68,141) 84%);
+    background-image: -o-linear-gradient(bottom, rgb(75,91,143) 35%, rgb(46,68,141) 68%, rgb(46,68,141) 84%);
+    background-image: -moz-linear-gradient(bottom, rgb(75,91,143) 35%, rgb(46,68,141) 68%, rgb(46,68,141) 84%);
+    background-image: -webkit-linear-gradient(bottom, rgb(75,91,143) 35%, rgb(46,68,141) 68%, rgb(46,68,141) 84%);
+    background-image: -ms-linear-gradient(bottom, rgb(75,91,143) 35%, rgb(46,68,141) 68%, rgb(46,68,141) 84%);
+
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.35, rgb(75,91,143)),
+        color-stop(0.68, rgb(46,68,141)),
+        color-stop(0.84, rgb(46,68,141))
+    );
+    color: #fff;
+    padding: 5px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.fitxa-regidor .info{
+    padding: 5px 10px 0;
+    background-color: #fff;
+}
+
+.fitxa-regidor .role .primary{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.fitxa-regidor .role .secondary{
+    font-size: 0.9em;
+}
+
+
+

@@ -1,0 +1,89 @@
+---
+layout: post
+title: Fira de Comerç 2011
+author: Ajuntament de Pego
+longPost: true
+---
+<a href="http://www.pego.org/images/news/11272011-FiraComerc_big.png" class="inline-image" target="_blank">
+    <img src="http://www.pego.org/images/news/11272011-FiraComerc_small.png" alt="Fira de comerç a Pego 2011" />
+</a>
+
+Els dies 29 i 30 d'octubre es celebrarà la Fira de Comerç de Pego al recinte del Mercat municipal i la Plaça de les germanes de la Puríssima Concepció.
+
+La inauguració de la VIII Fira de Comerç amb les autoritats locals serà el dissabte 29 a les 12:00, i durant la resta del dia i el diumenge tindrem tallers, tast de vi, partida de pilota, càsting de “model per un dia”, excursions, desfilades de moda, concert, i moltes activitats més a càrrec de comerços, empreses i associacions del nostre poble. 
+
+A més hi haurà una fira artesanal, un arbre dels desitjos, activitats per als més menuts i també per als no tan menuts, i  assaborir menjars tradicionals.
+
++-- {: .clear .center}
+Vine a la Fira de Comerç de Pego i <strong>APEGA'T A PEGO</strong>
+=--
+
+<!-- -**-END-**- -->
+
+### Comerços i empreses participants {: .clear}
+* AJUDA’T +
+* ARIAL
+* BABAANCA
+* BOBEY
+* BOLTA
+* BON FORN
+* CARNISSERIA GUIXOT
+* COMMODA
+* COMPANATGES
+* EDUCAJOCS
+* EL BOLLIT FORMACIÓ I GASTRONOMIA
+* ESPAI MOBLES
+* FERSER MOBLES
+* HABITAT PEGO
+* MANUEL REQUENA FOTÒGRAF
+* MODA MM
+* NEXO CENTRE VETERINARI
+* NOU STIL
+* OPTICA PEGO
+* PEPA GONZALEZ
+* PETIT INFANT
+* REGALS I COMPLEMENTS R.M. MATEU
+* SPORTS LA CASA
+* XICS
+
+### Programació d'activitats
+
+{% comment %}
+Nota: a les llistes es posa un &nbsp; al principi per que si no el conversor de markdown es ratlla a l'hora de convertir el marcat.
+{% endcomment %}
+
+#### Dissabte, 29 d’octubre
+
++-- {: .highlight-time}
+* &nbsp;<time datetime="2011-11-2912:00:00">12.00</time> Inauguració de la VIII Fira de Comerç amb les autoritats locals.
+* &nbsp;<time datetime="2011-11-2912:30:00">12.30</time> Taller de primers auxilis i portes obertes de l’ambulància a càrrec d’Acció Urgent.
+* &nbsp;<time datetime="2011-11-2912:30:00">12.30</time> Tast de Vi en el bar/restaurant Zorrilla a càrrec de ‘Manzanilla La Guita’ de Bodegas José Esteve.
+* &nbsp;<time datetime="2011-11-2917:00:00">17.00</time> Partida de Pilota a càrrec del ‘Club de Pilota de Pego’ i el ‘Club de Pilota de Dénia en el carrer La Pau.
+* &nbsp;<time datetime="2011-11-2917:30:00">17.00</time> Càsting ‘Model per un dia’ a càrrec de Manuel Requena Fotògraf i Òptica Pego.
+* &nbsp;<time datetime="2011-11-2917:00:00">17.00 a 19.00</time> Taller de manualitats a càrrec dels Scouts
+* &nbsp;<time datetime="2011-11-2918:00:00">18.00 a 19.00</time> Taller de bunyols a càrrec de la parròquia ‘Nostra Senyora de l’Assumpció’.
+=--
+
+#### Diumenge, 30 d’octubre
+
++-- {: highlight-time}
+* &nbsp;<time datetime="2011-11-3009:00:00">9.00</time> Eixida de recollida de plantes aromàtiques a càrrec de la Societat per la Integració de les Teràpies Holístiques.
+* &nbsp;<time datetime="2011-11-3011:00:00">11.00 a 13.00</time> Taller de manualitats a càrrec dels Scouts.
+* &nbsp;<time datetime="2011-11-3012:00:00">12.00</time> Passarel·la de roba canina a càrrec de ‘Nexo Centre Veterinari’.
+* &nbsp;<time datetime="2011-11-3012:00:00">12.00 a 13.00</time> Taller de bunyols a càrrec de la parròquia ‘Nostra Senyora de l’Assumpció’.
+* &nbsp;<time datetime="2011-11-3017:00:00">17.00</time> Càsting ‘Model per un dia’ a càrrec de Manuel Requena Fotògraf i Òptica Pego.
+* &nbsp;<time datetime="2011-11-3018:30:00">18.30</time> Desfilada de roba de xiquets a càrrec de Petit Infant
+* &nbsp;<time datetime="2011-11-3020:00:00">20.00</time> Concert de Quintet de Metall i cloenda de la Fira
+=--
+
+#### I durant els dos dies hi haurà:
+* Al voltant de la fira hi haurà també fira artesanal.
+* L’arbre dels desitjos. Penja el teu desig. Serà nombrat en Radio Pego
+* Tobogan inflable per a menuts
+* Menjar tradicional a càrrec de la parròquia ‘Nostra Senyora de l’Assumpció’
+* Menjar tradicional a càrrec del Convent dels Franciscans amb taller de dibuixos per a pintar i la entrega d’un còmic de Sant Francesc
+* Menjar tradicional dolç a càrrec dels Juniors amb tallers per a xiquets
+* Centre excursionista de Pego (audiovisuals)
+* Obrint Camí
+* Dones Cabal
+* Mostra de autors pegolins i venda de bufandes artesanals a càrrec de les filades capitanes 2012: Filà Alaçdrach i Filà Templaries, i també, ‘La biga del gall’, vine i participa pots guanyar premis!!!

@@ -33,5 +33,11 @@
     border-bottom: 1px dotted #000;
 }
 
+/* Menu
+---------------------------------------*/
+.menu-serveis .current{
+    background-color: #56A89C;
+}
+
 
 

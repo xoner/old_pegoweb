@@ -3,19 +3,33 @@ layout: front_page
 title: Noticies
 ---
 <div class="news-header content-header">
-    <img id="section-header-img" src="images/news-header.jpg" alt="noticies" />
+    <img id="section-header-img" src="/images/news-header.jpg" alt="noticies" />
+    <span class="social">
+        <a href="http://feeds.feedburner.com/AjuntamentDePego"><img src="images/feed.png" alt="feed" title="sindicacio" /></a>
+        <a href="http://www.facebook.com/pages/Ajuntament-de-Pego/210367298986788">
+            <img src="/images/facebook.png" alt="facebook" title="Polsa m'agrada en facebook" />
+        </a>
+        <a href="http://twitter.com/#!/ajupego">
+            <img src="/images/twitter.png" alt="twitter" title="Segueix-nos en twitter" />
+        </a>
+    </span>
 </div>
 <!-- NEWS -->
 <div class="span-13 news">
 {% for itPost in site.posts limit:10 %}
     <article>
         <header>
-            <h2>{{ itPost.title}}</h2>
+            <h2><a href="{{itPost.url}}">{{ itPost.title}}</a></h2>
             <div class="post-info">
-                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d de %m de %Y" }}</time>
+                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d del %m de %Y" }}</time>
             </div>
         </header>
-        <div class="art-content">{{ itPost.content }}</div>
+        <div class="art-content">
+            {{ itPost.preview }}
+            {% if itPost.longPost %}
+            <a class="read-more" href="{{itPost.url}}">Continuar llegint...</a>
+            {% endif %}
+        </div>
     </article>
 {% endfor %}
 </div>

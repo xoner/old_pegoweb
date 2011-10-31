@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 author: Ajuntament de Pego
 title: Martin Berasategui visitarà terres Pegolines
 published: false

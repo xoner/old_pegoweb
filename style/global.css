@@ -44,6 +44,7 @@ body{
 }
 
 .section-menu ul li a{
+    color: #666666;
     margin: auto;
 }
 
@@ -72,11 +73,12 @@ ul.secondary-menu li{
     padding: 2px;
 }
 
-.listHeader{
+.section-menu ul li strong{
     font-weight: bold;
     font-size: 1.2em;
     background-color: #979797;
     color: #dff1e8;
+    display: block
 }
 
 #main-title{
@@ -137,11 +139,11 @@ ul.secondary-menu li{
 }
 
 a:link, .ui-widget-content div a:link {
-    color:#666666;
+    color:#6495be;
     text-decoration:none;
 }
 a:visited, .ui-widget-content div a:visited{
-    color:#666666;
+    color:#6495be;
     text-decoration:none;
 }
 a:hover, .ui-widget-content div a:hover {
@@ -240,6 +242,16 @@ h2, h3, h4{
     margin: 0;
 }
 
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.robots-only{
+    display: none;
+    width: 0px;
+}
+
 {% include css/serveis.css %}
 
 {% include css/esports.css %}
@@ -247,6 +259,14 @@ h2, h3, h4{
 {% include css/urbanisme.css %}
 
 {% include css/educacio.css %}
+
+{% include css/post.css %}
+
+{% include css/front_page.css %}
+
+{% include css/ajuntament.css %}
+
+{% include css/economia.css %}
 
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");

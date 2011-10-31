@@ -1,0 +1,13 @@
+---
+layout: blog_layout
+---
+<article class="long-view">
+    <header>
+        <h2>{{ page.title }}</h2>
+        <div class="info">
+            Publicat per <span class="author">{{ page.author }}</span> el 
+            <time datetime="{{ page.date | date: "%Y-%m-%d }}">{{ page.date | date: "%d del %m de %Y" }}</time>
+       </div>
+    </header>
+    {{content}}
+</article>

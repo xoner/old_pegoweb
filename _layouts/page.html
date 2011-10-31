@@ -7,12 +7,14 @@ layout: default
         <param name="quality" value="high"/>
         <embed src="/legacy_flash/tornar.swf" type="application/x-shockwave-flash" width="204" height="37"/>
       </object>
-    <div class="section-menu">
+    <div class="section-menu{%if page.section %} menu-{{page.section}}{%endif%}">
         {% case page.section %}
         {% when 'serveis' %} {% capture sidebar %}{% include menus/serveis.markdown %}{% endcapture %}
         {% when 'esports' %} {% capture sidebar %}{% include menus/esports.markdown %}{% endcapture %}
         {% when 'urbanisme' %} {% capture sidebar %}{% include menus/urbanisme.markdown %}{% endcapture %}
         {% when 'educacio' %} {% capture sidebar %}{% include menus/educacio.markdown %}{% endcapture %}
+        {% when 'ajuntament' %} {% capture sidebar %}{% include menus/ajuntament.markdown %}{% endcapture %}
+        {% when 'economia' %} {% capture sidebar %}{% include menus/economia.markdown %}{% endcapture %}
         {% else %}
         {% endcase %}
         {{ sidebar | markdownify }}

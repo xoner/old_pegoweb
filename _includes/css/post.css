@@ -1,0 +1,14 @@
+.long-view h1, .long-view h2, .long-view h3, .long-view h4, .long-view h5{
+    color: #8F030C;
+    border-bottom: 2px dotted #4A5EE3;
+}
+
+.long-view .info{
+    font-size: 0.8em;
+    text-align: right;
+    margin: -15px 0 10px 0;
+}
+
+.long-view .info .author, .long-view .info time{
+    font-weight: bolder;
+}
