@@ -5,5 +5,6 @@
 * [Llibre d'honor](/ajuntament/llibre_honor.html)
 * **Organització Política**
 * [Equip de govern](/ajuntament/equip_govern.html)
+* [Junta de govern](/ajuntament/junta_govern.html)
 * [Grups politics](/ajuntament/grups_politics.html)
 * [Ple](/ajuntament/ple.html)

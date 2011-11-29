@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-language" content="ca">
+    <meta name="generator" content="jekyll">
+    <meta name="keywords" content="ajuntament, ayuntamiento, pego, alicante, alacant, informacio, informacion" />
+{% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+{% endif %}
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="/style/blueprint/screen.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/style/blueprint/print.css" type="text/css" media="print" />
+    <!--[if lt IE 8]><link rel="stylesheet" href="/style/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+    <link rel="stylesheet" href="/fonts/TitilliumText/stylesheet.css" media="all" />
+    <link rel="stylesheet" href="/style/global.css" type="text/css" media="screen, projection" />
+    <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+{% if page.jqueryui %}
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="/style/jquery-ui/jquery-ui-1.8.2.custom.css" type="text/css" media="screen, projection" />
+{% endif %}
+</head>
+<body>
+    <div class="container">
+        <div class="span-24 last header">
+           <h1 id="main-title">Ajuntament de Pego<a href="/"><span></span></a></h1>
+           <object name="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="594" height="125" style="margin-left: 115px;" data="/images/bannerintro.swf" type="application/x-shockwave-flash">
+                <param name="movie" value="/images/bannerintro.swf"/>
+                <!--[if !IE]>-->
+                <object type="application/x-shockwave-flash" data="images/bannerintro.swf" width="594" height="125">
+                <!--<![endif]-->
+                <p>You need to have flash player installed to see this content</p>
+                <!--[if !IE]>-->
+                </object>
+                <!--<![endif]-->
+           </object>
+        </div>
+        {{ content }}
+        <div class="span-22 last footer">
+            <p id="footer-info">
+            <span class="vcard">
+                <a class="fn org url" href="http://www.pego.org">M.I. Ajuntament de Pego.</a>
+                <span class="adr">
+                    <span class="type">Work</span>
+                    <span class="street-address">Pla&#231;a ajuntament n&#186; 1</span>
+                    <span class="locality">Pego</span>
+                    (<span class="region" title="Alacant">Alacant</span>)
+                    <span class="postal-code">03780</span>
+                    <span class="country-name">ES</span>
+                    <span class="tel"><span class="type">Work</span> 965570011</span>
+                    <span class="tel"><span class="type">Fax</span> 965572583</span>
+                </span>
+            </span> 
+            <span></span></p>
+        </div>
+        <div class="span-2 prepend-11 append-11 last foot-banners">
+            <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.pego.org%2F">
+                <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="116" height="45" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
+            </a>
+        </div>
+    </div>
+<script type="text/javascript">
+//<![CDATA[
+    $(function(){
+        $('.tabs').tabs();
+    });
+    $(window).load(function(){
+        $('.section-menu a').each(function(){
+            if(this.href == window.location.href){
+                $(this).parents('li').addClass('current');
+            }
+        });
+    });
+    {% if page.customjs %}
+    {{page.customjs}}
+    {% endif %}
+    // Google analitics
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-16993222-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+//]]>
+</script>
+</body>
+</html>

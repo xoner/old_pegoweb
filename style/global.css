@@ -55,7 +55,7 @@ body{
 }
 
 .section-menu ul li.current a, .section-menu ul li.current a:HOVER{
-    color: #c0c0c0;
+    color: #fff;
 }
 
 ul.secondary-menu{
@@ -252,6 +252,25 @@ h2, h3, h4{
     width: 0px;
 }
 
+/* Fancy box galleries */
+.img-cont{
+    list-style: none;
+    display: inline-block;
+    width: 175px;
+    height: 125px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.img-cont img{
+    margin: 0 auto;
+    display: block;
+}
+
+.image-gallery{
+    margin-top: 45px;
+}
+
 {% include css/serveis.css %}
 
 {% include css/esports.css %}
@@ -267,6 +286,10 @@ h2, h3, h4{
 {% include css/ajuntament.css %}
 
 {% include css/economia.css %}
+
+{% include css/medi.css %}
+
+{% include css/cultura.css %}
 
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");

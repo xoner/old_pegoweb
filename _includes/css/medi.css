@@ -1,0 +1,11 @@
+.medi-header{
+    background-color: #9EC301;
+}
+
+.menu-medi .current{
+    background-color: #9EC301;
+}
+
+.sancions tr td{
+    border-bottom: 1px dotted #9EC301;
+}

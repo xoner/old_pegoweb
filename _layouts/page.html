@@ -15,6 +15,8 @@ layout: default
         {% when 'educacio' %} {% capture sidebar %}{% include menus/educacio.markdown %}{% endcapture %}
         {% when 'ajuntament' %} {% capture sidebar %}{% include menus/ajuntament.markdown %}{% endcapture %}
         {% when 'economia' %} {% capture sidebar %}{% include menus/economia.markdown %}{% endcapture %}
+        {% when 'medi' %}{% capture sidebar%}{% include menus/medi.markdown %}{% endcapture %}
+        {% when 'cultura' %}{% capture sidebar %}{% include menus/cultura.markdown %}{% endcapture %}
         {% else %}
         {% endcase %}
         {{ sidebar | markdownify }}

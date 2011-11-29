@@ -1,0 +1,21 @@
+---
+layout: page_section
+section: cultura
+jqueryui: true
+title: Biblioteca pública municipal
+description: breu història sobre la biblioteca aixi com informació sobre la localització i els horaris de la biblioteca
+---
+<div class="tabs">
+    <ul>
+        <li><a href="#historia">Historia de la biblioteca</a></li>
+        <li><a href="#horaris">Localització, horaris i serveis</a></li>
+    </ul>
+    <div id="historia">
+        {% capture lContent %}{% include cultura/biblioteca/historia.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="horaris">
+        {% capture lContent %}{% include cultura/biblioteca/horaris.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+</div>

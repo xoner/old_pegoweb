@@ -2,6 +2,10 @@
     background-color:#DA1C40;
 }
 
+.menu-esports .current{
+    background-color: #DA1C40;
+}
+
 .esports time{
     font-weight: bold;
 }

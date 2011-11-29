@@ -1,0 +1,21 @@
+.cultura-header{
+    background-color: #049BD2;
+}
+
+.cultura p{
+    text-align: justify;
+}
+
+.menu-cultura .current{
+    background-color: #049BD2;
+}
+
+#vista-general img{
+    margin: 10px auto;
+    display: block;
+}
+
+.museu-img-cont{
+    margin: 10px auto;
+    text-align: center;
+}

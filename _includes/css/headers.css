@@ -33,6 +33,11 @@
     border-bottom: 1px dotted #A6765F;
 }
 
+.cultura h1, .cultura h2, .cultura h3, .cultura h4, .cultura h5{
+    color: #049BD2;
+    border-bottom: 1px dotted #049BD2;
+}
+
 .iajuntament-hx{
     color: #fff !important;
     background-color: #2e448d;
@@ -85,6 +90,15 @@
 .iurbanisme-hx{
     color: #fff !important;
     background-color: #A6765F;
+    border-radius: 3px;
+    padding: 3px;
+    border-bottom: none !important;
+}
+
+
+.icultura-hx{
+    color: #fff !important;
+    background-color: #049BD2;
     border-radius: 3px;
     padding: 3px;
     border-bottom: none !important;

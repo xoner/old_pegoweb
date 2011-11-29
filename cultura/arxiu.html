@@ -1,0 +1,26 @@
+---
+layout: page_section
+section: cultura
+jqueryui: true
+title: Arxiu municipal
+imggallery: true
+---
+<div class="tabs">
+    <ul>
+        <li><a href="#historia">Arxiu municipal de Pego</a></li>
+        <li><a href="#galeria">Galeria</a></li>
+        <li><a href="#horaris">Localització i horaris</a></li>
+    </ul>
+    <div id="historia">
+        {% capture lContent %}{% include cultura/arxiu/historia.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+    <div id="galeria">
+        {% capture lContent %}{% include cultura/arxiu/galeria.html %}{% endcapture %}
+        {{ lContent }}
+    </div>
+    <div id="horaris">
+        {% capture lContent %}{% include cultura/arxiu/horaris.markdown %}{% endcapture %}
+        {{ lContent | markdownify }}
+    </div>
+</div>
