@@ -10,8 +10,11 @@ Carrer Metge Joaquim Pastor Alentado 5
 **Telèfon de contacte**: 965571501
 =--
 
-+-- {.timetable}
++-- {:.timetable}
 #### Horaris    {.esports-hx}
++--{: .update}
+A Partir del dilluns dia 14 de novembre, la piscina coberta redu&iuml;rà el seu horari de natació lliure, obrint a les 11h del matí i tancant a les 21h de la nit. El gimnàs i les classes d' Spining es mantindràn al seu horari normal. Regidoria d'Esports
+=--
 * **Dilluns, dimecres i divendres** de <time>09:00</time> fins a <time>22:00</time>
 * **Dimarts i dijous** de <time>10:00</time> fins a <time>22:00</time>
 * **Dissabte i Diumenge** de **10:00** fins a **14:00**
