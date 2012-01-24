@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 title: Ocupació Pública
 section: serveis
 ---

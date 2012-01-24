@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: cultura
 title: Museu d'art contemporani
 jqueryui: true

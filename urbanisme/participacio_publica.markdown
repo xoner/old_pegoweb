@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 title: Plans de participació pública
 section: urbanisme
 ---

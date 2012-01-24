@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: medi
 title: PAMER, Programa d'ajudes a les actuacions mediambientals
 ---

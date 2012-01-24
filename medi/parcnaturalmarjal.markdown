@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: medi
 title: Parc natural de la marjal
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: ajuntament
 title: Secretaria de l'alcalde
 ---

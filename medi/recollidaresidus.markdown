@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: medi
 title: Informació i normativa sobre la recollida de residus
 ---

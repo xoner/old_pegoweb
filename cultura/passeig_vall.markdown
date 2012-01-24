@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: cultura
 ---
 El terme e Pego està farcit de restes arqueològiques que ens diuen d'alguna manera que l'home des de molt antic ha viscut en aquesta vall beneficiada pel paisatge de muntanya, la proximitat de la Mediterrània i l'abundància d'aigua.

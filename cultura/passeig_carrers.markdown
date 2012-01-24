@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: cultura
 title: Passeig per carrers que respiren historia
 ---

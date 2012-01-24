@@ -1,5 +1,5 @@
 ---
-layout: page_section
+layout: page
 section: economia
 title: agenda 21
 ---
