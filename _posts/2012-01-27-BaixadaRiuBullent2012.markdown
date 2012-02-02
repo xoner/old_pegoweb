@@ -22,7 +22,7 @@ Podeu inscriure's descarregar-se la sol·licitud i presentant-al a l'Ajuntament,
 *Per a qualsevol dubte o qüestió, dirigir-se a la Regidoria de Festes (2on pis Ajuntament).*
 
 +-- {: .center}
-### GAUDIM DE L'AUTÈNTIQUES FESTES DE PEGO.
+### GAUDIM DE LES AUTÈNTIQUES FESTES DE PEGO.
 =--
 
 +-- {: .impressos}
