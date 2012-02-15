@@ -38,6 +38,11 @@
     margin: 0 0 1.2em 0;
 }
 
+.news article time{
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+
 .news article header h2 a, .news h2 a{
     color: #8f030c;
 }

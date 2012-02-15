@@ -294,3 +294,7 @@ h2, h3, h4{
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");
 }
+
+.no-list ul{
+    list-style: none;
+}

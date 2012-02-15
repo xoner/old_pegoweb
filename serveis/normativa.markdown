@@ -9,7 +9,7 @@ section: serveis
 * [Inscripció Associacions](/pdf/Ajuntament/Inscripcio_Associacions.pdf)
 
 ### Hisenda {: .ieconomia-hx }
-* [Ordenances Fiscals](/pdf/Varies/ordenances.pdf)
+* [Ordenances Fiscals](/pdf/hisenda/ordenances2012.pdf)
 
 ### Serveis Socials {: .iserveis-hx }
 * [Llei de Promoció de l'autonomia personal i atencióles persones en situació de dependència](/pdf/Ssocials/Llei_Dependencia.pdf)
