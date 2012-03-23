@@ -28,6 +28,20 @@
     border-radius: 5px;
 }
 
+.avanza{
+    margin: 10px 0;
+}
+.avanza .logos{
+    display: block;
+    width: 590px;
+    margin: 0px auto;
+}
+
+.avanza .slogan{
+    text-align: center;
+    color: #B1B2A2;
+}
+
 .banner{
     margin-bottom: 5px;
 }

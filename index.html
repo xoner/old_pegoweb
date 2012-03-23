@@ -1,6 +1,7 @@
 ---
 layout: front_page
 title: Noticies
+show_avanza: true
 ---
 <div class="news-header content-header">
     <img id="section-header-img" src="/images/news-header.jpg" alt="noticies" />
@@ -16,7 +17,8 @@ title: Noticies
 </div>
 <!-- NEWS -->
 <div class="span-13 news">
-{% for itPost in site.posts limit:5 %}
+{% for itPost in site.posts limit:6 %}
+    {% if itPost.skip_front == null or itPost.skip_front == false %}
     <article>
         <header>
             <h2><a href="{{itPost.url}}">{{ itPost.title}}</a></h2>
@@ -31,6 +33,7 @@ title: Noticies
             {% endif %}
         </div>
     </article>
+    {% endif %}
 {% endfor %}
 </div>
 <!-- END NEWS -->

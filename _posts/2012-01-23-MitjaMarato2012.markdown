@@ -2,6 +2,7 @@
 layout: post
 title: II Mitja marató
 author: Regidoria d'Esports
+skip_front: true
 ---
 <a href="http://www.pego.org/images/news/20120123_mitja_marato_2012_big.jpg" title="Cartell Mitja Marató 2012" class="inline-image" target="_blank">
     <img src="http://www.pego.org/images/news/20120123_mitja_marato_2012_small.jpg" alt="Cartell Mitja Marató 2012" />

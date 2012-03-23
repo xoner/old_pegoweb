@@ -2,6 +2,7 @@
 layout: post
 title: Programació Carnestoltes 2012
 author: Regidoria de Festes
+skip_front: true
 ---
 <a href="http://www.pego.org/images/news/01092012_carnestoltes_cartell_2012_big.jpg" title="Cartell Carnestoltes 2012" class="inline-image" target="_blank">
     <img src="http://www.pego.org/images/news/01092012_carnestoltes_cartell_2012_small.jpg" alt="Cartell Carnestoltes 2012" />

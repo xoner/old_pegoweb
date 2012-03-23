@@ -2,6 +2,7 @@
 layout: post
 title: XXVII Baixada Del Riu Bullent
 author: Regidoria de Festes
+skip_front: true
 ---
 <a href="http://www.pego.org/images/news/20120127_BaixadaRiuBullent_big.jpg" title="Cartell Carnestoltes 2012" class="inline-image" target="_blank">
     <img src="http://www.pego.org/images/news/20120127_BaixadaRiuBullent_small.jpg" alt="Cartell Carnestoltes 2012" />

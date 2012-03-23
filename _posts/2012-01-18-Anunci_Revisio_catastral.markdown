@@ -2,6 +2,7 @@
 layout: post
 title: Comunicació sobre la revisió cadastral
 author: Regidoria d'Urbanisme
+skip_front: true
 ---
 +-- {: .center}
 #### La Regidoria d'Urbanisme de l' Ajuntament de Pego INFORMA 
