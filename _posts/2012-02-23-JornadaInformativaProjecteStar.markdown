@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jornada Informativa Projecte STAR d'Hiberdrola. Substitució dels equips de mesura elèctrica.
+title: Jornada Informativa Projecte STAR d'Iberdrola. Substitució dels equips de mesura elèctrica.
 author: Regidoria d'Urbanisme
 ---
 
