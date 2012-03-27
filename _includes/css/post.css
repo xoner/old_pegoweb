@@ -12,3 +12,8 @@
 .long-view .info .author, .long-view .info time{
     font-weight: bolder;
 }
+
+.long-view time{
+	font-weight: bold;
+	font-size: 1.1em;
+}
