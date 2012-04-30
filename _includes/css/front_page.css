@@ -90,4 +90,9 @@
     display: block;
     margin: 0 0 15px 10px;
 }
+
+.salone-image-title{
+    text-align: center;
+    font-size: 0.9em;
+}
 /* end news images layouts */
