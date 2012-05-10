@@ -1,6 +1,7 @@
 ---
 title: I Setmana Gastronòmica de l'arròs Bomba Pego
 author: Regidoria de Turisme
+layout: post
 ---
 <a href="/images/news/20120425_cartell_jornades_arros_big.png" title="I Setmana Arros" class="salone-image center" target="_blank">
     <img src="/images/news/20120425_cartell_jornades_arros_small.png" alt="I Setmana Arros" />
