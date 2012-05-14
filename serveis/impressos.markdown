@@ -21,6 +21,7 @@ section: serveis
 
 
 ### Urbanisme    {: .iurbanisme-hx }
-* [Sol·licitud llicència municipal edificació (Obra Menor)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMenor.pdf)
+* [Sol·licitud llicència municipal edificació (Obra Menor A3)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMenor_A3.pdf)
+* [Sol·licitud llicència municipal edificació (Obra Menor A4)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMenor_A4.pdf)
 * [Sol·licitud llicència municipal edificació (Obra Major)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMajor.pdf)
 =--
