@@ -10,3 +10,5 @@
 * [Passeig per carrers que respiren història](/cultura/passeig_carrers.html)
 * [Galeria d'imatges](/cultura/galeria_imatges.html)
 * [Pego en blanc i negre](/cultura/blanc_negre.html)
+* **Certamen Nacional de Pintura Vila de Pego**
+* [XXXVI Edició](/cultura/certamen_pintura/XXXVI.html)
