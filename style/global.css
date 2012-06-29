@@ -223,8 +223,9 @@ h2, h3, h4{
 .publicBuilding{
     width: 300px;
     margin: 0 auto;
-    -webkit-box-shadow: #AAA 0px 10px 16px;
-    box-shadow: #AAA 0px 10px 16px;
+    -webkit-box-shadow: #AAA 0 10px 16px;
+    -moz-box-shadow: #AAA 0 10px 16px;
+    box-shadow: #AAA 0 10px 16px;
     background-color: #fff;
     padding: 10px;
 }
@@ -294,6 +295,10 @@ h2, h3, h4{
 {% include css/medi.css %}
 
 {% include css/cultura.css %}
+
+{% include css/turisme.css %}
+
+{% include css/festes.css %}
 
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");

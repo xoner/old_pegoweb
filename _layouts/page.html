@@ -17,6 +17,8 @@ layout: default
         {% when 'economia' %} {% capture sidebar %}{% include menus/economia.markdown %}{% endcapture %}
         {% when 'medi' %}{% capture sidebar%}{% include menus/medi.markdown %}{% endcapture %}
         {% when 'cultura' %}{% capture sidebar %}{% include menus/cultura.markdown %}{% endcapture %}
+        {% when 'turisme' %}{% capture sidebar %}{% include menus/turisme.markdown %}{% endcapture %}
+        {% when 'festes' %}{% capture sidebar %}{% include menus/festes.markdown %}{% endcapture %}
         {% else %}
         {% endcase %}
         {{ sidebar | markdownify }}

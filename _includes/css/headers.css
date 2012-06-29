@@ -38,6 +38,16 @@
     border-bottom: 1px dotted #049BD2;
 }
 
+.turisme h1, .turisme h2, .turisme h3, .turisme h4, .turisme h5{
+    color: #4E8959;
+    border-bottom: 1px dotted #4E8959;
+}
+
+.festes h1, .festes h2, .festes h3, .festes h4, .festes h5{
+    color: #CACC00;
+    border-bottom: 1px dotted #CACC00;
+}
+
 .iajuntament-hx{
     color: #fff !important;
     background-color: #2e448d;
@@ -99,6 +109,22 @@
 .icultura-hx{
     color: #fff !important;
     background-color: #049BD2;
+    border-radius: 3px;
+    padding: 3px;
+    border-bottom: none !important;
+}
+
+.iturisme-hx{
+    color: #fff !important;
+    background-color: #4E8959;
+    border-radius: 3px;
+    padding: 3px;
+    border-bottom: none !important;
+}
+
+.ifestes-hx{
+    color: #fff !important;
+    background-color: #CACC00;
     border-radius: 3px;
     padding: 3px;
     border-bottom: none !important;
