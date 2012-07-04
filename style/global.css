@@ -138,6 +138,18 @@ ul.secondary-menu li{
     list-style-image: url("/images/file_acrobat.gif");
 }
 
+.file-pdf{
+    list-style-image: url("/images/file_acrobat.gif");
+}
+
+.file-word{
+    list-style-image: url('/images/file_ms_word.png');
+}
+
+.file-odt{
+    list-style-image: url('/images/file_libo_writer.png');
+}
+
 a:link, .ui-widget-content div a:link {
     color:#6495be;
     text-decoration:none;
