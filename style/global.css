@@ -319,3 +319,16 @@ h2, h3, h4{
 .no-list ul{
     list-style: none;
 }
+
+.destacat{
+    padding: 10px 0;
+    text-align: center;
+    border: 3px solid #919191;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 0.75em;
+}
+
+.destacat h2{
+    margin: 0;
+}
