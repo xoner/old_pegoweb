@@ -12,9 +12,7 @@ Carrer Metge Joaquim Pastor Alentado 5
 
 +-- {:.timetable}
 #### Horaris    {.esports-hx}
-+--{: .update}
-A Partir del dilluns dia 14 de novembre, la piscina coberta redu&iuml;rà el seu horari de natació lliure, obrint a les 11h del matí i tancant a les 21h de la nit. El gimnàs i les classes d' Spining es mantindràn al seu horari normal. Regidoria d'Esports
-=--
+
 * **Dilluns, dimecres i divendres** de <time>09:00</time> fins a <time>22:00</time>
 * **Dimarts i dijous** de <time>10:00</time> fins a <time>22:00</time>
 * **Dissabte i Diumenge** de **10:00** fins a **14:00**
@@ -49,15 +47,15 @@ Spinning                    | 102 €         | 36 €
 #### Cursos de natació  {.esports-hx}
 Curs                    | Trimestral    | Mensual
 ------------------------|---------------|---------
-Nadons (0-2 anys)       | 85 €          | 30 €
-Dofins (3-4 anys)       | 85 €          | 31,5 €
-Xiquets (5-14 anys)     | 82 €          | 30 €
-Adults (15-64 anys)     | 82 €          | 30 €
-Natació Terapèutica     | 90 €          | 35 €
-Aquagym                 | 85 €          | 32 €
-Jubilats/minusvàlids    | 60 €          | 25 €
-Natació fons (3 dies)   | 115 €         | 40 €
-Embarassades            | ------        | 25 €
+Dofins (3-4 anys)		| 85 €			| 30 €
+Xiquets (5-14 anys)		| 82 €			| 31,5 €
+Adults (15 – 64 anys)	| 82 €			| 30 €
+Natació terapèutica		| 90 €			| 35 €
+Jubilats/minusvàlids	| 60 €			| 25 €
+Natació fons (3 dies)	| 115 €			| 36 €
+Aquagym 				| 85 €			| 32 €
+Embarassades 			| ---- 			| 25 €
+Aquapower				| 102 €			| 36 €
 =--
 
 +-- {#classes}
