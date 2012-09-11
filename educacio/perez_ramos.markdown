@@ -21,8 +21,7 @@ Les persones adultes es podran incorporar a la Formació Bàsica de Persones Adu
 
 La duració de cada curs depèn de la preparació prèvia de cada persona i del temps disponible, i pot durar un o més anys acadèmics
 
-+-- {.down-pdf}
-* [Programació Curs 2011/2012](/pdf/Educacio/prog20112012.pdf)
-* [Impres Sol·licitud de matricula 2011/2012](/pdf/Educacio/SolicitudFPA2011-2012.pdf)
-* [Horaris curs 2011/2012](/pdf/Educacio/horariFPA2011-2012.pdf)
++-- {: .down-pdf}
+* [Horaris curs 2012-2013](/pdf/educacio/HorariFPA_2012_2013.pdf)
+* [Sol·licitaud Matriculacio curs 2012-2013](/pdf/educacio/Solicitud_2012-2013.pdf)
 =--
