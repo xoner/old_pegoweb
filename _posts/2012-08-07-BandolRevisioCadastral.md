@@ -27,7 +27,7 @@ layout: post
 <p>J Carmelo Ortolá Siscar</p>
 </div>
 
-<h3 id='documents_adjunts'>Documents Adjunts</h3>
+<h3>Documents Adjunts</h3>
 
 <div class='pdf-list'>
 <ul>

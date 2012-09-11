@@ -49,7 +49,7 @@ Crema-Pego
 C/ Sant Agustí, 4-6 2º
 96-557.12.55 • adl-pego@creama.org
 
-### Documents adjunts
+### Documents adjunts ### {: #head20120731}
 <ul>
 <li class="file-pdf" markdown="1">[Diptic Curs de Senderisme](http://dl.dropbox.com/u/84612582/pdf/news/DIPTICO-desempleados-senderismo%20pego.pdf)</li>
 </ul>
