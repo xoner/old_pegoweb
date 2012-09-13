@@ -3,13 +3,13 @@ title: Avís de matriculació al centre municipal de formació de persones adult
 layout: post
 author: Ajuntament de Pego
 ---
-L'Ajuntament de Pego com tots els anys organitza per mitjà de l'escola d'adults FPA "A.Pérez Ramos" cursos i ensenyaments conduents a l'obtenció de la titulació bàsica, dirigida als treballadors que es troben a l'atur o aquells amb contracte de formació i altra gent adulta que no tenen la titulació necessaria i que els demanen per a apuntar-se a les "bolses (bosses)de contractació".
+L'Ajuntament de Pego com tots els anys organitza per mitjà de l'escola d'adults FPA "A.Pérez Ramos" cursos i ensenyaments conduents a l'obtenció de la titulació bàsica, dirigida als treballadors que es troben a l'atur o aquells amb contracte de formació i altra gent adulta que no tenen la titulació necessaria i que els demanen per a apuntar-se a les borses de contractació.
 
-Estos ensenyaments estan orientats per a l'obtenció dels títols de Graduat Escolar (1rCicle ESO) o Graduat Escolar en ESO (2nCicle ESO) i els títols de coneixements del valencià de la JQCV.Així com per a accedir als cicles de Formació Professional de Grau Mitjà.
+Estos ensenyaments estan orientats per a l'obtenció dels títols de Graduat Escolar (1rCicle ESO) o Graduat Escolar en ESO (2nCicle ESO) i els títols de coneixements del valencià de la JQCV. Així com per a accedir als cicles de Formació Professional de Grau Mitjà.
 
-A més, també organitza cursos per a la integració tant dels immigrants com dels residents estrangers, amb cursos que van des d'alfabetització i neolectors, a cursos que donen a conéixer les nostres llengües oficials: el valencià i el castellà, i  la nostra cultura.
+També organitza cursos per a la integració tant dels immigrants com dels residents estrangers amb cursos que van des d'alfabetització i neolectors a cursos que donen a conéixer les nostres llengües oficials (el valencià i el castellà) i  la nostra cultura.
 
-També organitza cursos par a l'aprofitament de l'oci com són els cursos-tallers de DIBUIX i PINTURA , RESTAURACIÓ DE MOBLES VELLS, MANUALITATS, BALL I TEATRE on es pot admirar i  desarrollar tot l'art i la destresa que tots tenim amagats, a més, de crear un ambient on tots paricipen i conviuen. 
+També organitza cursos par a l'aprofitament de l'oci com són els cursos-tallers de DIBUIX i PINTURA , RESTAURACIÓ DE MOBLES VELLS, BALL I TEATRE on es pot admirar i  desenvolupar tot l'art i la destresa que tots tenim amagats a més de crear un ambient on tots paricipen i conviuen. 
 
 Enguany estos cursos de l'aprofitament de l'oci tenen un preu de matrícula que es podrà pagar en dos terminis i de la següent manera: Preu del curs = 100€ ( 50€ al principi del curs  i 50€ durant el mes de gener). Els matriculats en un curs optaran a un 10% de descompte per cadascun de la resta de cursos que vullguen assistir.
 
