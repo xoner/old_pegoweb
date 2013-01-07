@@ -8,18 +8,18 @@ author: Regidoria d'Esports
 	<img src="/images/news/20121001_ActivitatsEsportives2012.jpg" alt="Activitats esportives 2012" />
 </a>
 
-La Regidoria D'Esports proposa activitats per a adults i xiquets. 
-A partir d'octubre, tota la familia podrà realitzar activitats esportives a Pego, i gaudir així de l'oferta que tenim al nostre poble, que no deixa de crèixer cada dia. 
+La Regidoria D'Esports proposa activitats per a adults i xiquets.
+A partir d'octubre, tota la familia podrà realitzar activitats esportives a Pego, i gaudir així de l'oferta que tenim al nostre poble, que no deixa de crèixer cada dia.
 
 ***Per A Adults.***
 
-* Gimnàstica De Manteniment 
+* Gimnàstica De Manteniment
 
 ***Per A Xiquets.***
 
-* Atletisme 
-* Futbol Sala  
-* Pilota  
+* Atletisme
+* Futbol Sala
+* Pilota
 * Curs de natació
 
 ( Pròximament més cursos com ara pilates o aeròbic.)

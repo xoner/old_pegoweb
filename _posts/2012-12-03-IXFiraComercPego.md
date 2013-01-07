@@ -16,4 +16,4 @@ Agraïm des de la Regidoria de Comerç de l’Ajuntament de Pego la participaci�
 
 Apegat a Pego i gaudix del comerç local.
 
-Regidora de Comerç i Creama; Pepa Sendra Sala. 
+Regidora de Comerç i Creama; Pepa Sendra Sala.

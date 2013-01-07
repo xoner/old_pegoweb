@@ -9,3 +9,5 @@ author: Ajuntament de Pego
 </a>
 
 El día 05 de Deseembre, (matinada de dimarts a dimecres) des de les 00:00hores fins les 03:00hores es **suspendrà el suministre** d'aigua potable en **tot el municipi** de Pego per treballs de millora en la xarxa.
+
+<div style="clear: both;">&nbsp;</div>
