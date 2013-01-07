@@ -3,4 +3,8 @@ layout: page
 title: Contractació
 section: serveis
 ---
-Actualment no hi han documents publicats en aquesta secció.
++-- {: .center}
+Les licitacions son publicades en la:
+
+[Plataforma de contractació de la generalitat valenciana](https://www.contratacion.gva.es)
+=--
