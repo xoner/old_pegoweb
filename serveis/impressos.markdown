@@ -24,4 +24,6 @@ section: serveis
 * [Sol·licitud llicència municipal edificació (Obra Menor A3)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMenor_A3.pdf)
 * [Sol·licitud llicència municipal edificació (Obra Menor A4)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMenor_A4.pdf)
 * [Sol·licitud llicència municipal edificació (Obra Major)](/pdf/urbanisme/SolicitudLlicenciaMunicipalEdificacio_ObraMajor.pdf)
+* [Sol·licitud llicència municipal d'ocupació, primera ocuapció](/pdf/urbanisme/SolicitudLlicenciaMunicipal1aOcupacio.pdf)
+* [Declaració responsable renovació llicència municipal d'ocupació, segona o posterior ocupació](/pdf/urbanisme/SolicitudLlicenciaMunicipal2aOcupacio.pdf)
 =--
