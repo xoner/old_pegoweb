@@ -2,11 +2,7 @@
 layout: default
 ---
 <div class="span-6 menu">
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="204" height="37">
-        <param name="movie" value="/legacy_flash/tornar.swf"/>
-        <param name="quality" value="high"/>
-        <embed src="/legacy_flash/tornar.swf" type="application/x-shockwave-flash" width="204" height="37"/>
-      </object>
+    {% include menus/main-menu.html %}
     <div class="section-menu{%if page.section %} menu-{{page.section}}{%endif%}">
         {% case page.section %}
         {% when 'serveis' %} {% capture sidebar %}{% include menus/serveis.markdown %}{% endcapture %}

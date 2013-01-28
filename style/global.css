@@ -13,14 +13,14 @@ body{
 
 .header{
     padding-top: 20px;
-    background: url("/images/bg_header.jpg") top left no-repeat;    
+    background: url("/images/bg_header.jpg") top left no-repeat;
 }
 .header img{
     margin-left: 100px;
 }
 
 .menu{
-    padding-left: 8px;    
+    padding-left: 8px;
 }
 
 .section-menu{
@@ -311,6 +311,8 @@ h2, h3, h4{
 {% include css/turisme.css %}
 
 {% include css/festes.css %}
+
+{% include css/main-menu.css %}
 
 .impressos li{
     list-style-image: url("/images/file_acrobat.gif");
