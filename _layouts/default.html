@@ -63,7 +63,7 @@
                     <span class="tel"><span class="type">Work</span> 965570011</span>
                     <span class="tel"><span class="type">Fax</span> 965572583</span>
                 </span>
-            </span> 
+            </span>
             <span></span></p>
         </div>
         {% if page.show_avanza %}
@@ -73,7 +73,7 @@
                 <img src="/images/logo_ministeri.gif" alt="Ministerio de Industria, Energia y Turismo" />
             </div>
             <div class="slogan">
-                Cofinanciado por el ministerio de Industria, Energia y Turismo. Referencia: TSI-050100-2009-0167. 
+                Cofinanciado por el ministerio de Industria, Energia y Turismo. Referencia: TSI-050100-2009-0167.
             </div>
         </div>
         {% endif %}
@@ -86,6 +86,12 @@
 <script type="text/javascript">
 //<![CDATA[
     $(function(){
+        // comprobar si estem dins del puto iframe de la merda de cinfonet
+        // i redirigir cap a www.pego.org
+        if(!(top === self)){
+            top.parent.location.href = 'http://www.pego.org';
+        }
+
         $('.section-menu a').each(function(){
             if(this.href == window.location.href){
                 $(this).parents('li').addClass('current');
@@ -93,17 +99,6 @@
         });
 
         if ($('.tabs').length > 0) {$('.tabs').tabs();};
-
-        // Google analitics
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-16993222-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
 
         {% if page.customjs %}
         {{page.customjs}}
@@ -120,6 +115,18 @@
         {% endif %}
     });
 //]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16993222-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 </body>
 </html>
