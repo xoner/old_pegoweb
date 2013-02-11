@@ -7,6 +7,10 @@ body{
     background-color: #A7C2D1;
 }
 
+p, li{
+    font-size: 1.2em;
+}
+
 .container{
     background-color: #F1F0E8;
 }
