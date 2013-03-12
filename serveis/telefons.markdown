@@ -8,7 +8,7 @@ Entitat                                     | Telefon
 Ajuntament                                  | **96 557 00 11**
 Acció Urgent (Ambulància Pego i les Valls)  | **65 386 73 83**
 Aigua Potable                               | **90 225 01 70**
-Bombers Dénia                               | **96 557 00 80**
+Bombers Dénia                               | **96 578 11 85**
 Butano                                      | **96 557 07 15**
 Camara Agrària                              | **96 557 00 71**
 OCAPA (Marina Alta)                         | **96 557 18 80**
