@@ -13,7 +13,7 @@ S'han incorporat els punts 4 i 7 i s'ha modificat l'url de l'enllaç corresponen
 Informem i facilitem la informació als nostres ciutadans, complint així l'esperit legislatiu que impulsa i fomenta l' Administració Electrònica, a través de las tecnologies i de les telecomunicacions.
 
 En relació a la PONÈNCIA CADASTRAL s'han realitzat les següents publicacions per la Direcció General del Cadastre, ressenyem i adjuntem documents i enllaços:
-		
+
 1. [BOP Alacant nº105 de 4 de juny. Tràmit d'audiència dins el procediment d'aprovació de la Ponència de Valors de PEGO.](http://www.dip-alicante.es/bop2/pdftotal/2012/06/04-06-12.pdf#page=4)
 2. [BOP Alacant nº 120 de 26 de juny. Resolució per la qual s'acorda l'aprovació de la Ponència de Valors de Pego.](http://www.dip-alicante.es/bop2/pdftotal/2012/06/26-06-12.pdf#page=3)
 3. [BOP Alacant nº 135 de 17 de juliol. Publicació dels valors cadastrals mitjos del municipi de PEGO.](http://www.dip-alicante.es/bop2/pdftotal/2012/07/17-07-12.pdf#page=3)
