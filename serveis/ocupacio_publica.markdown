@@ -5,6 +5,7 @@ section: serveis
 ---
 
 +--{: .oferta-treball}
+
 ### Borsa de treball d'un/una Mestre d'educació infantil
 
 
