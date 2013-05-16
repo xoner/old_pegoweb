@@ -1,6 +1,7 @@
 ---
 layout: page
 section: cultura
+title: El castell d'ambra
 ---
 <div class="center">
 <img src="/images/cultura/castell_ambra/castell_ambra_01.jpeg" alt="vista del catell d'ambra" />
