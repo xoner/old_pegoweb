@@ -1,0 +1,7 @@
+---
+layout: nil
+---
+User-agent: *
+Disallow: /pconcejal
+Disallow: /incidencies
+Disallow: /suport
