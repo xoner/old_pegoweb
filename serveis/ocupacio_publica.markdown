@@ -5,6 +5,38 @@ section: serveis
 ---
 
 +--{: .oferta-treball}
+### Borsa de treball socorristes piscina municipal.
+
+El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
+
+* [Anunci convocatòria](/pdf/personal/20130527-borsatreball-socorrista-piscina-municipal/anunci-convocatoria.pdf)
+=--
+
++--{: .oferta-treball}
+### Borsa de treball monitors temps lliure àrea serveis socials.
+
+El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
+
+* [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-serveis-socials/anunci-convocatoria.pdf)
+=--
+
++--{: .oferta-treball}
+### Borsa de treball monitors temps lliure àrea esports.
+
+El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
+
+* [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-esports/anunci-convocatoria.pdf)
+=--
+
++--{: .oferta-treball}
+### Borsa de treball monitors temps lliure àrea educació.
+
+El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
+
+* [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/anunci-convocatoria.pdf)
+=--
+
++--{: .oferta-treball}
 
 ### Borsa de treball d'un/una Mestre d'educació infantil
 
