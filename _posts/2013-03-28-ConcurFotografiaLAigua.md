@@ -10,6 +10,7 @@ longPost: true
 Comenius Regio Léman-Pego i la Regidoria de Cultura i Educació de l’Ajuntament de Pego, convoquen el  present CONCURS DE FOTOGRAFIA, “l’AIGUA”, 2013.
 
 <!-- -**-END-**- -->
+<div id="extended">&nbsp;</div>
 Seguint les següents BASES:
 
 1. Podran participar totes les persones que  ho desitgen.
