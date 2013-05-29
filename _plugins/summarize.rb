@@ -1,5 +1,3 @@
-require 'ruby-debug'
-
 module Jekyll
   module Summary
     def summarize(str, splitstr = /\s*<div id='extended'>/)
