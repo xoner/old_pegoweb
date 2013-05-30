@@ -27,7 +27,7 @@ show_avanza: true
             </div>
         </header>
         <div class="art-content">
-            {{ itPost.preview }}
+            {{ itPost.content | summarize }}
             {% if itPost.longPost %}
             <a class="read-more" href="{{itPost.url}}">Continuar llegint...</a>
             {% endif %}
