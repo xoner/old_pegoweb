@@ -17,13 +17,13 @@ show_avanza: true
 </div>
 <!-- NEWS -->
 <div class="span-13 news">
-{% for itPost in site.posts limit:7 %}
+{% for itPost in site.posts limit:10 %}
     {% if itPost.skip_front == null or itPost.skip_front == false %}
     <article>
         <header>
             <h2><a href="{{itPost.url}}">{{ itPost.title}}</a></h2>
             <div class="post-info">
-                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d del %m de %Y" }}</time>
+                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}" pubdate>{{ itPost.date | date: "%d del %m de %Y" }}</time>
             </div>
         </header>
         <div class="art-content">
