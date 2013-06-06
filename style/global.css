@@ -20,7 +20,18 @@ p, li{
     background: url("/images/bg_header.jpg") top left no-repeat;
 }
 .header img{
-    margin-left: 100px;
+    margin-left: 57px;
+}
+
+.header h1{
+    display: inline-block;
+    margin-left: 15px;
+}
+.header .caption{
+    font-family: FuturaLight, Arial, Verdana;
+    font-size: 17px;
+    font-weight: bolder;
+    display: block;
 }
 
 .menu{

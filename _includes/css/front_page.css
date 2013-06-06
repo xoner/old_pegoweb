@@ -65,6 +65,11 @@
     border-bottom: 1px dotted #4a5ee3;
 }
 
+.art-content p{
+    text-align: justify;
+}
+
+
 .post-info{
     font-size: 0.7em;
     text-align: right;

@@ -23,7 +23,7 @@ show_avanza: true
         <header>
             <h2><a href="{{itPost.url}}">{{ itPost.title}}</a></h2>
             <div class="post-info">
-                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}" pubdate>{{ itPost.date | date: "%d del %m de %Y" }}</time>
+                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d del %m de %Y" }}</time>
             </div>
         </header>
         <div class="art-content">
@@ -35,6 +35,6 @@ show_avanza: true
     </article>
     {% endif %}
 {% endfor %}
-    <h3><a href="noticies_anteriors.html">Històric de noticies &rarr;</a><h3>
+    <a href="noticies_anteriors.html">Històric de noticies &rarr;</a>
 </div>
 <!-- END NEWS -->

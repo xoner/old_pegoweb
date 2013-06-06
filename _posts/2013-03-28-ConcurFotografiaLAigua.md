@@ -55,7 +55,7 @@ El premi podrà ser declarat desert. Els premis estan subjectes al que disposa l
 
 15. El fet de participar en aquest concurs suposa l’acceptació  i coneixement d’aquestes bases.
 
-### Documents adjunts
+### Documents adjunts {: #head20130328}
 +--{: .pdf-list}
 * [Bases Concurs](/pdf/news/20130328-ConcursFotografiaLAigua.pdf)
 =--

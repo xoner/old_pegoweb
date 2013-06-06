@@ -18,7 +18,7 @@ Plaç de presentació de les sol·licituds, del 2 al 16 d'abril en el Registre d
 **Ajuntament de Pego**
 =--
 
-### Documents adjunts
+### Documents adjunts {: #head20130402}
 +-- {: .pdf-list}
 * [Ordenança Reguladora de la Venda no Sedentària en el Terme Municipal de Pego](/pdf/news/20130402_OrdenancaVendaNoSedentaria.pdf)
 * [Model d'inscripció](/pdf/news/20130402_ModelDInscripcio.pdf)
