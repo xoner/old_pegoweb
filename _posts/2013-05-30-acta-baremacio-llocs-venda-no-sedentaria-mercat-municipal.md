@@ -11,7 +11,7 @@ A partir de hui s'establix un període d'al·legacions per a tots aquells sol·l
 **Regidoria de Comerç i Promoció Econòmica**
 =--
 
-### Documents Adjunts {: #id20130605}
+### Documents Adjunts {: #head20130605}
 +-- {: .pdf-list}
 * [Acta de baremació de l'adjudicació dels llocs de venda no sedentària  al Mercat Municipal](/pdf/news/20130530-acta-baremacio-llocs-venda-no-sedentaria-mercat-municipal.pdf)
 =--

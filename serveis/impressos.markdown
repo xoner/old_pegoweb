@@ -11,8 +11,26 @@ section: serveis
 
 
 ### Medi Ambient    {: .imedi-hx }
++-- {: .medi}
+#### Canvi Titularitat
+* [Recull de la documentació a aportar](#)
+* [Sol·licitud canvi de titular](#)
+* [Transmissibilitat??](#)
+
+#### Comunicació ambiental
+* [Inici Activitat - Plaques Solars](#)
+* [Instal·lació Activitat](#)
+* [Sol·licitud certificat compatibilitat urbanística](#)
+
+#### Llicència Ambiental
+* [Sol·licitud de llicència d’obertura i funcionament d’activitat](#)
+* [Sol·licitud de llicència ambiental](#)
+* [Sol·licitud de certificat de compatibilitat urbanística](#)
+=--
+{% comment %}
 * [Sol·licitud de Comunicació](/pdf/medi/SolicitudComunicacioAmb.pdf)
-* [Sol·licitud de Llicència](/pdf/medi/SolicitudLlicenciaAmb.pdf)
+* [Sol·licitud de Llicència](/pdf/medi/SolicitudLlicenciaAmb.pdf) 
+{% endcomment %}
 
 
 ### Ajuntament      {: .iajuntament-hx }

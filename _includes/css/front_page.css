@@ -69,6 +69,28 @@
     text-align: justify;
 }
 
+.long-view table thead,
+.art-content table thead{
+    font-size: 1.3em;
+    background: #4a5ee3;
+    font-weight: bolder !important;
+    color: white;
+}
+
+.long-view table tbody,
+.art-content table tbody{
+    background-color: white;
+}
+
+.long-view table tbody tr td,
+.art-content table tbody tr td{
+    border-bottom: 1px dotted black;
+}
+
+.long-view table tbody tr:last-child td,
+.art-content table tbody tr:last-child td{
+    border-bottom: none;
+}
 
 .post-info{
     font-size: 0.7em;
