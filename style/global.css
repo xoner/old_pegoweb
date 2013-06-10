@@ -273,7 +273,7 @@ h2, h3, h4{
 }
 
 .center {
-    text-align: center;
+    text-align: center !important;
     margin: 0 auto;
 }
 
