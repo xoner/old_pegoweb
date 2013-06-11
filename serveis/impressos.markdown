@@ -11,25 +11,28 @@ section: serveis
 
 
 ### Medi Ambient    {: .imedi-hx }
+
+* [Liquidació taxa](/pdf/medi/liquidacio-taxa.pdf)
+
 +-- {: .medi}
 #### Canvi Titularitat
-* [Recull de la documentació a aportar](#)
-* [Sol·licitud canvi de titular](#)
-* [Transmissibilitat??](#)
+* [Recull de la documentació a aportar](/pdf/medi/canvi-titularitat-recull-documentacio.pdf)
+* [Sol·licitud canvi de titular](/pdf/medi/canvi-titularitat-solicitud.pdf)
+* [Impres de Transmissibilitat](/pdf/medi/canvi-titularitat-transmissibilitat.pdf)
 
 #### Comunicació ambiental
-* [Inici Activitat - Plaques Solars](#)
-* [Instal·lació Activitat](#)
-* [Sol·licitud certificat compatibilitat urbanística](#)
+* [Inici Activitat - Plaques Solars](/pdf/medi/comunicacio-ambiental-inici-activitat-plaques-solars.pdf)
+* [Instal·lació Activitat](/pdf/medi/comunicacio-ambiental-instalacio-activitat.pdf)
+* [Sol·licitud de certificat compatibilitat urbanística](/pdf/medi/solicitud-certificat-compatibilitat-urbanistica.pdf)
 
 #### Llicència Ambiental
-* [Sol·licitud de llicència d’obertura i funcionament d’activitat](#)
-* [Sol·licitud de llicència ambiental](#)
-* [Sol·licitud de certificat de compatibilitat urbanística](#)
+* [Sol·licitud de llicència d’obertura i funcionament d’activitat](/pdf/medi/llicencia-ambiental-solicitud-obertura-funcioanment-activitat.pdf)
+* [Sol·licitud de llicència ambiental](/pdf/medi/llicencia-ambiental-solicitud.pdf)
+* [Sol·licitud de certificat de compatibilitat urbanística](/pdf/medi/solicitud-certificat-compatibilitat-urbanistica.pdf)
 =--
 {% comment %}
 * [Sol·licitud de Comunicació](/pdf/medi/SolicitudComunicacioAmb.pdf)
-* [Sol·licitud de Llicència](/pdf/medi/SolicitudLlicenciaAmb.pdf) 
+* [Sol·licitud de Llicència](/pdf/medi/SolicitudLlicenciaAmb.pdf)
 {% endcomment %}
 
 
