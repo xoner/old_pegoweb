@@ -50,6 +50,7 @@
     font-family: Sans-Serif, Arial, Verdana;
     border-bottom: 3px dotted #666666;
     margin: 0 0 1.2em 0;
+    padding-bottom: 15px;
 }
 
 .news article time{
