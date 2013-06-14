@@ -30,3 +30,52 @@
     text-align: center;
     margin: 0;
 }
+
+
+/* CERTAMEN 2013 */
+.winner {
+    width: 402px;
+    display: block;
+    margin: 0 auto;
+}
+
+.certamen figcaption{
+    text-align: center;
+}
+
+.certamen img{
+    display: block;
+    margin: 0 auto;
+}
+
+.certamen .author{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.certamen .title{
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.certamen .runner-up{
+    width: 323px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.certamen .runner-up img{
+    min-height: 270px;
+}
+
+.certamen .selected{
+    width: 214px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+.certamen .selected a{
+    display: block;
+    min-height: 180px;
+}

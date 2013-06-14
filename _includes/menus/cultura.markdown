@@ -11,4 +11,5 @@
 * [Galeria d'imatges](/cultura/galeria_imatges.html)
 * [Pego en blanc i negre](/cultura/blanc_negre.html)
 * **Certamen Nacional de Pintura Vila de Pego**
-* [XXXVI Edició](/cultura/certamen_pintura/XXXVI.html)
+* [XXXVI Edició](/cultura/certamen-pintura/XXXVI.html)
+* [XXXVII Edició](/cultura/certamen-pintura/XXXVII.html)
