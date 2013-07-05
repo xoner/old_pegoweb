@@ -1,0 +1,26 @@
+---
+title: Salutacions Festes Patronals
+layout: page
+section: festes
+jqueryui: true
+---
+<div class="tabs">
+    <ul>
+        <li><a href="#alcalde" markdown="0">Alcalde</a></li>
+        <li><a href="#regidor" markdown="0">Regidor de Festes</a></li>
+    </ul>
+    <div id="alcalde">
+        <img class="inline-image" src="/images/festes/patronals/alcalde.jpg" alt="Carmelo Ortolà">
+        <div class="speech" markdown="1">
+        {% capture lContent %}{% include festes/salutacio-alcalde.md %}{% endcapture %}
+        {{ lContent | markdownify }}
+        </div>
+    </div>
+    <div id="regidor">
+        <img class="inline-image" src="/images/festes/patronals/regidor.jpg" alt="Raul Tamarit">
+        <div class="speech" markdown="1">
+        {% capture lContent %}{% include festes/salutacio-regidor.md %}{% endcapture %}
+        {{ lContent | markdownify }}
+        </div>
+    </div>
+</div>

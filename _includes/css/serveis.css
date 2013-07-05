@@ -24,11 +24,15 @@
 .serveis thead{
     display: none;
 }
+
+.white-table,
 .serveis table{
     padding: 10px;
     box-shadow: #AAA 0px 10px 16px;
     background-color: #fff;
 }
+
+.white-table td,
 .serveis td{
     border-bottom: 1px dotted #000;
 }

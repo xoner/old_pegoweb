@@ -5,3 +5,14 @@
 .menu-festes .current{
     background-color: #CACC00;
 }
+
+.festes .white-table thead th{
+    background-color: #CACC00;
+    color: white;
+    font-family: "FuturaLight", Arial, Verdana;
+    text-transform: uppercase;
+}
+
+.speech{
+    text-align: justify;
+}

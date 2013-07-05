@@ -11,13 +11,16 @@ section: serveis
 +-- {: .update .center}
 **Actualitzacions**
 
-**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció
+**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció.
+
+**05/07/2013** Publicat el resultat de les proves selectives.
 =--
 
 El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
 
 * [Anunci convocatòria](/pdf/personal/20130527-borsatreball-socorrista-piscina-municipal/anunci-convocatoria.pdf)
 * [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130527-borsatreball-socorrista-piscina-municipal/anunci-llistat-admessos-exclosos.pdf)
+* [Resultat Proves Selectives](/pdf/personal/20130527-borsatreball-socorrista-piscina-municipal/resultat-proves-selectives.pdf)
 =--
 
 +--{: .oferta-treball}
@@ -27,13 +30,16 @@ El termini per a presentar instàncies romandrà obert del **27 de maig de 2013*
 +-- {: .update .center}
 **Actualitzacions**
 
-**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció
+**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció.
+
+**05/07/2013** Publicat el resultat de les proves selectives.
 =--
 
 El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
 
 * [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-serveis-socials/anunci-convocatoria.pdf)
 * [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-serveis-socials/anunci-llistat-admessos-exclosos.pdf)
+* [Resultat Proves Selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-serveis-socials/resultat-proves-selectives.pdf)
 =--
 
 +--{: .oferta-treball}
@@ -43,13 +49,16 @@ El termini per a presentar instàncies romandrà obert del **27 de maig de 2013*
 +-- {: .update .center}
 **Actualitzacions**
 
-**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció
+**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció.
+
+**05/07/2013** Publicat el resultat de les proves selectives.
 =--
 
 El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
 
 * [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-esports/anunci-convocatoria.pdf)
 * [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-esports/anunci-llistat-admessos-exclosos.pdf)
+* [Resultat Proves Selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-esports/resultat-proves-selectives.pdf)
 =--
 
 +--{: .oferta-treball}
@@ -59,13 +68,16 @@ El termini per a presentar instàncies romandrà obert del **27 de maig de 2013*
 +-- {: .update .center}
 **Actualitzacions**
 
-**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció
+**13/06/2013** Publicada la llista d'admessos i exclosos a les proves de selecció.
+
+**05/07/2013** Publicat el resultat de les proves selectives.
 =--
 
 El termini per a presentar instàncies romandrà obert del **27 de maig de 2013** fins el **6 de juny de 2013**
 
 * [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/anunci-convocatoria.pdf)
 * [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/anunci-llistat-admessos-exclosos.pdf)
+* [Resultat Proves Selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacioresultat-proves-selectivesexclosos.pdf)
 =--
 
 +--{: .oferta-treball}
