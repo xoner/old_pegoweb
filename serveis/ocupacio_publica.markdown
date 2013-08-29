@@ -4,6 +4,17 @@ title: Ocupació Pública
 section: serveis
 ---
 
+
++--{: .oferta-treball}
+
+### Borsa de treball conserges amb discapacitat.
+
+
+El termini per a presentar instàncies romandrà obert del **27 d'agost de 2013** fins el **5 de setembre de 2013**
+
+* [Anunci convocatòria i bases](/pdf/personal/20130829-borsa-treball-conserge/bases-val.pdf)
+=--
+
 +--{: .oferta-treball}
 
 ### Borsa de treball socorristes piscina municipal.
