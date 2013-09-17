@@ -19,7 +19,7 @@
 
 .banners{
     text-align: center;
-    width: 140px !important; 
+    width: 140px !important;
     padding: 10px 0;
     background-color: #fff;
     -webkit-box-shadow: 5px 5px 2px #888888;    /* iPhone */
@@ -109,7 +109,7 @@
 
 .inline-image{
     float: left;
-    margin: 0 10px 10px 0;
+    margin: 7px 10px 10px 0;
 }
 
 .read-more{
