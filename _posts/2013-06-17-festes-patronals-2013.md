@@ -3,12 +3,12 @@ title: Festes patronals 2013
 layout: post
 author: Regidoria de Festes
 ---
-+-- {: .update}
+<div class="update" markdown="1">
 Modificacions al programa de festes:
 
 * Anul·lació de l'acte d'entrega de la medalla a Evarist Miralles (25 de Juny)
 * Sessions de cinema (dies 25 i 26 de juny)
-=--
+</div>
 
 <a class="salone-image center" href="/images/news/20130617-festes-patronals-2013-big.jpg" title="Festes Patronals 2013">
     <img src="/images/news/20130617-festes-patronals-2013-small.jpg" alt="Festes Patronals 2013">

@@ -1,7 +1,7 @@
 title: Ajuntament de Pego
 url: http://www.pego.org
 description: Plana web del M.I. Ajuntament de Pego
-markdown: maruku
+markdown: kramdown
 
 author:
     name: M.I. Ajuntament de Pego

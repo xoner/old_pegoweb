@@ -13,9 +13,9 @@ Tota la família podrà realitzar activitats esportives a Pego, i gaudir així d
 * Zumba
 * Crossfit
 
-+-- {: .pdf-list}
+{: .pdf-list}
 * [Full informatiu activitats per a adults 2013](/pdf/news/20130917-activitats-esportives-adults.pdf)
-=--
+
 
 ### Per a xiquets.
 
@@ -25,10 +25,10 @@ Tota la família podrà realitzar activitats esportives a Pego, i gaudir així d
 * Pilota
 * Curs de natació
 
-+-- {: .pdf-list}
-* [Full informatiu activitats per a xiquets 2013](20130917-activitats-esportives-xiquets.pdf)
-* [Full d'inscripció](20130917-fitxa-matricula-activitats-xiquets-2013.pdf)
-=--
+{: .pdf-list}
+* [Full informatiu activitats per a xiquets 2013](/pdf/news/20130917-activitats-esportives-xiquets.pdf)
+* [Full d'inscripció](/pdf/news/20130917-fitxa-matricula-activitats-xiquets-2013.pdf)
+
 
 ### Activitats de la piscina coberta
 
@@ -40,9 +40,8 @@ Tota la família podrà realitzar activitats esportives a Pego, i gaudir així d
 * Aquapower
 * Cicle indoor
 
-+-- {: .pdf-list}
-* [Full informatiu activitats piscina coberta 2013](20130917-full-informatiu-activitats-piscina-coberta-2013.pdf)
-=--
+{: .pdf-list}
+* [Full informatiu activitats piscina coberta 2013](/pdf/news/20130917-full-informatiu-activitats-piscina-coberta-2013.pdf)
 
 Més informació a la segona planta de l'Ajuntament de Pego, Regidoria d'Esports.
 

@@ -29,14 +29,14 @@ Junt amb les obres en paper, s’ enviarà un CD. Amb una còpia de les imatges 
 finalitzarà el dilluns 6 de maig a les 13’00 h.
 
 7. Les fotografies es presentaran personalment o remeses a ports pagats a:
-+--- {: .center}
+{: .center}
 <pre>
 CASA DE CULTURA
 C/ Sant Domènec, 5
 03780 PEGO
 Tel: 965572801
 </pre>
-=--
+
 
 8. El Jurat estarà presidit per la Regidora de Cultura i Educació del M.I. Ajuntament de Pego e integrat per destacades personalitats del mon de l’art i la fotografia.
 
@@ -56,6 +56,5 @@ El premi podrà ser declarat desert. Els premis estan subjectes al que disposa l
 15. El fet de participar en aquest concurs suposa l’acceptació  i coneixement d’aquestes bases.
 
 ### Documents adjunts {: #head20130328}
-+--{: .pdf-list}
+{: .pdf-list}
 * [Bases Concurs](/pdf/news/20130328-ConcursFotografiaLAigua.pdf)
-=--
