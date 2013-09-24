@@ -1,0 +1,11 @@
+---
+layout: nil
+---
+RewriteEngine On
+
+# Use only when debugging rewrite conditions
+# and remeber to bedug with error 302 first because the
+# 301 errors are hardly cached in the browser.
+# RewriteCond %{HTTP_USER_AGENT} ^ajupego-browser-tests$
+
+RewriteRule urbanisme/exp_publica.html$ http://www.pego.org/urbanisme/exposicio-publica.html [L,R=301]
