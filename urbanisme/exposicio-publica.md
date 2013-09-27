@@ -12,7 +12,7 @@ section: urbanisme
     * [Edicte - val](/pdf/urbanisme/exposicio-publica/2013-09-24/resolucio-edictes/Edicte.pdf)
     * [Edicto - cas](/pdf/urbanisme/exposicio-publica/2013-09-24/resolucio-edictes/Edicto.pdf)
 * **Estudi d'Integració Paisatgística i Pla de participació pública.**
-    * [Estudi d'integració paisajística](/pdf/urbanisme/exposicio-publica/2013-09-24/EIP-PPP/EIP-MAYORAZGO.pdf)
+    * [Estudi d'integració paisagística](/pdf/urbanisme/exposicio-publica/2013-09-24/EIP-PPP/EIP-MAYORAZGO.pdf)
     * [Pla de participació pública](/pdf/urbanisme/exposicio-publica/2013-09-24/EIP-PPP/PPP-PRI-MAYORAZGO.pdf)
     * [Enquesta Pla participació pública](/pdf/urbanisme/exposicio-publica/2013-09-24/EIP-PPP/ENQUESTA-PPP.pdf)
 * [**Pla de Reforma Interior.**](/pdf/urbanisme/exposicio-publica/2013-09-24/PRI/PRI-MAYORAZGO-CENDRA.pdf)
