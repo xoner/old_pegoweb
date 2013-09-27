@@ -62,12 +62,26 @@ def upload_files(files_list):
         os.chdir(CONFIG['rsync_jekyll_gen_dir'])
 
     for it_file in files_list:
-        print 'Uploading {}'.format(it_file)
-        result = py_ftp.storbinary('STOR {}'.format(it_file), open(it_file, 'rb'))
+        result = ''
+        if path.isdir(it_file):
+            print "Creating directory {}".format(it_file)
+            result = py_ftp.mkd(it_file)
 
-        if result != '226 Transfer complete':
-            errors_exist = True
-        print result
+            # Compare if the results of creating the directory where ok
+            splt_it_file = it_file.split('/')
+            splt_it_file.remove('')
+            splt_result = result.split('/')
+            splt_result.remove('')
+
+            if not splt_it_file == splt_result:
+                errors_exist = True
+                break
+        else:
+            print 'Uploading {}'.format(it_file)
+            result = py_ftp.storbinary('STOR {}'.format(it_file), open(it_file, 'rb'))
+
+            if result != '226 Transfer complete':
+                errors_exist = True
 
     py_ftp.quit()
 
