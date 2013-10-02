@@ -16,6 +16,7 @@ section: urbanisme
     * [Pla de participació pública](/pdf/urbanisme/exposicio-publica/2013-09-24/EIP-PPP/PPP-PRI-MAYORAZGO.pdf)
     * [Enquesta Pla participació pública](/pdf/urbanisme/exposicio-publica/2013-09-24/EIP-PPP/ENQUESTA-PPP.pdf)
 * [**Pla de Reforma Interior.**](/pdf/urbanisme/exposicio-publica/2013-09-24/PRI/PRI-MAYORAZGO-CENDRA.pdf)
+* [Publicació DOCV](http://www.docv.gva.es/datos/2013/10/02/pdf/2013_9352.pdf)
 </div>
 
 <div class="ppp" markdown="1">
