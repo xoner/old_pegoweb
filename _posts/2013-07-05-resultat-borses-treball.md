@@ -10,4 +10,4 @@ Publicats els resultats de les proves de selecció de les borses de treball:
 * [Monitors temps lliure àrea esports.](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-esports/resultat-proves-selectives.pdf)
 * [Monitors temps lliure àrea educació.](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/resultat-proves-selectives.pdf)
 
-La informació completa es pot trobar a l'àrea d'[ocupació pública](/serveis/ocupacio_publica.html)
+La informació completa es pot trobar a l'àrea d'[ocupació pública](/serveis/ocupacio-publica.html)

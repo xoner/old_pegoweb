@@ -13,4 +13,4 @@ per cobrir contractes laborals temporals segons necessitats del servei i qualsev
 
 El termini per a presentar instàncies romandrà obert del **28 de març de 2013** fins el **6 d'abril de 2013**
 
-Per a més informació consultar la secció d'[Ocupació Pública](/serveis/ocupacio_publica.html).
+Per a més informació consultar la secció d'[Ocupació Pública](/serveis/ocupacio-publica.html).

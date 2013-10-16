@@ -12,4 +12,4 @@ De conformitat amb la Resolución de la Alcaldia-Presidència sobre aprovació d
 
 El termini per a presentar instàncies romandrà obert del **27 d'agost de 2013** fins el **5 de setembre de 2013**
 
-Per a més informació consultar la secció d'[Ocupació Pública](/serveis/ocupacio_publica.html).
+Per a més informació consultar la secció d'[Ocupació Pública](/serveis/ocupacio-publica.html).

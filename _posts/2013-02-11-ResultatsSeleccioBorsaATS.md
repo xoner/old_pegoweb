@@ -5,7 +5,7 @@ author: Ajuntament de Pego
 ---
 Publicats els resultats de la selecció de la borsa d'un ATS/DUE per a la residència Sant Joan de Deu.
 
-El ducument amb els resultats de la selecció es pot consultar en la secció d'[ocupació pública](/serveis/ocupacio_publica.html)
+El ducument amb els resultats de la selecció es pot consultar en la secció d'[ocupació pública](/serveis/ocupacio-publica.html)
 
 ### Documents adjunts ### {: #head20130211}
 

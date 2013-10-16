@@ -5,7 +5,7 @@ author: Ajuntament de Pego
 ---
 Publicat el llistat d’aspirants admesos i i exclosos de la borsa de treball ATS/DUE.
 
-Es pot consultar tota la informació rellevant en la corresponent secció d'[ocupació publica](/serveis/ocupacio_publica.html)
+Es pot consultar tota la informació rellevant en la corresponent secció d'[ocupació publica](/serveis/ocupacio-publica.html)
 
 ### Documents adjunts ### {: #head20120907}
 

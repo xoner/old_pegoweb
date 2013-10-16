@@ -15,7 +15,7 @@ section: serveis
 El termini per a presentar instàncies romandrà obert del **27 d'agost de 2013** fins el **5 de setembre de 2013**
 
 * [Anunci convocatòria i bases](/pdf/personal/20130829-borsa-treball-conserge/bases-val.pdf)
-* [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130829-borsa-treball-conserge/ununci-llistat-admessos-exclosos-val.pdf)
+* [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130829-borsa-treball-conserge/anunci-llistat-admessos-exclosos-val.pdf)
 </div>
 
 <div class="oferta-treball" markdown="1">
@@ -90,7 +90,7 @@ El termini per a presentar instàncies romandrà obert del **27 de maig de 2013*
 
 * [Anunci convocatòria](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/anunci-convocatoria.pdf)
 * [Llistat admessos/exclosos a les proves selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/anunci-llistat-admessos-exclosos.pdf)
-* [Resultat Proves Selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacioresultat-proves-selectivesexclosos.pdf)
+* [Resultat Proves Selectives](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/resultat-proves-selectives.pdf)
 </div>
 
 <div class="oferta-treball" markdown="1">
@@ -106,7 +106,7 @@ El termini per a presentar instàncies romandrà obert del **27 de maig de 2013*
 El termini per a presentar instàncies romandrà obert del **28 de març de 2013** fins el **6 d'abril de 2013**
 
 * [Anunci convocatòria](/pdf/personal/20130328_borsatreball_mestre_infantil/anunci_convocatoria.pdf)
-* [Sol·licitud Participació Proves Selectives](/pdf/personal/INSTANCIA_BORSES_TREBALL.pdf.pdf)
+* [Sol·licitud Participació Proves Selectives](/pdf/personal/INSTANCIA_BORSES_TREBALL.pdf)
 * [Llistat d'aspirants admessos/esclosos borsa Mestre d'educació infantil](/pdf/personal/20130328_borsatreball_mestre_infantil/anunci_llista.pdf)
 </div>
 
@@ -122,6 +122,6 @@ El termini per a presentar instàncies romandrà obert del **28 de març de 2013
 El termini per a presentar instàncies romandrà obert del **28 de març de 2013** fins el **6 d'abril de 2013**
 
 * [Anunci convocatòria](/pdf/personal/20130328_borsatreball_tecnic_llar_infants/anunci_convocatoria.pdf)
-* [Sol·licitud Participació Proves Selectives](/pdf/personal/INSTANCIA_BORSES_TREBALL.pdf.pdf)
+* [Sol·licitud Participació Proves Selectives](/pdf/personal/INSTANCIA_BORSES_TREBALL.pdf)
 * [Llistat d'aspirants admessos/esclosos borsa Tècnic Superior en llar d'infants](/pdf/personal/20130328_borsatreball_tecnic_llar_infants/anunci_llista.pdf)
 </div>

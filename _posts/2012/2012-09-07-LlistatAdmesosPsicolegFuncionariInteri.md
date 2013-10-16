@@ -6,7 +6,7 @@ date: 2012-09-07T11:25
 ---
 Publicat el llistat d’aspirants admesos i i exclosos de la plaça de Psicòleg/Psicòloga interí/interina.
 
-Es pot consultar tota la informació rellevant en la corresponent secció d'[ocupació publica](/serveis/ocupacio_publica.html)
+Es pot consultar tota la informació rellevant en la corresponent secció d'[ocupació publica](/serveis/ocupacio-publica.html)
 
 ### Documents adjunts ### {: #head20120907}
 

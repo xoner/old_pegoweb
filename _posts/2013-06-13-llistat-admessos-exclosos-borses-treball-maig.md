@@ -10,4 +10,4 @@ Publicats els llistats de admessos i exclosos a les proves selectives de les bor
 * [Monitors temps lliure àrea esports.](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-esports/anunci-llistat-admessos-exclosos.pdf)
 * [Monitors temps lliure àrea educació.](/pdf/personal/20130527-borsatreball-monitor-temps-lliure-area-educacio/anunci-llistat-admessos-exclosos.pdf)
 
-La informació completa es pot trobar a l'àrea d'[ocupació pública](/serveis/ocupacio_publica.html)
+La informació completa es pot trobar a l'àrea d'[ocupació pública](/serveis/ocupacio-publica.html)

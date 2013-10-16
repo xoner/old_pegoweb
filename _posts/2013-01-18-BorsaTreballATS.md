@@ -7,4 +7,4 @@ Obert el termini per a la presentació d'instàncies per a entrar en la selecci�
 
 El termini per a presentar instàncies romandrà obert del **18 de gener de 2013** fins el **28 de gener de 2013**
 
-Per a més informació consultar la secció d'[Ocupació Pública](/serveis/ocupacio_publica.html).
+Per a més informació consultar la secció d'[Ocupació Pública](/serveis/ocupacio-publica.html).
