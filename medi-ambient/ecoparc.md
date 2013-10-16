@@ -23,9 +23,9 @@ De 07:30 fins les 13:00
 
 ### Localització
 Carrer Llavador S/N
-+-- {: .center}
+<div class="center" markdown="1">
 ![Localització Ecoparc](/images/medi/ecoparc.jpg)
-=--
+</div>
 
 ### Residus autoritzats
 * Plàstics

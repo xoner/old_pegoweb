@@ -26,6 +26,6 @@ A partir d'octubre, tota la familia podrà realitzar activitats esportives a Peg
 
 Més informació a la segona planta de l'Ajuntament de Pego, Regidoria d'Esports.
 
-+-- {: .center}
+<div class="center">
 **Vine a Gaudir de l'esport a Pego**
-=--
+</div>

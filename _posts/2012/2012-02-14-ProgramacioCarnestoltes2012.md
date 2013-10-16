@@ -12,9 +12,9 @@ Com ja sabeu enguany els carnestoltes tornen als carrers del nostre poble. Ací 
 
 **PER A GAUDIR DE L’AUTÈNTIC CARNESTOLTES, HEM DE RESPECTAR ELS VEÏNS, ELS CARRERS, LES CASES, ELS COTXES…
 HEM DE RESPECTAR EL NOSTRE POBLE.**
-+-- {: .clear}
+<div class="clear">
 &nbsp;
-=--
+</div>
 
 ### Programació de la diada de carnestoltes 2012
 +-- {: .no-list}
@@ -25,7 +25,7 @@ HEM DE RESPECTAR EL NOSTRE POBLE.**
 * &nbsp;<time datetime="2012-02-18T18:00">18:00</time> Cercavila de la batucada **ONDARAATACK** i exhibició de muixerangues a la plaça del mercat.
 * &nbsp;<time datetime="2012-02-18T23:00">23:00</time> Actuació de l'orquestra **Zeppelin Band** al pla de la font (fins les 3 de la matinada).
 * &nbsp;<time datetime="2012-02-19T01:00">01:00</time> Gran desfilada de carnestoltes, amb l'itinerari: Pla de la font, Sant Agustí, Plaça de l'Ajuntament, Poeta llorente i Plaça del mercat.<br /> Al mateix temps, en la plaça del mercat, començaran a sonar alternat-se les orquestres **Crash** i **La Bruja** i a la plaça de l'ajuntament hi haurà un gran discomòbil.
-=--
+</div>
 
 ### Distribució de zones
 +-- {: .no-list}
@@ -46,9 +46,9 @@ Pl. Mercat (fins les 6h) <br />
 St Rafel (fins les 6h) <br />
 St Carles (fins les 6h) <br />
 Discoteques - Polígon (fins les 9 del matí)
-=--
+</div>
 
 ### Documents adjunts
-+-- {: .impressos}
+<div class="impressos" markdown="1">
 * [Tríptic programació Carnestoltes](/pdf/festes/20120214-FolletoCarnetoltes.pdf)
-=--
+</div>

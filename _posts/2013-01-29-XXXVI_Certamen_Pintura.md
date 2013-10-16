@@ -18,6 +18,6 @@ Els bulletins d'inscripció es troben dins del document de les bases.
 <div style="clear:both">&nbsp;</div>
 
 ### Documents Adjunts
-+-- {: .impressos}
+<div class="impressos" markdown="1">
 * [Bases Certamen Pintura 2013](/pdf/noticies/20130129-BasesCertamenPintura2013.pdf)
-=--
+</div>

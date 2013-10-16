@@ -22,12 +22,12 @@ Podeu inscriure's descarregar-se la sol·licitud i presentant-al a l'Ajuntament,
 
 *Per a qualsevol dubte o qüestió, dirigir-se a la Regidoria de Festes (2on pis Ajuntament).*
 
-+-- {: .center}
+<div class="center" markdown="1">
 ### GAUDIM DE LES AUTÈNTIQUES FESTES DE PEGO.
-=--
+</div>
 
-+-- {: .impressos}
+<div class="impressos" markdown="1">
 ### Documents adjunts
 * [Bases Participació Baixada Riu Bullent](/pdf/festes/20120127-BasesBaixadaRiuBullent2012.pdf)
 * [Sol·licitud inscripció Baixada Riu Bullent](/pdf/festes/20120127-SolicitudInscripcioBaixada2012.pdf)
-=--
+</div>

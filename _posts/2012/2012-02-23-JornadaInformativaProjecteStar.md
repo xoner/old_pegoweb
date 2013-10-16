@@ -21,9 +21,9 @@ a explicar tots els aspectes relacionats amb la implantació del Projecte STAR d
 És per això que us convidem a assistir a la Jornada que es celebrarà en el lloc i la data que
 s’indica a continuació:
 
-+-- {: .center}
+<div class="center" markdown="1">
 #### JORNADA INFORMATIVA A PEGO EL PROJECTE STAR D’IBERDROLA. SUBSTITUCIÓ DELS EQUIPS DE MESURA
-=--
+</div>
 
 * **Organitza:**  Ajuntament de PEGO. Regidoria d’Urbanisme.
 * **Col·laboració i ponència:** APEME. Associació Provincial d’Empresaris de Muntatges Elèctrics
@@ -41,8 +41,8 @@ Als assistents a la Jornada se’ls entregarà un tríptic informatiu resum del 
 
 Atentament,
 
-+-- {: .center}
+<div class="center" markdown="1">
 El Regidor Delegat de l’Àrea d’Urbanisme:
 
 **José M&#170; Ferrer Durbá**
-=--
+</div>

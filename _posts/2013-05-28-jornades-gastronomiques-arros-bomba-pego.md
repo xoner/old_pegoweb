@@ -19,8 +19,8 @@ A la pàgina web [pegoilesvalls.es](http://www.pegoilesvalls.es) i [www.creama.o
 Complementàriament a aquestes jornades, el dissabte 1 de juny el parc natural ha organitzat una visita guiada gratuïta a la marjal de Pego on es visitarà la Muntanyeta verda i la zona del Salinar. Els telèfons per a inscriure's són 96 642 32 05 i 679 19 52 27.
 
 ### Documents Adjunts {: #head20130528}
-+-- {: .pdf-list}
+<div class="pdf-list" markdown="1">
 
 * [Programació jornades gastronòmiques](/pdf/news/20130528-programa-jornades-gastornomiques.pdf)
 
-=--
+</div>

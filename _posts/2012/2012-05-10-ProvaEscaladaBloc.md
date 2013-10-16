@@ -10,6 +10,6 @@ El proper dissabte 19 de maig, Pego acollirà la primera prova de la Copa d'Espa
 
 L'escalada en bloc que consisteix en uns mòduls de quatre cares d'uns 6m d'alçada on amb l'ajuda d'uns panels i preses artificials es marquen uns passos d'escalada que van pujant de dificultat amb uns matalassos al terra per a esmorteir les possibles caigudes. El Centre Excursionista de Pego està realitzant un gran esforç per a que la competició i l'espectacle estiguen assegurats durant tot el dissabte dia 19. 
 
-+-- {: .center}
+<div class="center" markdown="1">
 **Vine a gaudir de l'esport a Pego**
-=--
+</div>

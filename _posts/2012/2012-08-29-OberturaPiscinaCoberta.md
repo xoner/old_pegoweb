@@ -11,8 +11,8 @@ author: Regidoria d'Esports
 Oberta la inscripció per a obtindre els **ABONAMENTS**  per a la piscina coberta. A partir del *DILLUNS 10 DE SETEMBRE* ja tornarà a estar en funcionament, i a partir del mes d'octubre començaran els cursets de natació i tota la resta d'activitats programades.
 Per a més informació i per a consultar PREUS I HORARIS, ens podeu trobar a les instal.lacions de la piscina a partir del dia 10 de setembre, a l'Ajuntament (2º pis, Regidoria d'Esports) o [a la secció esports de la web](/esports/instalacions.html)
 
-+-- {: .center}
+<div class="center" markdown="1">
 **REGIDORIA D'ESPORTS**
 
 Vine a Gaudir de l'Esport a Pego
-=--
+</div>

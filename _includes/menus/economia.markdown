@@ -1,4 +1,4 @@
 * [Creama](/economia/creama.html)
-* [Agenda XXI](/economia/agendaxxi.html)
+* [Agenda XXI](/economia/agenda-xxi.html)
 * [Suma](/economia/suma.html)
-* [Utilitat c&agrave;lcul plusvalia](/economia/util_plusvalia.html)
+* [Utilitat c&agrave;lcul plusvalia](/economia/utilitat-calcul-plusvalia.html)

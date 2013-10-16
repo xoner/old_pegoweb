@@ -4,9 +4,9 @@ section: turisme
 title: Activitats i contacte - Oficina turisme Pego
 ---
 
-+-- {: .center}
+<div class="center" markdown="1">
 ![Tourist Info](/images/turisme/tourist_info.jpg)
-=--
+</div>
 
 ### Tourist Info de Pego i les Valls
 

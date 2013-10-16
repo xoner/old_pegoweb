@@ -20,13 +20,13 @@ Podeu inscriure's descarregar-se la sol·licitud i presentant-al a l'Ajuntament,
 Qualsevol dubte o qüestió, dirigir-se a la Regidoria de Festes (2on pis Ajuntament).
 
 
-+-- {: .center}
+<div class="center" markdown="1">
 **GAUDIM DE LES NOSTRES FESTES DE PEGO.**
-=--
+</div>
 
 ### Documents adjunts
 
-+-- {: .pdf-list}
+<div class="pdf-list" markdown="1">
 * [Bases baixada riu bullent 2013](/pdf/festes/20130121-BasesBaixadaRiuBullent2013.pdf)
 * [Sol·licitud participació baixada riu bullent 2013](/pdf/festes/20130121-SolicitudBaixadaRiuBullent2013.pdf)
-=--
+</div>

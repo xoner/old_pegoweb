@@ -12,14 +12,14 @@ Degut a l'elevat nombre de sol·licituds presentades al registre d'entrada d'aqu
 
 Plaç de presentació de les sol·licituds, del 2 al 16 d'abril en el Registre d'entrada de aquest Ajuntament ubicat en la planta baixa.
 
-+--{: .center}
+<div class="center" markdown="1">
 **Regidoria de Comerç**
 
 **Ajuntament de Pego**
-=--
+</div>
 
 ### Documents adjunts {: #head20130402}
-+-- {: .pdf-list}
+<div class="pdf-list">
 * [Ordenança Reguladora de la Venda no Sedentària en el Terme Municipal de Pego](/pdf/news/20130402_OrdenancaVendaNoSedentaria.pdf)
 * [Model d'inscripció](/pdf/news/20130402_ModelDInscripcio.pdf)
-=--
+</div>

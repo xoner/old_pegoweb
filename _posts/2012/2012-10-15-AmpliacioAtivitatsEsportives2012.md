@@ -35,6 +35,6 @@ S'amplia l'oferta d'activitats esportives enfocades a persones adultes als recin
 
 Per a més informació passa per la segon planta de l' Ajuntament a la Regidoria d'esports o per la piscina coberta.
 
-+-- {: .center}
+<div class="center">
 **Vine a gaudir de l'esport a Pego**
-=--
+</div>

@@ -1,17 +1,17 @@
-### Camp de futbol Cervantes  {.esports-hx}
-+-- {.photos}
+### Camp de futbol Cervantes
+<div class="photos">
 &nbsp;
-=--
+</div>
 
-+-- {.address}
-#### Localització    {.esports-hx}
+<div class="address" markdown="1">
+#### Localització
 Carrer Ausiàs March 1
-=--
+</div>
 
-+-- {.other-info}
-+-- {.time_table}
-#### Horaris {.esports-hx}
+<div class="other-info">
+<div class="time_table" markdown="1">
+#### Horaris
 * De **dilluns a divendres** de <time>16:00</time> a <time>22:00</time>
 * **Dissabte** de <time>08:00</time> a <time>14:00</time> i de <time>15:00</time> a <time>21:00</time>
-=-- {% comment %} .time-table {% endcomment %}
-=-- {% comment %} .other-info {% endcomment %}
+</div> {% comment %} .time-table {% endcomment %}
+</div> {% comment %} .other-info {% endcomment %}
