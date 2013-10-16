@@ -12,6 +12,6 @@ Dissabte **3 de Novembre** es celebrarà el festival Noves Tribus Urbanes, al ll
 
 <div style="clear:both">&nbsp;</div>
 
-+-- {: .center}
+<div class="center">
 Organitzat per les **Regidories de Joventut i Esports de l'Ajuntament de Pego** amb la Col·laboració de la Discoteca Albades.
-=--
+</div>

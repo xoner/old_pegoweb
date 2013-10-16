@@ -3,9 +3,9 @@ layout: page
 section: medi
 title: Epsar (Depuradora)
 ---
-+-- {: .center }
+<div class="center" markdown="1">
 ![Logo EPSAR](/images/medi/epsar.gif)
-=--
+</div>
 
 ### EPSAR: Entitat Pública de Sanejament d'Aigües
 <table markdown="1">

@@ -8,6 +8,6 @@ layout: post
 
 A partir de les 00.00 de la nit la gent anirà concentrant-se al recinte esportiu i fins la matinada hi haurà una macrodiscomòbil, amb la música més actual del moment, i serà així la millor manera d'acomiadar l'estiu del 2012.
 
-+-- {: .center}
+<div class="center" markdown="1">
 **Vine a gaudir de les Festes de Pego**
-=--
+</div>

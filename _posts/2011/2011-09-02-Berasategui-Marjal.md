@@ -12,6 +12,6 @@ El proper dilluns ***5 de setembre***, s'iniciarà la sega de l'arròs al Parc N
 
 La visita del prestigiós cuiner està prevista inicialment a les ***18:30*** a l'***Ullal de Bullent***.
 
-+--     {: .clear }
+<div class="clear">
 &nbsp;
-=--
+</div>

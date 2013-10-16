@@ -8,4 +8,107 @@ RewriteEngine On
 # 301 errors are hardly cached in the browser.
 # RewriteCond %{HTTP_USER_AGENT} ^ajupego-browser-tests$
 
+# Old linked pages that no longer exist.
+
+RewriteRule /noticies_anteriors.html$ http://www.pego.org/noticies-anteriors.html [L,R=302]
+RewriteRule /indexv.html$ http://www.pego.org/index.html [L,R=302]
+
+# ajuntament
+
+RewriteRule ajuntament/ajuntamentv.html$ http://www.pego.org/ajuntament/salutacio-alcalde.html [L,R=302]
+RewriteRule ajuntament/salutacio.html$ http://www.pego.org/ajuntament/salutacio-alcalde.html [L,R=302]
+RewriteRule ajuntament/salutacio.php$ http://www.pego.org/ajuntament/salutacio-alcalde.html [L,R=302]
+
+RewriteRule ajuntament/equip_govern.html$ http://www.pego.org/ajuntament/equip-govern.html [L,R=302]
+
+RewriteRule ajuntament/grups_politics.html$ http://www.pego.org/ajuntament/grups-politics.html [L,R=302]
+
+RewriteRule ajuntament/junta_govern.html$ http://www.pego.org/ajuntament/junta-govern.html [L,R=302]
+
+RewriteRule ajuntament/llibre_honor.html$ http://www.pego.org/ajuntament/llibre-honor.html [L,R=302]
+
+RewriteRule ajuntament/secretaria_alcalde.html$ http://www.pego.org/ajuntament/secretaria-alcaldia.html [L,R=302]
+
+# cultura
+
+RewriteRule cultura/casav.html$ http://www.pego.org/cultura/biblioteca.html [L,R=302]
+RewriteRule cultura/bibliov.html$ http://www.pego.org/cultura/biblioteca.html [L,R=302]
+
+RewriteRule cultura/culturav.html$ http://www.pego.org/cultura/historia.html[L,R=302]
+
+RewriteRule cultura/blanc_negre.html$ http://www.pego.org/cultura/galeria-blanc-negre.html [L,R=302]
+RewriteRule cultura/galeria_imatges.html$ http://www.pego.org/cultura/galeria-imatges.html [L,R=302]
+
+RewriteRule cultura/ambrav.html$ http://www.pego.org/cultura/castell-ambra.html [L,R=302]
+RewriteRule cultura/castell.html$ http://www.pego.org/cultura/castell-ambra.html [L,R=302]
+RewriteRule cultura/castell_ambra.html$ http://www.pego.org/cultura/castell-ambra.html [L,R=302]
+
+RewriteRule cultura/macv.html$ http://www.pego.org/cultura/museu-art-contemporani.html [L,R=302]
+RewriteRule cultura/museu_art.html$ http://www.pego.org/cultura/museu-art-contemporani.html [L,R=302]
+
+RewriteRule cultura/museu_etnologic.html$ http://www.pego.org/cultura/museu-etnologic.html [L,R=302]
+
+RewriteRule cultura/passeigv.html$ http://www.pego.org/cultura/passeig-carrers-respiren-historia.html [L,R=302]
+RewriteRule cultura/passeig_carrers.html$ http://www.pego.org/cultura/passeig-carrers-respiren-historia.html [L,R=302]
+
+RewriteRule cultura/passeig_vall.html$ http://www.pego.org/cultura/passeig-arqueoligic-vall-pego.html [L,R=302]
+
+RewriteRule cultura/certamen_pintura/XXXVI.html$ http://www.pego.org/cultura/certamen-pintura/XXXVI.html [L,R=302]
+RewriteRule cultura/certamen_pintura/XXXVII.html$ http://www.pego.org/cultura/certamen-pintura/XXXVII.html [L,R=302]
+
+# economia
+
+RewriteRule economia/agenda21.php$ http://www.pego.org/economia/agenda-xxi.html [L,R=302]
+RewriteRule economia/agendaxxi.html$ http://www.pego.org/economia/agenda-xxi.html [L,R=302]
+
+RewriteRule economia/util_plusvalia.html$ http://www.pego.org/economia/utilitat-calcul-plusvalia.html [L,R=302]
+
+# educacio
+
+RewriteRule educacio/perez_ramos.html$ http://www.pego.org/educacio/perez-ramos.html [L,R=302]
+
+# esports
+
+RewriteRule esports/clubsv.html$ http://www.pego.org/esports/associacions.html [L,R=302]
+
+RewriteRule esports/pego_cf.html$ http://www.pego.org/esports/pego-cf.html [L,R=302]
+
+# festes
+
+RewriteRule festes/festesv.html$ http://www.pego.org/festes/festes-i-tradicions.html [L,R=302]
+
+RewriteRule festes/calendari_festius.html$ http://www.pego.org/festes/calendari-festius.html [L,R=302]
+RewriteRule festes/festes_i_tradicions.html$ http://www.pego.org/festes/festes-i-tradicions.html [L,R=302]
+
+# medi-ambient
+
+RewriteRule medi/mediv.html$ http://www.pego.org/medi-ambient/parc-natural-marjal.html [L,R=302]
+RewriteRule medi/parcnaturalmarjal.html$ http://www.pego.org/medi-ambient/parc-natural-marjal.html [L,R=302]
+
+RewriteRule medi/ecoparc.html$ http://www.pego.org/medi-ambient/ecoparc.html [L,R=302]
+
+RewriteRule medi/recollidaresidus.html$ http://www.pego.org/medi-ambient/recollida-residus.html [L,R=302]
+
+RewriteRule medi/epsar.html$ http://www.pego.org/medi-ambient/depuradora.html [L,R=302]
+
+RewriteRule medi/pamer.html$ http://www.pego.org/medi-ambient/neteja-barrancs.html [L,R=302]
+
+# serveis
+
+RewriteRule serveis/serveisv.html$ http://www.pego.org/serveis/mancomunitat.html [L,R=302]
+
+RewriteRule serveis/ocupacio_publica.html$ http://www.pego.org/serveis/ocupacio-publica.html [L,R=302]
+
+# turisme
+
+RewriteRule turisme/turismev.html$ http://www.pego.org/turisme/activitats-i-contacte.html [L,R=302]
+RewriteRule turisme/activitats_i_contacte.html$ http://www.pego.org/medi/turisme/activitats-i-contacte.html [L,R=302]
+
+RewriteRule turisme/situacio_geografica.html$ http://www.pego.org/turisme/situacio-geografica.html [L,R=302]
+
+RewriteRule turisme/videos_pego.html$ http://www.pego.org/turisme/videos-pego.html [L,R=302]
+
+# urbanisme
+
 RewriteRule urbanisme/exp_publica.html$ http://www.pego.org/urbanisme/exposicio-publica.html [L,R=301]
+RewriteRule urbanisme/participacio_publica.html$ http://www.pego.org/urbanisme/participacio-publica.html [L,R=302]

@@ -19,7 +19,7 @@ També organitza tallers par a l'aprofitament de l'oci com són els tallers de D
 **EL PERÍODE DE PRESENTACIÓ DE SOL·LICITUDS PER A LA MATRÍCULA DEL CURS ESCOLAR 2013/2014 QUEDA ESTABLERT DE DILLUNS A DIVENDRES DES DEL 2 FINS AL 30 DE SETEMBRE A LA SEGONA PLANTA DE L'AJUNTAMENT D'11 h. A 14 h. I TAMBÉ APARTIR DEL 16 DE SETEMBRE DE 19h A 21h AL CENTRE ESCOLAR DE FPA "A.PÉREZ RAMOS".**
 
 ### Documents adjunts
-+-- {: .pdf-list}
+<div class="pdf-list" markdown="1">
 * [Aviso del comienzo del cusro escolar 2012-2013 en el centro FPA "A. Pérez Ramos".](/pdf/news/20130812-aviso-comienzo-curso-fpa-perez-ramos-2013-2014.pdf)
 * [Sol·licitud de matricula curs 2013-2014.](/pdf/news/20130812-solicitud-fpa-2013-2014.pdf)
-=--
+</div>

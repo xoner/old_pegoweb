@@ -1,10 +1,11 @@
 ### Centre social municipal
+
 #### Ubicació
-+--     {: .publicBuilding }
+<div class="publicBuilding" markdown="1">
 C/ Sant Agustí nº6 – 1er, 03780  Pego <br />
 Telf. 96 557 06 01  Fax. 96 640 02 56 <br />
 [serveissocials@pego.org](mailto:serveissocials@pego.org)
-=--
+</div>
 
 #### Àmbit d’actuació
 Atenen al poble de Pego,  l’Atzúvia, la Vall de Gallinera, la Vall d’Ebo i la Vall d’Alcalà.

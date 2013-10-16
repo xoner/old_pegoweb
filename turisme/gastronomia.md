@@ -18,9 +18,9 @@ Els ingredients bàsics són:
 * Cigrons.
 * Ous.
 
-+-- {: .center}
+<div class="center" markdown="1">
 ![Arros amb crosta](/images/turisme/crostaiarros2.jpeg)
-=--
+</div>
 
 Hi ha diversos recipients per fer la crosta però els més utilitzats són la cassola de test o la cassola de forn.
 
@@ -31,9 +31,9 @@ Les coques es fan amb farina , aigua calenta i sal ( d’ací el nom d’escalda
 
 Per damunt es posen diferents mescles d’ingredients, la combinació més tradicional és la de gambeta de riu amb tomaca, però, també és tradició la d’ espinacs i gambeta de riu o la de tomaca, tonyina i ou dur.
 
-+-- {: .center}
+<div class="center" markdown="1">
 ![Coques escaldades](/images/turisme/escalcades.jpeg)
-=--
+</div>
 
 #### Les coques al forn
 Massa de farina i de diversos ingredients, de forma generalment ovalada i plana, cuita al forn
@@ -46,13 +46,13 @@ El dia que tots els forns en fan és el dijous, coincidint amb el Mercat.
 
 També tenim un gran sortit de dolços que van acord amb l'època de l'any en que ens trobem.
 
-+-- {: .center}
+<div class="center" markdown="1">
 ![Coques al forn](/images/turisme/coques.jpeg)
-=--
+</div>
 
 També tenim un gran sortit de dolços que van acortd amb l´època de l´any en que ens trobem.
 
-+-- {: .center}
+<div class="center" markdown="1">
 ![Rosquilles](/images/turisme/rosquilles.jpeg)
 ![rotllos](/images/turisme/rotllos.jpeg)
-=--
+</div>

@@ -15,6 +15,7 @@ Grup de Dones Cabal                     | 965572051
 Associació de Discapacitats Obrint Camí | 687084796
 
 ### Altres telèfons d'Interés
+
 Servei                                                  | Telèfon
 --------------------------------------------------------|---------
 Atenció al Menor i Assesorament del maltracte escolar   | 900100033

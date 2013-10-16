@@ -3,4 +3,4 @@
 * [Impressos](/serveis/impressos.html)
 * [Tel&egrave;fons d'inter&eacute;s](/serveis/telefons.html)
 * [Contractaci&oacute;](/serveis/contractacio.html)
-* [Ocupaci&oacute; P&uacute;blica](/serveis/ocupacio_publica.html)
+* [Ocupaci&oacute; P&uacute;blica](/serveis/ocupacio-publica.html)

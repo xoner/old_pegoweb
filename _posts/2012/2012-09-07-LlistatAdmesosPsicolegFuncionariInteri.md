@@ -10,6 +10,6 @@ Es pot consultar tota la informació rellevant en la corresponent secció d'[ocu
 
 ### Documents adjunts ### {: #head20120907}
 
-+-- {: .pdf-list}
+<div class="pdf-list" markdown="1">
 * [Llistat d'aspirants admessos i exclosos de la plaça de Psicòleg/Psicòloga interí/interina](/pdf/personal/20120814_psicoleg_interi_manco/anunci_llista_aspirants_psicoleg.pdf)
-=--
+</div>

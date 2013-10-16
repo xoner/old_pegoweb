@@ -1,16 +1,16 @@
-### Camp de tir i arrosegament    {.esports-hx}
-+-- {.photos}
+### Camp de tir i arrosegament
+<div class="photos">
 &nbsp;
-=--
+</div>
 
-+-- {.address}
-#### Localització    {.esports-hx}
+<div class="address" markdown="1">
+#### Localització
 Partida Benixats 1-5
-=--
+</div>
 
-+-- {.other-info}
-+-- {.time-table}
-#### Horaris {.esports-hx}
+<div class="other-info">
+<div class="time-table" markdown="1">
+#### Horaris
 
-=-- {% comment %} .time-table {% endcomment %}
-=-- {% comment %} .other-info {% endcomment %}
+</div> {% comment %} .time-table {% endcomment %}
+</div> {% comment %} .other-info {% endcomment %}

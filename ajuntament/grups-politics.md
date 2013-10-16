@@ -6,7 +6,7 @@ description: Grups polítics amb representació a l'ajuntament de Pego
 ---
 Després de les eleccions locals del 2011, són quatre els partits polítics amb representació a l'Ajuntament de Pego.
 
-### Partido Popular Pego    {: .iajuntament-hx}
+### Partido Popular Pego
 
 * Maria Teresa Ferrandiz Perello
 * Francisca Orihuel Bordes
@@ -16,21 +16,21 @@ Després de les eleccions locals del 2011, són quatre els partits polítics amb
 * Fernando Gil Sendra
 * Maria del Mar Sastre Escrivá
 
-### Ciutadans de Pego   {: .iajuntament-hx}
+### Ciutadans de Pego
 
 * José Carmelo Ortolá Siscar
 * José Maria Ferrer Durba
 * Alicia Mónica Siscar Escrivá
 * José Pascual García Escrivá
 
-### PSOE Pego   {: .iajuntament-hx}
+### PSOE Pego
 
 * Enrique Moll Briones
 * Pepa Sendra Sala
 * Raúl Tamarit Seresola
 * Andrés Dominguis Franqueza
 
-### Bloc Pego   {: .iajuntament-hx}
+### Bloc Pego
 
 * Angel Sendra Piera
 * Concepción Del Ruste Aguilar

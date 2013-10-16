@@ -15,10 +15,10 @@ Hi ha que rebutjar rotundament totes aquelles pràctiques cap a les dones que ju
 
 L'Ajuntament de Pego vol impulsar el compliment de totes aquelles mesures i iniciatives que tendisquen a lluitar contra la violència que s'exercix sobre les dones. 
 
-+-- {: .center}
+<div class="center">
 **25N DIA INTERNACIONAL CONTRA LA VIOLÈNCIA DE GÈNERE**
 
 **REGIDORIA DE LA DONA**
 
 **AJUNTAMENT DE PEGO**
-=--
+</div>

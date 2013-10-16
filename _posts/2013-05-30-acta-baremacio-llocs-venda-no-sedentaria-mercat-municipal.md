@@ -7,11 +7,11 @@ La Regidoria de Comerç i Promoció Econòmica de l'Ajuntament de Pego, fa públ
 
 A partir de hui s'establix un període d'al·legacions per a tots aquells sol·licitants disconformes amb el resultat de la baremació, que podran presentar-les al registre de l'Ajuntament (Planta Baixa) fins al 14 de juny.
 
-+-- {: .center}
+<div class="center" markdown="1">
 **Regidoria de Comerç i Promoció Econòmica**
-=--
+</div>
 
 ### Documents Adjunts {: #head20130605}
-+-- {: .pdf-list}
+<div class="pdf-list" markdown="1">
 * [Acta de baremació de l'adjudicació dels llocs de venda no sedentària  al Mercat Municipal](/pdf/news/20130530-acta-baremacio-llocs-venda-no-sedentaria-mercat-municipal.pdf)
-=--
+</div>

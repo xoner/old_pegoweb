@@ -12,6 +12,6 @@ La Regidoria d’Esports de Pego, convoca el I Concurs de Fotografia Esportiva V
 Gaudim de l'esport.
 
 ### Documents adjunts {: #head20130315}
-+-- {: .pdf-list}
+<div class="pdf-list" markdown="1">
 * [Bases certamen](/pdf/noticies/20130315-BasesCertamenFotografiaEsportiva.pdf)
-=--
+</div>

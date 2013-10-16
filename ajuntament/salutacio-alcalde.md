@@ -3,9 +3,9 @@ layout: page
 section: ajuntament
 title: Salutacio de l'alcalde
 ---
-+-- {: .center}
+<div class="center">
 <img src="/images/ajuntament/alcalde_salutacio.jpg" alt="Jose Carmelo Ortolà, Alcalde de Pego" title="Jose Carmelo Ortolà, Alcalde de Pego" />
-=--
+</div>
 
 Benvolguts amics/amigues
 
@@ -31,8 +31,8 @@ Espere també que elles l'ajuden a resoldre els dubtes o inquietuds que li provo
 
 A vostes una cordial i afectuosa salutació de:
 
-+-- {: .center}
+<div class="center">
 **L' ALCALDE PRESIDENT DEL M.I.A DE PEGO**
 
 *CARMELO ORTOLÁ*
-=--
+</div>

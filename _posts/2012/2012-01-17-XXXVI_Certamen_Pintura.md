@@ -10,6 +10,6 @@ El termini per presentar obres romandrà obert fins el <time datetime="2012-04-2
 [Les bases](/pdf/cultura/01182012-BasesCertamenPintura2012.pdf) completes es poden consultar en els documents adjunts.
 
 ### Documents Adjunts
-+-- {: .impressos}
+<div class="impressos" markdown="1">
 * [Bases Certamen Pintura 2012](/pdf/cultura/01182012-BasesCertamenPintura2012.pdf)
-=--
+</div>

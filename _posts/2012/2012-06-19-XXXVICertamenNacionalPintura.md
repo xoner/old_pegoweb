@@ -19,7 +19,7 @@ Des d’ací convide a tot el poble de Pego i a tothom, a l’exposició del pre
 
 Bones festes a tot el poble de Pego.
 
-+-- {: .right}
+<div class="right" markdown="1">
 **Alicia Mónica Siscar Escrivá**<br>
 *Regidora de Cultura i Educació*
-=--
+</div>

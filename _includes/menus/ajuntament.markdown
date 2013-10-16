@@ -1,10 +1,10 @@
-* [Salutació de l'alcalde](/ajuntament/salutacio.html)
+* [Salutació de l'alcalde](/ajuntament/salutacio-alcalde.html)
 * [Dependencies municipals](/ajuntament/dependencies.html)
 * **Alcaldia**
-* [Secretaria de l'alcaldia](/ajuntament/secretaria_alcalde.html)
-* [Llibre d'honor](/ajuntament/llibre_honor.html)
+* [Secretaria de l'alcaldia](/ajuntament/secretaria-alcaldia.html)
+* [Llibre d'honor](/ajuntament/llibre-honor.html)
 * **Organització Política**
-* [Equip de govern](/ajuntament/equip_govern.html)
-* [Junta de govern](/ajuntament/junta_govern.html)
-* [Grups politics](/ajuntament/grups_politics.html)
+* [Equip de govern](/ajuntament/equip-govern.html)
+* [Junta de govern](/ajuntament/junta-govern.html)
+* [Grups politics](/ajuntament/grups-politics.html)
 * [Ple](/ajuntament/ple.html)

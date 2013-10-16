@@ -12,7 +12,7 @@ Del 27 al 29 d'abril de 2012, a la Casa de Cultura de Pego, es realitzaran ponè
 Del 23 al 29 d'abril de 2012 setmana gastronòmica per diferents bars/restaurants de Pego.
 
 ## Documents Adjunts
-+--	{.impressos}
+<div class="impressos">
 * [Cartell Setmana Gastronòmica](/pdf/turisme/20120425_cartell_jornades_arros.pdf)
 * [Programació Setmana Gastronòmica](/pdf/turisme/20120425_programa_jornades_arros.pdf)
-=--
+</div>

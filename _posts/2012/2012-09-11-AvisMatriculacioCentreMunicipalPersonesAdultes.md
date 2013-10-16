@@ -13,13 +13,13 @@ També organitza cursos par a l'aprofitament de l'oci com són els cursos-taller
 
 Enguany estos cursos de l'aprofitament de l'oci tenen un preu de matrícula que es podrà pagar en dos terminis i de la següent manera: Preu del curs = 100€ ( 50€ al principi del curs  i 50€ durant el mes de gener). Els matriculats en un curs optaran a un 10% de descompte per cadascun de la resta de cursos que vullguen assistir.
 
-+-- {: .center}
+<div class="center" markdown="1">
 **EL PERÍODE DE PRESENTACIÓ DE SOL·LICITUDS PER A LA MATRÍCULA DEL CURS ESCOLAR 2012/2013 QUEDA ESTABLERT DE DILLUNS A DIVENDRES DES DE El 4 DE SETEMBRE FINS AL 30 DE SETEMBRE A LA SEGONA PLANTA DE L'AJUNTAMENT D'11 h. A 14 h. I TAMBÉ APARTIR DEL 17 DE SETEMBRE DE 19h A 21h AL CENTRE ESCOLAR DE FPA  "A.PÉREZ RAMOS"**
-=--
+</div>
 
 ### Documents adjunts ### {: #head20120911}
 
-+-- {: .pdf-list}
+<div class="pdf-list"  markdown="1">
 * [Horaris curs 2012-2013](/pdf/educacio/HorariFPA_2012_2013.pdf)
 * [Sol·licitaud Matriculacio curs 2012-2013](/pdf/educacio/Solicitud_2012-2013.pdf)
-=--
+</div>

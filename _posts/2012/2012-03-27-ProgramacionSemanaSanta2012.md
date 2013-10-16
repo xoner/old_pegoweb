@@ -17,17 +17,17 @@ Pego, es un pueblo que nace históricamente del cristianismo con la reconquista 
 
 Ojalá que estos días de recogimiento religioso y cristiano, nos sirvan para unir más nuestros lazos de convivencia, frente a la situación ser crisis que estamos atravesando.
 
-+-- {: .right}
+<div class="right" markdown="1">
 **José Carmelo ORTOLA SISCAR**
 
 Alcalde de la Villa de Pego.
-=--
+</div>
 
-+-- {: .update}
+<div class="update" markdown="1">
 **Actualización 03 de Abril 2012**
 
 Se ha detectado un error en la programación de los actos de semana santa, la procesión que estaba anunciada para el Martes 3 de Abril se celebrará el Miércoles 4 de Abril.
-=--
+</div>
 
 ## Programa de Actos
 
@@ -46,7 +46,7 @@ Se ha detectado un error en la programación de los actos de semana santa, la pr
 
 * &nbsp;<time datetime="2012-03-31T17:00">A partir de las 17:00h</time>, las bandas de tambores y cornetas recorrerán las calles de la población.
 * &nbsp;<time datetime="2012-03-31T18:15">A las 18:15</time>, desfilaran hasta la Parroquia de Nuestra Señora de la Asunción.
-  
+
   **ORDEN PROCESIONAL**: Cristo de la providencia, Jesús de Medinaceli, Cristo de la Columna, Stm. Ecce-homo, Jesús Nazareno, Oración del Huerto, Virgen de los Dolores y Santa Mujer Verónica.
 
   **ITINERARIO**: Jaime I, Poeta Llorente, Mayor, Plaza del Ayuntamiento.
@@ -58,13 +58,13 @@ Se ha detectado un error en la programación de los actos de semana santa, la pr
   **ORDEN PROCESIONAL:** Cruz Parroquial, Santa Mujer Verónica, Virgen de la  Piedad, Jesús Nazareno, Virgen de los Dolores , fieles de paisano, autoridades eclesiásticas y civiles, Oración del Huerto.
 
   **ITINERARIO:** San José, San Juan, San Marcos, Maestro Berenguer y Parroquia de la Sagrada Familia.
-* &nbsp;<time datetime="2012-04-01T11:00">A las 11:00h</time> y en la capilla del Stm. Ecce-homo, solemne bendición de ramos y palmas con la procesión hasta la Parroquia de Nuestra Señora de la Asunción, donde al llegar se celebrar la Eucaristía. 
+* &nbsp;<time datetime="2012-04-01T11:00">A las 11:00h</time> y en la capilla del Stm. Ecce-homo, solemne bendición de ramos y palmas con la procesión hasta la Parroquia de Nuestra Señora de la Asunción, donde al llegar se celebrar la Eucaristía.
 
   **ORDEN PROCESIONAL:** Cruz Parroquial, Stm. Ecce-Homo, Cristo de la Providencia, Cristo de la Columna, fieles de paisano, autoridades eclesiásticas y civiles, Jesús de Medinaceli.
 
   **ITINERARIO:** Ecce-homo, Capitán Cendra, San Jaime, San Agustín, Argentina, San Antonio de Padua, Mayor, Plaça Ajuntament, Parroquia de Nuestra Señora de la Asunción.
 
-  **NOTA:** Se ruega a los cofrades que se incorporen en sus respectivas cofradías, dejando el lugar de los fieles de paisano a los asistentes que no permanezcan a ninguna cofradía. 
+  **NOTA:** Se ruega a los cofrades que se incorporen en sus respectivas cofradías, dejando el lugar de los fieles de paisano a los asistentes que no permanezcan a ninguna cofradía.
 
 * &nbsp;<time datetime="2012-04-01T17:00">A las 17:00h</time>, salida procesional de la Parroquia de Nuestra Señora de la Asunción para rezar el ejercicio de los dolores de la virgen en el Calvario.
 
@@ -131,9 +131,9 @@ Se ha detectado un error en la programación de los actos de semana santa, la pr
 
   **ORDEN PROCESIONAL:** Oración del Huerto, Cristo de la Columna, fieles de paisano, Stm. Ecce-homo, Jesús de Medinaceli, Jesús  Nazareno, Cristo de la Providencia con el coro, Virgen de la Piedad, Virgen de los Dolores, Stm. Ecce-homo con la imagen del Cristo Yacente, autoridades eclesiásticas y civiles .
 
-+-- {: .center}
+<div class="center" markdown="1">
 **EL VIERNES SANTO ES DÍA DE AYUNO Y ABSTINENCIA.**
-=--
+</div>
 
 ### Sábado santo de la sepultura del Señor, 7 de Abril
 
@@ -159,7 +159,7 @@ Durante este día no hay culto. La iglesia espera en silencio la resurrección d
 	  **ITINERARIO:** Plaça Ayuntamiento, Ecce-homo, Capitán Cendra, San Jaime, San Agustín, Pla de la Font(margen derecha).
 
   Al llegar al Pla de la Font, celebraremos el momento glorioso del ENCUENTRO DE JESÚS RESUCITADO CON SU MADRE, LA VIRGEN MARIA. Allí se encontrara el “himno de la alegría” por la banda de dulzainas y tabales de la cofradía de la Virgen de la Piedad. Terminado el acto, regresaremos por el itinerario de costumbre, iniciando la procesión las cofradías procedentes de la Parroquia de la Sagrada Familia y a continuación, las de la Parroquia de la Asunción, con el mismo orden de salida. Al  llegar las respectivas procesiones a las parroquias correspondientes, se celebrara la eucaristía solemne de pascua.
-  +-- {: .center}
+  <div class="center">
   **LA PROCESIÓN DE PASCUA ES DE ALEGRÍA. POR LO TANTO, DEBEN SER SUSTITUIDAS LAS COLGADURAS MORADAS DE LOS BALCONES POR OTRAS FESTIVAS.**
-  =--
-=--
+  </div>
+</div>
