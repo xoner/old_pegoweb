@@ -3,36 +3,23 @@ layout: page
 section: ajuntament
 title: Salutacio de l'alcalde
 ---
-<div class="center">
-<img src="/images/ajuntament/alcalde_salutacio.jpg" alt="Jose Carmelo Ortolà, Alcalde de Pego" title="Jose Carmelo Ortolà, Alcalde de Pego" />
+<div class="inline-image">
+<img src="/images/ajuntament/salutacio-alcalde.jpg" alt="Enrique Moll Briones, Alcalde de Pego" title="Enrique Moll Briones, Alcalde de Pego" />
 </div>
 
-Benvolguts amics/amigues
+<div class="center" markdown="1">
+**Enrique Moll Briones**
+</div>
 
-Benvinguts a aquestes, les vostres, pàgines.
+<div style="text-align:justify" markdown="1">
+Benvinguts a la pàgina web de l'Ajuntament de Pego.
 
-Les noves tecnologies de la informació estan significant un canvi important en els nostres hàbits quotidians.
+Des d'aquesta pàgina pretenem acostar la nostra cultura, les nostres festes, la nostra gastronomia, la nostra agricultura i sobretot a la nostra gent, a tota la resta del món.
 
-El que fa poc de temps ens resultava lent, de difícil accés o massa complex en el seu desenvolupament, avui s'ha convertit en un element que forma part de la nostra vida diària.
+A Pego es pot gaudir de múltiples alternatives a l'oci, els nostres carnestaltes, compostos per tres caps de setmana (baixada del riu Bullent, carnestoltes i pinyata), les falles, la nostra Setmana Santa amb les seves  diferents confraries, passos i processons, les festes de moros i cristians, l'últim cap de semana de juny coincidint amb les festes patronals en honor del Stm. Ecce-Homo. La nostra gastronomia influenciada sobretot pel parc natural de la Marjal Pego-Oliva, amb els nostres arrossos (la crosta, la paella, l'arròs caldos amb fesols i penques, l'anguila a l'all i pebre, etc.) La visita al nostre parc és obligatòria , la seva diversitat animal el  fan juntament amb l'Albufera el més important de la Comunitat Valenciana i un dels més importants d'Espanya
+El visitant també podrà admirar alguns dels nostres monuments històrics, com la Capella del Santíssim Ecce-Homo, patró de la vila, el temple parroquial de l'Assumpció, en el que destaquen el retaule de la Mare de Déu de l'Esperança, del segle XV , la doble Venonica del segle XV, i la talla del Crist de la Providència del segle XVII, el Museu Etnològic de l'arròs, i el Museu de Pintura en què es recull la col · lecció dels premiats al certamen nacional de pintura “Vila de Pego”. 
 
-En els temps que corren, des del nostre ordinador, se'ns oferix la possibilitat d'accedir a nombroses i molt distintes fonts d'informació.
+Convidem a tota la gent a descobrir  les possibilitats que ofereix aquesta pàgina web i sobretot el nostre poble. 
 
-Així doncs, el M.I. Ajuntament de Pego ha fet un esforç per incorporar-se als nous canals al crear aquest nou servei des del qual pretenem mantindre informat, d'una manera eficaç, al ciutadà o a qualsevol visitant en general que s'endinse en aquestes pàgines.
-
-Pretenem complir d'alguna manera el que considerem una de les principals obligacions d'aquest Ajuntament. Aquesta no és cap altra que informar de forma transparent el ciutadà, fent-ho en aquest cas des de l'adaptació a les noves tecnologies que ens permeten els temps que vivim.
-
-Aquestes pàgines són també una invitació a endinsar-nos un poc més en la vida cultural de Pego, pretenent al mateix temps servir de via de comunicació interactiva entre el ciutadà, o qualsevol altre visitant, i l'Ajuntament.
-
-Donem doncs, la benvinguda als que accedixen al que pretenem siga un punt de trobada i un instrument eficaç i fluid de comunicació, i no sols d'informació, que és també un meravellós entorn per a mostrar la realitat social i cultural d'aquest, el nostre poble, a tot el món.
-
-Espere que aquesta pàgina siga del seu interés i disfruten amb la informació que els proporciona, amb eixa intenció hem fet l'esforç.
-
-Espere també que elles l'ajuden a resoldre els dubtes o inquietuds que li provoquen les activitats culturals generades per aquest Ajuntament
-
-A vostes una cordial i afectuosa salutació de:
-
-<div class="center">
-**L' ALCALDE PRESIDENT DEL M.I.A DE PEGO**
-
-*CARMELO ORTOLÁ*
+Gràcies.
 </div>
