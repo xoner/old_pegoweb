@@ -5,6 +5,8 @@ _site folder of the jekyll site
 import os
 import subprocess
 import ftplib
+import argparse
+import pdb
 
 import yaml
 try:
@@ -110,17 +112,35 @@ def load_config():
     return config
 
 
-def main():
+def main(arguments):
     os.chdir(CONFIG['jekyll_working_dir'])
 
     files = get_files_to_upload()
-    errors = upload_files(files)
 
-    if not errors:
-        update_rsync_dir()
+    # pdb.set_trace()
+
+    if not arguments.dry_run:
+        errors = upload_files(files)
+
+        if not errors:
+            update_rsync_dir()
+    else:
+        print("Changes to upload")
+
+        for it_file in files:
+            print(it_file)
+
+        print("\n\nNo changes will be updated (dry run)")
+
 
 
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description="Fa un update de la plana web per mig de ftp en base a els canvis que n'hi han hagut en local",
+                                     prog="File uploader")
+    parser.add_argument('-D', '--dry-run', action="store_true")
+
+    args = parser.parse_args()
+
     CONFIG = load_config()
-    main()
+    main(args)
