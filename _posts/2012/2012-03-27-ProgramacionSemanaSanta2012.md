@@ -33,7 +33,7 @@ Se ha detectado un error en la programación de los actos de semana santa, la pr
 
 <!-- -**-END-**- -->
 
-+-- {: .no-list}
+<div class="no-list">
 ### Lunes 26 de Marzo
 
 * &nbsp;<time datetime="2012-03-26T22:00">A las 22:00h</time>, VÍA CRUZIS PENITENCIAL en el Calvario.

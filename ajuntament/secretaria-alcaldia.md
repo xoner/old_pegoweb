@@ -3,7 +3,7 @@ layout: page
 section: ajuntament
 title: Secretaria de l'alcalde
 ---
-La Secretaria de l’Alcaldia de Pego està ubicada al segon pis de l’Ajuntament (plaça  de l’Ajuntament,  número 1). La seua cap, la Secretària de l’Alcalde, s’anomena Aurora Moratal.
+La Secretaria de l’Alcaldia de Pego està ubicada al segon pis de l’Ajuntament (plaça  de l’Ajuntament,  número 1).
 
 Podeu posar-se en  contacte amb nosaltres utilitzant les següent vies:
 
@@ -22,12 +22,8 @@ Tot ciutadà, empresa o associació té el dret a ser escoltat per l’Alcalde p
 
 Nota Important: **DEGUT A LA CONCURRÈNCIA DE L’AGENDA DE L’ALCALDIA, CAL ESTABLIR LA CITA AMB UN MÍNIM DE 15 DIES D’ANTELACIÓ**. Cal tenir en compte que a l’Ajuntament treballa una plantilla de professionals altament qualificada, per la qual cosa pot ser que el seu problema es puga solucionar directament  i d’una manera més ràpida parlant amb aquests tècnics i baix la supervisió de la Secretaria de l’Alcaldia. Per això recomanem que abans de demanar una reunió amb l’Alcalde se’ns consulte el cas a tractar per agilitzar així el nostre treball i trobar una solució més ràpida al seu problema o consulta.
 
- 
-
 ### QUÈ CAL FER SI VOLEM EXPRESSAR UN SUGGERIMENT O FACILITAR  UN ESCRIT A L’ALCALDE?
 
 Caldrà passar eixe escrit o el suggeriment (per escrit) pel Registre General  d’Entrada de l’Ajuntament de Pego (situat a la planta baixa de la Casa Consistorial). Així podrà emportar-se una còpia cap a casa degudament segellada, i a partir d’aleshores queda constància a  l’Ajuntament de la seua petició o escrit; amb això s’evita la seua pèrdua. Els tècnics del Registre d’Entrada diàriament faciliten tots eixos escrits personalment a l’Alcalde, al finalitzar la jornada.
-
- 
 
 I recorde: **A L’AJUNTAMENT DE PEGO ESTEM PER A SERVIR-LO**.
