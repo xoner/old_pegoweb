@@ -11,6 +11,7 @@ Carrer Joan Lluis Vives i March 2-1
 <div class="other-info">
 <div class="time-table" markdown="1">
 #### Horaris
+
 ##### Horari d'hivern
 * De **dilluns a divendres** de <time>16:00</time> h a <time>21:30</time> h
 * **Dissabte** de <time>09:00</time> h a <time>13:00</time> h i de <time>15:00</time> a <time>21:00</time> h

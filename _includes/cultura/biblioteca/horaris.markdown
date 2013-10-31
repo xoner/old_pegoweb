@@ -1,12 +1,11 @@
-<table>
-<tbody>
-    <tr><td>Adreça</td><td>Carrer Sant Domènec, 5. 03780 Pego</td></tr>
-    <tr><td>Telefon</td><td>96 557 28 01</td></tr>
-    <tr><td>Mail</td><td markdown="1">[culturapego@telefonica.net](mailto:culturapego@telefonica.net)</td></tr>
-    <tr><td>Horari d'hivern</td><td>De dilluns a dissabte, de 10:00 a 14:00 i de 17:00 a 20:00</td></tr>
-    <tr><td>Horari d'estiu</td><td>(Juliol i agost) De dilluns a dissabte de 08:00 a 14:00</td></tr>
-</tbody>
-</table>
+
+|---
+|Adreça              |Carrer Sant Domènec, 5. 03780 Pego
+|Telefon             |96 557 28 01
+|Mail                |[culturapego@telefonica.net](mailto:culturapego@telefonica.net)
+|Horari d'hivern     |De dilluns a dissabte, de 10:00 a 14:00 i de 17:00 a 20:00
+|Horari d'estiu      |(Juliol i agost) De dilluns a dissabte de 08:00 a 14:00
+
 
 ### Serveis
 * Sala de consulta.

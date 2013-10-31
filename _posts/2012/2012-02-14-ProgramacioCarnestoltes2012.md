@@ -17,7 +17,7 @@ HEM DE RESPECTAR EL NOSTRE POBLE.**
 </div>
 
 ### Programació de la diada de carnestoltes 2012
-+-- {: .no-list}
+<div class="no-list">
 * &nbsp;<time datetime="2012-02-18T10:30">10:30</time> Concentració de xiquets i xiquetes disfressats a la plaça del mercat.
 * &nbsp;<time datetime="2012-02-18T11:00">11:00</time> Cercavila infantil cap al passeig cervantes, on hi haurà jocs per a tots els xiquets.
 * &nbsp;<time datetime="2012-02-18T13:00">13:00</time> Taller de muixeranga al pla de la font.
@@ -28,7 +28,7 @@ HEM DE RESPECTAR EL NOSTRE POBLE.**
 </div>
 
 ### Distribució de zones
-+-- {: .no-list}
+<div class="no-list">
 #### Zona de barres
 Del carrer poeta llorente fins Sant Rafel.
 
