@@ -3,11 +3,11 @@ layout: page
 section: ajuntament
 title: Junta de govern local
 ---
-El membres que composen la junta de govern local despres de les eleccions del 22 de Maig de 2011 son els següents:
+El membres que composen la junta de govern local són els següents:
 
-* José Carmelo Ortolá Siscar
-* Enrique Moll Briones
-* José Maria Ferrer Durba
-* Josefa Sendra Sala
-* José Pascual García Escrivá
-* Raúl Tamarit Seresola
+* **PRESIDENT:** SR.ALCALDE. SR. ENRIQUE MOLL BRIONES. 
+* SRA. PEPA SENDRA SALA
+* SR. RAUL TAMARIT SERESOLA.
+* SR.  JOSE CARMELO ORTOLÀ SISCAR
+* SRA. ALICIA SISCAR ESCRIVÀ.
+* SR. JOSE PASCUAL GARCÍA ESCRIVÁ.

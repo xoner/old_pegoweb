@@ -4,8 +4,12 @@ section: ajuntament
 title: Grups polítics
 description: Grups polítics amb representació a l'ajuntament de Pego
 ---
-Després de les eleccions locals del 2011, són quatre els partits polítics amb representació a l'Ajuntament de Pego.
 
+<div class="update center">
+Estem sol·lucionant algunes errades presents en aquesta plana.
+</div>
+{% comment %}
+Després de les eleccions locals del 2011, són quatre els partits polítics amb representació a l'Ajuntament de Pego.
 ### Partido Popular Pego
 
 * Maria Teresa Ferrandiz Perello
@@ -34,3 +38,4 @@ Després de les eleccions locals del 2011, són quatre els partits polítics amb
 
 * Angel Sendra Piera
 * Concepción Del Ruste Aguilar
+{% endcomment %}
