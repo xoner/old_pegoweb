@@ -3,6 +3,7 @@ title: Arxiu de Noticies
 layout: post
 author: Ajuntament de Pego
 date: "now"
+description: Històric de les noticies publicades a la plana web de l'Ajuntament de Pego.
 ---
 <div class="span-13 news">
     <ul>

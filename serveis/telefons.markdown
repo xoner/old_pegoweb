@@ -2,6 +2,7 @@
 layout: page
 title: Telèfons d'interés
 section: serveis
+description: Recull de telefons d'interes.
 ---
 Entitat                                     | Telefon
 --------------------------------------------|----------

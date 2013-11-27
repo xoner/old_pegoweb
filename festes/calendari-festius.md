@@ -2,6 +2,7 @@
 layout: page
 section: festes
 title: Calendari Festius 2013
+description: Calendari de dies festius al municipi de Pego.
 ---
 <div class="center" markdown="1">
 ### Gener

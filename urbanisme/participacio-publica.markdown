@@ -2,6 +2,7 @@
 layout: page
 title: Plans de participació pública
 section: urbanisme
+description: Informació sobre els plans de participació pública del municipi de Pego.
 ---
 <div class="ppp" markdown="1">
 ### Pla de Participació Pública de l’estudi d’integració paisatgística per a la legalització d’habitatge Castelló, polígon 10, parcel·la 212

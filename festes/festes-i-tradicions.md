@@ -2,10 +2,11 @@
 layout: page
 section: festes
 title: Festes i tradicions
+description: Recull de les festes i tradicionscions més característiques que es celebren al poble de Pego.
 ---
 ### SANT ANTONI DEL PORQUET
 
-Les festes de Pego comencen amb el Porrat de Sant Antoni del Porquet, el dia 17 de Gener. Antigament s’anunciava aquesta festa el dia d’abans amb el ritual del foc. 
+Les festes de Pego comencen amb el Porrat de Sant Antoni del Porquet, el dia 17 de Gener. Antigament s’anunciava aquesta festa el dia d’abans amb el ritual del foc.
 Avui en dia, encara es manté l’ancestral tradició de beneir els animals caminant tres vegades al voltant de l’ermita. Al costat d’aquesta s’instal·la una xicoteta fira de dolços tradicionals on podem comprar pomes acaramel·lades, tot tipus de fruits secs i martells de caramel entre altres coses.
 
 ### BAIXADA DEL RUI BULLENT
@@ -47,11 +48,11 @@ Eren temps on els anys estaven replets de festes religioses, totes elles dedicad
 Les confraries anirien augmentant en el temps, o algunes desapareixent, i la de la Sang, convertint-se en el patró de la religió popular arran de l'aparició miraculosa de la imatge de l'Ecce-Homo en les dependències de l'hospital de pobres entre el segle XVI i XVII. Durant el segle XIX s'institucionalitzà la festa en honor a l'Ecce-Homo, celebrant-se a principis del mes de juliol. Fins i tot, coincidint amb l'agricultura tradicional de la morera i la seda, es feien les famoses ofrenes de botja.
 
 Ja al segle XX, a la seua meitat, s'hi configura el panorama de les confraries que quasi ha perdurat fins avui. El 1950 hi havia les següents: la confraria de l’ Ecce-Homo,  la del Crist de la Providència, la de Jesús Natzarè, la de la Dolorosa, la de l’Oració de l'Hort, la del “Cristo Flagelación”, la del “Cristo Yacente” (obra de Jerique Just). A totes aquestes imatges les acompanyava la quadrilla de soldats romans anomenats “Caps de Ferro”, també les vestes i les corals que lloaven a les imatges. Començava la festa el Diumenge de Rams i acabava el Diumenge de Pasqua, dia en què se celebrava el famós “Encontre”.
-En l'actualitat la Setmana Santa a Pego es composa de nou passos o imatges, que per ordre acostumat en la jerarquia processional són els següents: la Creu dels Trastos, l’Oració de l'Hort, el Crist de la Columna, l’Ecce-Homo, el Jesús de Medinaceli, la Mare de Déu dels Dolors, el Jesús de Natzarè, la Verònica i el Crist de la Providència. 
-Una altra imatge realment admirable i particular, és la del Sant Sepulcre, que substitueix a la de l'Ecce-Homo la nit del Divendres Sant. A totes elles s'unirà molt prompte la Pietat, de l'escultor Miquel Costa, recentment adquirida per l'Ajuntament. 
+En l'actualitat la Setmana Santa a Pego es composa de nou passos o imatges, que per ordre acostumat en la jerarquia processional són els següents: la Creu dels Trastos, l’Oració de l'Hort, el Crist de la Columna, l’Ecce-Homo, el Jesús de Medinaceli, la Mare de Déu dels Dolors, el Jesús de Natzarè, la Verònica i el Crist de la Providència.
+Una altra imatge realment admirable i particular, és la del Sant Sepulcre, que substitueix a la de l'Ecce-Homo la nit del Divendres Sant. A totes elles s'unirà molt prompte la Pietat, de l'escultor Miquel Costa, recentment adquirida per l'Ajuntament.
 És la Setmana Santa pegolina una festa arrelada i de tradició popular, on destaquen les ancestrals confraries i imatges, el soroll de les cornetes i tabals, el fum del ciri i l'olor de la cera, i el silenci processional. El Dimecres Sant continua celebrant-se la tradicional “Salpassa”, encara que desvirtuada pel temps, sense perdre el seu encant de presència dins de la festa religiosa.
 
-Realment particular és la pujada al Calvari de Divendres Sant, entre els xiprers, els espectadors devots , i les capelles de la passió de Crist que conjuguen els blancs de la pedra i el cromatisme de la ceràmica tradicional valenciana, pugen les imatges fins l'ermita de Sant Joaquim. Al bell mig del passatge l'encontre entre la Mare de Déu i el seu fill Jesús de Natzarè ompli de realisme la jornada, els portadors alcen la pesada imatge just el moment de l’encontre. 
+Realment particular és la pujada al Calvari de Divendres Sant, entre els xiprers, els espectadors devots , i les capelles de la passió de Crist que conjuguen els blancs de la pedra i el cromatisme de la ceràmica tradicional valenciana, pugen les imatges fins l'ermita de Sant Joaquim. Al bell mig del passatge l'encontre entre la Mare de Déu i el seu fill Jesús de Natzarè ompli de realisme la jornada, els portadors alcen la pesada imatge just el moment de l’encontre.
 La festa de la Setmana Santa acaba el Diumenge de Pasqua o de Resurrecció, i de nou l'encontre entre la mare i el fill esdevé d'una cerimònia majestuosa. Al Pla de la Font i des dels balcons del veïnat plouen flors per a la Verge, a la nova imatge de la mare de Déu de Pasqua, i alcen el vol els coloms, i mentre sona l'himne de l'alegria, angelicalment.
 
 

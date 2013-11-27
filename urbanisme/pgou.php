@@ -5,6 +5,7 @@ section: urbanisme
 jqueryui: true
 customjs: |
     $(function(){$('#accordion').accordion({allwaysOpen: false,active: false,header: 'h3',clearStyle: true});$('.acc-content-3').accordion({allwaysOpen: false,active: false,header: 'h4',clearStyle: true});$('.acc-content-4').accordion({allwaysOpen: false,active: false,header: 'h5',clearStyle: true});});
+description: Pla genereal d'ordenació urbana del poble de Pego
 ---
 <?php
 // Page variables and functions.

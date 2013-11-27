@@ -4,6 +4,7 @@ title: Centres educatius
 section: educacio
 menu: educacio
 jqueryui: true
+description: Informació de contacte, localització i serveis dels diferents centres d'educació presents al municipi de Pego.
 ---
 <div class="tabs tabs-centres" markdown="1">
 

@@ -2,6 +2,7 @@
 layout: page
 title: Descàrrega d'Impressos
 section: serveis
+description: En aquesta secció es poden descarregar els impresos i instancies de diverses gestions administratives municipals.
 ---
 <div class="impressos" markdown="1">
 ### Personal
