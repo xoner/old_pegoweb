@@ -7,7 +7,11 @@ author: Ajuntament de Pego
     <img src="/images/news/20131128-cartell-gala-banc-aliments-small.jpg" alt="Cartell gala benèfica a favor del banc d'aliments de Pego">
 </a>
 
+<<<<<<< HEAD
 El proper dia **7 de Desembre** al **Teatre Municipal de Pego** tindrà lloc una Gala Benèfica a favor del Banc d'Aliments de Pego. En ella participaran artistes del nostre poble i comarca que tots coneixem (La Gossa Sorda, Smoking Soul's, Ball Analia, Jaume Ginestar, Rebeca i Àlex, Fernando "Melonet", Coral del C.E.A.M., l'Orfeo de Pego, Niños Cantores, Fernando "El pur", Blat, The Dancers!!! [Eva Morera i Carlos Portes]) i que desinteressadament aportaran el seu granet d'arena per a formar part d'aquest projecte que fa un any que es va posar en marxa i que ha aconseguit involucrar a gran part de la societat de Pego.
+=======
+El proper dia **7 de Desembre** al **Teatre Municipal de Pego** tindrà lloc una Gala Benèfica a favor del Banc d'Aliments de Pego. En ella participaran artistes del nostre poble i comarca que tots coneixem (La Gossa Sorda, Smoking Soul's, Ball Analia, Jaume Ginestar, Fernando "Melonet", Coral del C.E.A.M., l'Orfeo de Pego, Niños Cantores, Fernando "El pur", Blat, The Dancers!!! [Eva Morera i Carlos Portes]) i que desinteressadament aportaran el seu granet d'arena per a formar part d'aquest projecte que fa un any que es va posar en marxa i que ha aconseguit involucrar a gran part de la societat de Pego.
+>>>>>>> a97cd8864fb265e75ee09f7b83e5bb04bd42e09e
 
 La **gala benèfica** començarà a les **22h** i podreu **comprar** les **entrades a 5 euros** en **qualsevol Associació participant** o també podeu col·laborar en la Fila 0, fent l'ingrés al banc o comprant l'entrada Fila 0.
 
