@@ -24,7 +24,7 @@ Ecopark                                     | **900 36 10 82**
 Emergències                                 | **112**
 Policia Local                               | **96 557 01 18**
 Centre de Salut URGÈNCIES                   | **96 557 25 11**
-FCC (Recollida de Fem)                      | **900 36 10 82**
+Recollida de Fem                            | **900 10 27 30**
 Guàrdia Civil                               | **96 557 00 31**
 Hospital La Pedrera de Dénia                | **96 578 70 12**
 Iberdrola                                   | **90 120 20 20**

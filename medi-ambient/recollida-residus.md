@@ -7,23 +7,25 @@ El fem generat a casa s’ha de tirar als contenidors de recollida selectiva cor
 Les escombraries com: els trastos de buidar casa, electrodomèstics, fusta, rodes, vidre pla, etc. s’han de dur a l’ecoparc municipal respectant l’horari següent:
 
 ### Horari
+
 **De dilluns a divendres** de 9 a 13h. i de 15:30 a 18:30h.
 
 **Dissabte** 9 a 13h.
 
-Si a sa casa té mobles que vol tirar i no té cap mitjà que li permeta dur-lo fins l’Ecoparc, existeix al **telèfon d’atenció 900 361 082** i deixant l’adreça i un telèfon de contacte aniran a recollir-li-ho.
+Si a sa casa té mobles que vol tirar i no té cap mitjà que li permeta dur-lo fins l’Ecoparc, existeix al **telèfon d’atenció 900 102 730** i deixant l’adreça i un telèfon de contacte aniran a recollir-li-ho.
 
 L’imcompliment de qualsevol dels fets exposats amb anterioritat suposarà les sancions que es descriuen a continuació:
 
 ### Sancions
+
 <table class="sancions">
     <tbody>
         <tr>
-            <td markdown="1">**150€**</td>
-            <td markdown="1"><ul><li>Dipositar el fem al contenidor fora de l’horari previst</li></ul></td>
+            <td><strong>150€</strong></td>
+            <td><ul><li>Dipositar el fem al contenidor fora de l’horari previst</li></ul></td>
         </tr>
         <tr>
-            <td markdown="1">**300€**</td>
+            <td><strong>300€</strong></td>
             <td>
 <ul>
 <li> Dipositar materials residuals diferents als consignats en cada cas per als contenidors o recipients destinats a la recollida selectiva de residus.</li>
@@ -33,8 +35,8 @@ L’imcompliment de qualsevol dels fets exposats amb anterioritat suposarà les 
             </td>
         </tr>
         <tr>
-            <td markdown="1">**450€**</td>
-            <td markdown="1"><ul><li>Abandonar mobles i efectes inservibles a la via pública</li></ul></td>
+            <td><strong>450€</strong></td>
+            <td><ul><li>Abandonar mobles i efectes inservibles a la via pública</li></ul></td>
         </tr>
     </tbody>
 </table>
