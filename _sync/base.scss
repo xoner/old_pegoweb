@@ -1,0 +1,92 @@
+// Colors web ajuntament.
+$aj_blau: #2E448D;
+$aj_blau_dos: #7084B7;
+$aj_verd: #9EC301;
+$aj_verd_dos: #BAD74B;
+$aj_roig: #DA1C40;
+$aj_roig_dos: #E96781;
+
+$aj_font: FuturaLight, Verdana, Arial;
+$navbar-default-color: #fff;
+$navbar-inverse-bg: $aj_blau;
+
+@import "bootstrap";
+@import "compass/css3/shared";
+@import "compass/css3/font-face";
+
+// @include font-face("FuturaLight", font-files("/fonts/Futura/futural-webfont.eot", "/fonts/Futura/futural-webfont.woff", "/fonts/Futura/futural-webfont.ttf", "/fonts/Futura/futural-webfont.svg"));
+
+.positioner{
+    margin-top: 175px;
+}
+
+.starter-template {
+    text-align: center;
+}
+
+@mixin section-header($primary_color, $secondary_color){
+    background-color: $primary_color;
+
+    .head{
+        .back{
+            color: $secondary_color;
+        }
+    }
+}
+
+.section-header{
+    border-radius: 5px;
+    min-height: 35px;
+    font-family: $aj_font;
+    position:relative;
+    letter-spacing: 2px;
+    overflow: hidden;
+
+    .head{
+        .front{
+            color: #fff;
+            position: absolute;
+            left: 17px;
+            top: 0px;
+            z-index: 1;
+            font-weight: bolder;
+            font-size: 1.5em;
+        }
+
+        .back{
+            position: absolute;
+            font-size: 2.5em;
+            font-weight: bolder;
+            z-index: 0;
+            bottom: -12px;
+        }
+    }
+}
+
+.section-header-ajuntament {
+    @include section-header($aj_blau, $aj_blau_dos)
+}
+
+.section-header-medi {
+    @include section-header($aj_verd, $aj_verd_dos)
+}
+
+.section-header-esports {
+    @include section-header($aj_roig, $aj_roig_dos)
+}
+
+.company-logo {
+    text-align: center;
+    background-image: url('../img/logo-ajuntament.png');
+    background-repeat: no-repeat;
+    min-height: 95px;
+    max-width: 600px;
+    margin: 10px auto 0 auto;
+
+    h1{
+        color: #fff;
+        padding-top: 10px;
+        text-transform: uppercase;
+        font-family: $aj_font;
+    }
+}

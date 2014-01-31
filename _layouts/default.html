@@ -9,11 +9,8 @@
 {% endif %}
     <title>{{ site.title }} - {{ page.title }}</title>
     <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <link rel="stylesheet" href="/style/blueprint/screen.css" type="text/css" media="screen, projection" />
-    <link rel="stylesheet" href="/style/blueprint/print.css" type="text/css" media="print" />
-    <!--[if lt IE 8]><link rel="stylesheet" href="/style/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
     <link rel="stylesheet" href="/fonts/Futura/stylesheet.css" media="all" />
-    <link rel="stylesheet" href="/style/global.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="all" />
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- Development -->
     <script type="text/javascript" src="/script/jquery1.7.2-min.js"></script>
@@ -34,27 +31,31 @@
 </head>
 <body>
     <div class="container">
-        <div class="span-24 last header">
-           <!--<h1 id="main-title">Ajuntament de Pego<a href="/"><span></span></a></h1>-->
-           <a href="/">
-               <h1 class="main-title">
-                    <img src="/images/escut-ajuntament-pego.png" alt="Escut ajuntament de Pego">
-                    <span class="caption">AJUNTAMENT DE PEGO</span>
-               </h1>
-           </a>
-           <object name="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="594" height="125" style="margin-left: 85px;" data="/images/bannerintro.swf" type="application/x-shockwave-flash">
-                <param name="movie" value="/images/bannerintro.swf"/>
-                <!--[if !IE]>-->
-                <object type="application/x-shockwave-flash" data="images/bannerintro.swf" width="594" height="125">
-                <!--<![endif]-->
-                <p>You need to have flash player installed to see this content</p>
-                <!--[if !IE]>-->
+        <div class="row header">
+            <div class="col-md-12">
+               <!--<h1 id="main-title">Ajuntament de Pego<a href="/"><span></span></a></h1>-->
+               <a href="/">
+                   <h1 class="main-title col-md-3">
+                        <img src="/images/escut-ajuntament-pego.png" alt="Escut ajuntament de Pego">
+                        <span class="caption">AJUNTAMENT DE PEGO</span>
+                   </h1>
+               </a>
+               <div class="col-md-9 aj-caroussel">
+                <object name="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="618" height="130" data="/images/bannerintro.swf" type="application/x-shockwave-flash">
+                    <param name="movie" value="/images/bannerintro.swf"/>
+                    <!--[if !IE]>-->
+                    <object type="application/x-shockwave-flash" data="images/bannerintro.swf" width="618" height="130">
+                    <!--<![endif]-->
+                    <p>You need to have flash player installed to see this content</p>
+                    <!--[if !IE]>-->
+                    </object>
+                    <!--<![endif]-->
                 </object>
-                <!--<![endif]-->
-           </object>
+                </div>
+            </div>
         </div>
         {{ content }}
-        <div class="span-22 last footer">
+        <div class="col-md-10 last footer">
             <p id="footer-info">
             <span class="vcard">
                 <a class="fn org url" href="http://www.pego.org">M.I. Ajuntament de Pego.</a>
@@ -72,7 +73,7 @@
             <span></span></p>
         </div>
         {% if page.show_avanza %}
-        <div class="avanza span-24 last">
+        <div class="avanza col-md-12 last">
             <div class="logos">
                 <img src="/images/logo_avanza.gif" alt="Plan avanza" />
                 <img src="/images/logo_ministeri.gif" alt="Ministerio de Industria, Energia y Turismo" />

@@ -1,40 +1,41 @@
 ---
-layout: front_page
+layout: content_layout
 title: Noticies
+description: Plana web oficial de l'Ajuntament de Pego en Alacant, Espanya. Pagina web oficial del Ayuntamiento de Pego en Alicante, España. Official Website of the City of Pego, Spain.
 show_avanza: true
+section: blog
 ---
-<div class="news-header content-header">
-    <img id="section-header-img" src="/images/news-header.jpg" alt="noticies" />
-    <span class="social">
-        <a href="http://feeds.feedburner.com/AjuntamentDePego"><img src="images/feed.png" alt="feed" title="sindicacio" /></a>
-        <a href="http://www.facebook.com/pages/Ajuntament-de-Pego/210367298986788">
-            <img src="/images/facebook.png" alt="facebook" title="Polsa m'agrada en facebook" />
-        </a>
-        <a href="http://twitter.com/#!/ajupego">
-            <img src="/images/twitter.png" alt="twitter" title="Segueix-nos en twitter" />
-        </a>
-    </span>
+<div class="row">
+    <div class="col-md-12 section-header section-header-{{page.section}}">
+      <div class="head">
+        <span class="front">{{ site.sections['blog']['screen_name'] }}</span>
+        <span class="back">noticies</span>
+      </div>
+    </div>
 </div>
 <!-- NEWS -->
-<div class="span-13 news">
-{% for itPost in site.posts limit:10 %}
-    {% if itPost.skip_front == null or itPost.skip_front == false %}
-    <article>
-        <header>
-            <h2><a href="{{itPost.url}}">{{ itPost.title}}</a></h2>
-            <div class="post-info">
-                Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d del %m de %Y" }}</time>
+<div class="row">
+    <div class="col-md-10 news">
+    {% for itPost in site.posts limit:10 %}
+        {% if itPost.skip_front == null or itPost.skip_front == false %}
+        <article>
+            <header>
+                <h2><a href="{{itPost.url}}">{{ itPost.title}}</a></h2>
+                <div class="post-info">
+                    Publicat per {{ itPost.author }} el <time datetime="{{ itPost.date | date: "%Y-%m-%d" }}">{{ itPost.date | date: "%d del %m de %Y" }}</time>
+                </div>
+            </header>
+            <div class="art-content">
+                {{ itPost.content | summarize }}
+                {% if itPost.longPost %}
+                <a class="read-more" href="{{itPost.url}}">Continuar llegint...</a>
+                {% endif %}
             </div>
-        </header>
-        <div class="art-content">
-            {{ itPost.content | summarize }}
-            {% if itPost.longPost %}
-            <a class="read-more" href="{{itPost.url}}">Continuar llegint...</a>
-            {% endif %}
-        </div>
-    </article>
-    {% endif %}
-{% endfor %}
-    <a href="noticies-anteriors.html">Històric de noticies &rarr;</a>
+        </article>
+        {% endif %}
+    {% endfor %}
+        <a href="noticies-anteriors.html">Històric de noticies &rarr;</a>
+    </div>
+    <!-- END NEWS -->
+    {% include banners.html %}
 </div>
-<!-- END NEWS -->

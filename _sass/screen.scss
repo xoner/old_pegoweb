@@ -1,0 +1,107 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+$aj_blau: #2E448D;
+$aj_blau_dos: #7084B7;
+$aj_verd: #9EC301;
+$aj_verd_dos: #BAD74B;
+$aj_roig: #DA1C40;
+$aj_roig_dos: #E96781;
+
+$aj_font: FuturaLight, Verdana, Arial;
+$navbar-default-color: #fff;
+
+//@import "compass/reset";
+@import "bootstrap";
+@import "compass/css3/shared";
+@import "main-menu";
+
+.header{
+    a {
+        color: #000;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+    h1 {
+        font-family: 'FuturaLight', Arial, Verdana;
+    }
+
+    .caption {
+        display: block;
+        font-size: 0.5em;
+        text-align: center;
+    }
+
+    .aj-caroussel{
+        text-align: center
+    }
+}
+
+@mixin section-header($primary_color, $secondary_color){
+    background-color: $primary_color;
+
+    .head{
+        .back{
+            color: $secondary_color;
+        }
+    }
+}
+
+.section-header{
+    border-radius: 5px;
+    min-height: 35px;
+    font-family: $aj_font;
+    position:relative;
+    letter-spacing: 2px;
+    overflow: hidden;
+
+    .head{
+        .front{
+            color: #fff;
+            position: absolute;
+            left: 17px;
+            top: 0px;
+            z-index: 1;
+            font-weight: bolder;
+            font-size: 1.5em;
+        }
+
+        .back{
+            position: absolute;
+            font-size: 2.5em;
+            font-weight: bolder;
+            z-index: 0;
+            bottom: -12px;
+        }
+    }
+}
+
+.content{
+    margin-top: 10px;
+
+
+    .banners{
+        margin-top: 20px;
+    }
+}
+
+
+.section-header-ajuntament {
+    @include section-header($aj_blau, $aj_blau_dos);
+}
+
+.section-header-blog{
+    @include section-header($aj_blau, $aj_blau_dos);
+}
+
+.section-header-medi {
+    @include section-header($aj_verd, $aj_verd_dos);
+}
+
+.section-header-esports {
+    @include section-header($aj_roig, $aj_roig_dos);
+}

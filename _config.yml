@@ -9,6 +9,11 @@ author:
     twitter: http://twitter.com/ajupego
     facebook: http://ca-es.facebook.com/pages/Ajuntament-de-Pego
 
+
+sections:
+    blog:
+        - screen_name: noticies
+
 menu:
     serveis:
         - src: /serveis/mancomunitat.html

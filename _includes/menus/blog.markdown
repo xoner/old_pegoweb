@@ -1,0 +1,7 @@
+* [Visita virtual](/visitavirtual/virtual_tour.php)
+* [Vídeos de Pego](/turisme/videos-pego.html)
+* [Telèfons D'interés](/serveis/telefons.html)
+* [Contractació](/serveis/contractacio.html)
+* [Normativa](/serveis/normativa.html)
+* [Impressos](/serveis/impressos.html)
+* [Ocupació Pública](/serveis/ocupacio-publica.html)
