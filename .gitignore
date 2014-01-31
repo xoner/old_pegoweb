@@ -3,3 +3,5 @@ _site/*
 _sync/*pego.org
 
 _sync/config.yaml
+
+.sass-cache/*
