@@ -1,6 +1,7 @@
 ---
 title: Concurs de fotografia l'aigua i el desenvolupament sostenible
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Cultura i Educació
 longPost: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: festes
 title: Festes i tradicions
 description: Recull de les festes i tradicionscions més característiques que es celebren al poble de Pego.

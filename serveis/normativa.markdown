@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Normativa
 section: serveis
 description: Ordenançes i Normativa municipals.

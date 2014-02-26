@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Comunicació sobre la revisió cadastral
 author: Regidoria d'Urbanisme
 skip_front: true

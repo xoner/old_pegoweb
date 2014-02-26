@@ -1,6 +1,7 @@
 ---
 title: Avís de tall d'aigua potable per al 05 de Desembre de 2012 (matinada de dimarts a dimecres)
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 

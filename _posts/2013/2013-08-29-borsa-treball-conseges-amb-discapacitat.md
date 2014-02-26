@@ -1,6 +1,7 @@
 ---
 title: Borsa de treball conserges amb discapacitat
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 De conformitat amb la Resolución de la Alcaldia-Presidència sobre aprovació de les bases de la selecció d'una borsa de treball de Conserges Discapacitats es disposa la convocatòria de la selecció de conformitat amb les següents bases:

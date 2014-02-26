@@ -1,6 +1,7 @@
 ---
 title: Guanyadors del concurs de fotografia "l'aigua"
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Els guanyadors del concurs de fotografia "l'aigua" han sigut:

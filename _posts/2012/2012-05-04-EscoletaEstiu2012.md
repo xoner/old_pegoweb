@@ -1,7 +1,8 @@
 ---
 title: Escoleta d'estiu 2012
 author: Regidories d'Esports i Serveis Socials
-layout: post
+layout: page_layout
+section: blog
 ---
 <a href="http://www.pego.org/images/news/20120504_escoleta_estiu_2012_big.jpg" title="Volta a Peu 2012" class="salone-image center" target="_blank">
     <img src="http://www.pego.org/images/news/20120504_escoleta_estiu_2012_small.jpg" alt="Volta a Peu 2012" />

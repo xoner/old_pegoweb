@@ -19,10 +19,20 @@ layout: default
         {% when 'blog' %}{% capture sidebar %}{% include menus/blog.markdown %}{% endcapture %}
         {% else %}
         {% endcase %}
+        {% if sidebar %}
         {{ sidebar | markdownify }}
+        {% endif %}
         </div>
     </div>
     <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-12 section-header section-header-{{page.section}}">
+              <div class="head">
+                <span class="front">{{ site.screenName[page.section] }}</span>
+                <span class="back">{{ site.screenName[page.section] }}</span>
+              </div>
+            </div>
+        </div>
         {{ content }}
     </div>
 </div>

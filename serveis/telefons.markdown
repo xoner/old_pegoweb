@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Telèfons d'interés
 section: serveis
 description: Recull de telefons d'interes.

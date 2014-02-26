@@ -1,6 +1,7 @@
 ---
 title: Taller d'imatge personal
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Joventut
 ---
 <a class="salone-image center" href="/images/news/20130927-taller-imatge-personal-big.jpg" title="Taller imatge personal">

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Pla Parcial de Millora de l'Ordenació Detallada del Sector Penya Roja
 author: Oficina Tècnica
 published: false

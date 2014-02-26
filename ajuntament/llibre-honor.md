@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: ajuntament
 title: Llibre d'honor
 ---

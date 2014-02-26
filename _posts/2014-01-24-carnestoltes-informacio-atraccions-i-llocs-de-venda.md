@@ -1,6 +1,7 @@
 ---
 title: Carnestoltes Pego 2014 - Informació per a llocs de venda i atraccions
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 date: 2014-01-24T10:00
 ---

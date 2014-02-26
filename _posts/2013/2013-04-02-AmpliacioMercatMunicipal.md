@@ -1,6 +1,7 @@
 ---
 title: Ampliació del nombre de llocs de venda del mercat municipal
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de comerç
 ---
 <div class="inline-image">

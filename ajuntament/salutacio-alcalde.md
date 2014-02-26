@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: ajuntament
 title: Salutacio de l'alcalde
 description: Salutació de l'alcalde de Pego als visitants de la plana web.

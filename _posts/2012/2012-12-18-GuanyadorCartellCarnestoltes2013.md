@@ -1,6 +1,7 @@
 ---
 title: Guanyador del concurs de cartells de carnestoltes de Pego 2013
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <a class="inline-image" href="/images/news/20121218-GuanyadorCartellCarnestoltes2013_big.jpg">

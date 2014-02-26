@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Convenis Urbanístics
 section: urbanisme
 descriptions: Convenis urbanístics del municipi.

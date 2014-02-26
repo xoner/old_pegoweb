@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Plans de participació pública
 section: urbanisme
 description: Informació sobre els plans de participació pública del municipi de Pego.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: cultura
 title: Un passeig arqueològic per la vall de Pego
 ---

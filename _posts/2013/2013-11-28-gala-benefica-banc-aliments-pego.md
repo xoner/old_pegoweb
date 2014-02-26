@@ -1,6 +1,7 @@
 ---
 title: Gala benèfica a favor del banc d'aliments de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <a class="salone-image center" href="/images/news/20131128-cartell-gala-banc-aliments-big.jpg" title="Cartell gala benèfica a favor del banc d'aliments de Pego">

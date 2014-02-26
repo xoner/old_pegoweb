@@ -1,6 +1,7 @@
 ---
 title: Llistat d'aspirants admessos i exclosos de la plaça de Psicòleg/Psicòloga interí/interina
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 date: 2012-09-07T11:25
 ---

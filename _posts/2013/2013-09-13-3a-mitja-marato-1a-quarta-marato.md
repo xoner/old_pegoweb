@@ -1,6 +1,7 @@
 ---
 title: III mitja marató "Vila de Pego" i I Quarta de marató
-layout: post
+layout: page_layout
+section: blog
 date: 2013-09-13T12:30
 author: Regidoria d'esports
 ---

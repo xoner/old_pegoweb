@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: XXVII Baixada Del Riu Bullent
 author: Regidoria de Festes
 skip_front: true

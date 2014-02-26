@@ -1,6 +1,7 @@
 ---
 title: II Jornades Gastronòmiques Arròs Bomba Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Turisme
 ---
 <a class="salone-image center" href="/images/news/20130528-jornades-gastronomiques-arros-bomba-pego-big.jpg">

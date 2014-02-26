@@ -1,6 +1,7 @@
 ---
 title: Llistats d'admessos i exclosos a les proves selectives de les diferents borses de treball obertes
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Publicats els llistats de admessos i exclosos a les proves selectives de les borses de treball:

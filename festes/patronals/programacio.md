@@ -1,6 +1,6 @@
 ---
 title: Programació Festes Patronals 2013
-layout: page
+layout: page_layout
 section: festes
 description: Programació de les festes patronals de Pego, del 21 al 30 de juny de 2013.
 ---

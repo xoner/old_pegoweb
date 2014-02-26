@@ -1,6 +1,7 @@
 ---
 title: Baixada del riu bullent 2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Festes
 ---
 <a class="inline-image" href="/images/news/20130121_BaixadaRiuBullent2013_big.png">

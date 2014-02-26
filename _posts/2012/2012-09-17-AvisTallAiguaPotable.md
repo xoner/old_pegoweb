@@ -1,6 +1,7 @@
 ---
 title: Avís de tall d'aigua potable per al 18 de Setembre de 2012
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 

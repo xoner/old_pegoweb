@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: turisme
 title: Videos de Pego
 ---

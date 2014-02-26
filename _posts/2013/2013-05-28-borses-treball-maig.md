@@ -1,6 +1,7 @@
 ---
 title: Borses de treball
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 date: 2013-05-28T12:00
 ---

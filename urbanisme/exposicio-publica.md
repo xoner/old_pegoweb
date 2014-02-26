@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Exposició pública.
 section: urbanisme
 ---

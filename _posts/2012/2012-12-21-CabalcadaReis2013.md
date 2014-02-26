@@ -1,6 +1,7 @@
 ---
 title: Cavalcada de reis
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 

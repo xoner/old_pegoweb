@@ -1,6 +1,7 @@
 ---
 title: XXXVIII Certamen de pintura vila de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <div class="salone-image center">

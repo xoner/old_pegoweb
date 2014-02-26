@@ -1,6 +1,6 @@
 /* line 1, ../_sass/main-menu.scss */
 .item-container .item {
-  height: 20px;
+  height: 30px;
   /*border: 1px solid black;*/
   padding: 4px 0 2px 10px;
   font-family: Arial;
@@ -30,6 +30,12 @@
 }
 
 /* line 35, ../_sass/main-menu.scss */
+a.item {
+  text-decoration: none;
+  color: black;
+}
+
+/* line 40, ../_sass/main-menu.scss */
 .item:hover {
   color: #fff;
   margin-left: 40px;
@@ -50,129 +56,122 @@
   transition-timing-function: ease-in-out;
 }
 
-/* line 58, ../_sass/main-menu.scss */
-a {
-  text-decoration: none;
-  color: black;
-}
-
 /* line 63, ../_sass/main-menu.scss */
 .item-background {
-  width: 200px;
   height: 20px;
   background-color: #AC97BD;
   float: left;
   position: absolute;
-  top: 3px;
+  top: 5px;
+  width: 100%;
   background-image: url("/images/menu-decorator.png");
   background-repeat: no-repeat;
   background-position: top-left;
 }
 
-/* line 75, ../_sass/main-menu.scss */
+/* line 76, ../_sass/main-menu.scss */
 .item-container {
-  width: 200px;
   clear: both;
   position: relative;
   margin: 2px 0 3px 0;
 }
 
-/* line 82, ../_sass/main-menu.scss */
+/* line 83, ../_sass/main-menu.scss */
 .m_ajuntament {
   background-color: #7063a4;
 }
 
-/* line 85, ../_sass/main-menu.scss */
+/* line 86, ../_sass/main-menu.scss */
 .m_ajuntament:hover {
   background-color: #816f8d;
 }
 
-/* line 88, ../_sass/main-menu.scss */
+/* line 89, ../_sass/main-menu.scss */
 .m_economia {
   background-color: #CE895A;
 }
 
-/* line 91, ../_sass/main-menu.scss */
+/* line 92, ../_sass/main-menu.scss */
 .m_economia:hover {
   background-color: #9b6f5a;
 }
 
-/* line 94, ../_sass/main-menu.scss */
+/* line 95, ../_sass/main-menu.scss */
 .m_urbanisme {
   background-color: #A6775F;
 }
 
-/* line 97, ../_sass/main-menu.scss */
+/* line 98, ../_sass/main-menu.scss */
 .m_urbanisme:hover {
   background-color: #9b3c5a;
 }
 
-/* line 100, ../_sass/main-menu.scss */
+/* line 101, ../_sass/main-menu.scss */
 .m_serveis {
   background-color: #56A89C;
 }
 
-/* line 103, ../_sass/main-menu.scss */
+/* line 104, ../_sass/main-menu.scss */
 .m_serveis:hover {
   background-color: #4e6f8d;
 }
 
-/* line 106, ../_sass/main-menu.scss */
+/* line 107, ../_sass/main-menu.scss */
 .m_medi-ambient {
   background-color: #9EC400;
 }
 
-/* line 109, ../_sass/main-menu.scss */
+/* line 110, ../_sass/main-menu.scss */
 .m_medi-ambient:hover {
   background-color: #81895a;
 }
 
-/* line 112, ../_sass/main-menu.scss */
+/* line 113, ../_sass/main-menu.scss */
 .m_esports {
   background-color: #D91C40;
 }
 
-/* line 115, ../_sass/main-menu.scss */
+/* line 116, ../_sass/main-menu.scss */
 .m_esports:hover {
   background-color: #b4565a;
 }
 
-/* line 118, ../_sass/main-menu.scss */
+/* line 119, ../_sass/main-menu.scss */
 .m_educacio {
   background-color: #FF0066;
 }
 
-/* line 121, ../_sass/main-menu.scss */
+/* line 122, ../_sass/main-menu.scss */
 .m_educacio:hover {
   background-color: #ce3c8d;
 }
 
-/* line 124, ../_sass/main-menu.scss */
+/* line 125, ../_sass/main-menu.scss */
 .m_cultura {
   background-color: #00A3DE;
 }
 
-/* line 127, ../_sass/main-menu.scss */
+/* line 128, ../_sass/main-menu.scss */
 .m_cultura:hover {
   background-color: #6856a7;
 }
 
-/* line 130, ../_sass/main-menu.scss */
+/* line 131, ../_sass/main-menu.scss */
 .m_turisme {
   background-color: #4E895A;
 }
 
-/* line 133, ../_sass/main-menu.scss */
+/* line 134, ../_sass/main-menu.scss */
 .m_turisme:hover {
   background-color: #4e895a;
 }
 
-/* line 136, ../_sass/main-menu.scss */
+/* line 137, ../_sass/main-menu.scss */
 .m_festes {
   background-color: #CCCC00;
 }
 
-/* line 139, ../_sass/main-menu.scss */
+/* line 140, ../_sass/main-menu.scss */
 .m_festes:hover {
   background-color: #ed9220;
 }

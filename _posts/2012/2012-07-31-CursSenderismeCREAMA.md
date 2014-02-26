@@ -1,7 +1,8 @@
 ---
 title: Curs de Monitor Acompanyant de Senderisme
 author: Creama Pego
-layout: post
+layout: page_layout
+section: blog
 ---
 
 <img src="http://dl.dropbox.com/u/84612582/images/news/20120731_curs_senderisme.jpg" alt="Curs de Senderisme" class="inline-image">

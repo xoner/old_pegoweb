@@ -1,6 +1,7 @@
 ---
 title: Cavalcada de reis 2013
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <a class="salone-image center" href="/images/news/20131220-cavalcada-reis-2013-big.jpg" title="Cavalcada reis 2013">

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: ajuntament
 title: Grups polítics
 description: Grups polítics amb representació a l'ajuntament de Pego

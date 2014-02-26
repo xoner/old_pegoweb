@@ -1,7 +1,8 @@
 ---
 title: Enquesta de Satisfacció Festes Patronals 2012
 author: Regidoria de Festes
-layout: post
+layout: page_layout
+section: blog
 ---
 L'ajuntament de Pego ha preparat un qüestionari de satisfacció amb el fi de conèixer i respondre a les expectatives de la ciutadania i adaptar l'organització de les festes patronals als seus desitjos.
 

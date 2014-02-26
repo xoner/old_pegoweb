@@ -1,6 +1,7 @@
 ---
 title: Recollida paper i cartró comercial
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Estimats/des **comerciants/tes**.

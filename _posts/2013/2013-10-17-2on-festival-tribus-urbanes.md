@@ -1,6 +1,7 @@
 ---
 title: 2on festival tribus urbanes
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Joventut
 ---
 <a class="salone-image center" href="/images/news/20131017-2on-festival-tribus-urbanes-big.jpg" title="2on festival tribus urbanes">

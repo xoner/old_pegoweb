@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Borsa de treball auxiliar d'infermeria de la residència 'Sant Joan de Deu'
 author: Ajuntament de Pego
 ---

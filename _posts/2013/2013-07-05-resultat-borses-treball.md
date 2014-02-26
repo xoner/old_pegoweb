@@ -1,6 +1,7 @@
 ---
 title: Resultats proves de selecció borses de treball
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Publicats els resultats de les proves de selecció de les borses de treball:

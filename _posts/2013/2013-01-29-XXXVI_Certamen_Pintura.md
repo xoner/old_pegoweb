@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: XXXVII Certamen nacional de pintura "vila de Pego" 2013
 author: Ajuntament de Pego
 ---

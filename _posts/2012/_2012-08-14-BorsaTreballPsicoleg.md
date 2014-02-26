@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Seleccció psicòleg funcionari interí
 author: Ajuntament de Pego
 ---

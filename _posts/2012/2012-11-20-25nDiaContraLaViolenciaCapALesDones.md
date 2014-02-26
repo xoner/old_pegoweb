@@ -1,6 +1,7 @@
 ---
 title: 25 novembre dia internacional contra la violència cap a les dones
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'igualtat i dona
 ---
 

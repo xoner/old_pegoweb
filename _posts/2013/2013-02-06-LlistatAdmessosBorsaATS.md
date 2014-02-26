@@ -1,6 +1,7 @@
 ---
 title: Llistat d'aspirants admesos i exclosos a la borsa de treball ATS/DUE
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Publicat el llistat d’aspirants admesos i i exclosos de la borsa de treball ATS/DUE.

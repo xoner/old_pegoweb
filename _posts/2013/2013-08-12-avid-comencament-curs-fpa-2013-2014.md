@@ -1,6 +1,7 @@
 ---
 title: Avís del començament del curs escolar 2013-2014 al centre municipal FPA "A.pérez ramos"
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'educació
 ---
 <div class="salone-img center">

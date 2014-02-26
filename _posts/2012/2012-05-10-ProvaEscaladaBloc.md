@@ -1,7 +1,8 @@
 ---
 title: 1a prova de la copa d'Espanya d'Escalada en Bloc
 author: Regidoria d'Esports
-layout: post
+layout: page_layout
+section: blog
 ---
 <a href="http://www.pego.org/images/news/20120511_competicio_escalada_en_bloc_big.jpg" title="Cartell Competicio d'escalada en bloc Pego" class="inline-image" target="_blank">
     <img src="http://www.pego.org/images/news/20120511_competicio_escalada_en_bloc_small.jpg" alt="Cartell Competicio d'escalada en bloc Pego" />

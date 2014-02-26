@@ -1,6 +1,7 @@
 ---
 title: Activitats Esportives Pego 2012
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'Esports
 ---
 

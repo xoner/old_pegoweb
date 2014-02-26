@@ -1,6 +1,7 @@
 ---
 title: Resultats Selecció de la borsa ATS/DUE
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Publicats els resultats de la selecció de la borsa d'un ATS/DUE per a la residència Sant Joan de Deu.

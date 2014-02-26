@@ -1,6 +1,7 @@
 ---
 title: Concocatoria selecció Borses Treball Mestre d'educació infantil i Tècnic superior en llar d'infants
-layout: post
+layout: page_layout
+section: blog
 date: 2013-03-28T14:00
 author: Ajuntament de Pego
 ---

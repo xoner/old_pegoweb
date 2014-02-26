@@ -1,7 +1,8 @@
 ---
 title: Festes Patronals 2012 (del 22 de Juny al 1 de Juliol)
 author: Regidoria de Festes
-layout: post
+layout: page_layout
+section: blog
 longPost: true
 ---
 <a class='inline-image' href='http://dl.dropbox.com/u/84612582/images/news/20120611_cartell_festes_2012_big.jpg' target='_blank' title='Festes Patronals 2012'>

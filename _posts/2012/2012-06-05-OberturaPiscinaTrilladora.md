@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Obertura de la Piscina La Trilladora
 author: Regidoria d'Esports
 date: 2012-06-05T10:00

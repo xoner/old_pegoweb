@@ -1,6 +1,7 @@
 ---
 title: Llistat d'admessos i exclosos a les borses de treball Mestre d'educació infantil i Tècnic superior en llar d'infants
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Publicat el llistat d'admessos i exclosos a les proves selectives per a les borses de treball Mestre d'educació infantil i Tècnic superior en llar d'infants.

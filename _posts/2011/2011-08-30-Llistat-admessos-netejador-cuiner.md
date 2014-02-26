@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 title: Llistat d'admessos i exclosos plaça cuiner/a-netejador/a
 ---

@@ -3,12 +3,26 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
-$aj_blau: #2E448D;
-$aj_blau_dos: #7084B7;
-$aj_verd: #9EC301;
-$aj_verd_dos: #BAD74B;
-$aj_roig: #DA1C40;
-$aj_roig_dos: #E96781;
+$col_ajuntament: #2E448D;
+$col_ajuntament_dos: #7084B7;
+$col_cultura: #049bd2;
+$col_cultura_dos: #59bde1;
+$col_economia: #bb7c51;
+$col_economia_dos: #d5aa8a;
+$col_educacio: #ff0066;
+$col_educacio_dos: #ff94be;
+$col_esports: #DA1C40;
+$col_esports_dos: #E96781;
+$col_festes: #cacb01;
+$col_festes_dos: #dedc4b;
+$col_medi: #9EC301;
+$col_medi_dos: #BAD74B;
+$col_serveis: #57a79c;
+$col_serveis_dos: #85c8bf;
+$col_turisme: #50885b;
+$col_turisme_dos: #84b28e;
+$col_urbanisme: #a6765f;
+$col_urbanisme_dos: #c3a08d;
 
 $aj_font: FuturaLight, Verdana, Arial;
 $navbar-default-color: #fff;
@@ -17,6 +31,15 @@ $navbar-default-color: #fff;
 @import "bootstrap";
 @import "compass/css3/shared";
 @import "main-menu";
+
+body {
+    background-color: #A7C2D1;
+}
+
+.container {
+    padding-top: 20px;
+    background-color: #fff;
+}
 
 .header{
     a {
@@ -51,6 +74,12 @@ $navbar-default-color: #fff;
     }
 }
 
+@mixin section-title($primary_color) {
+    font-family: 'FuturaLight', Arial, Verdana;
+    color: $primary_color;
+    border-bottom: 1px dotted $primary_color;
+}
+
 .section-header{
     border-radius: 5px;
     min-height: 35px;
@@ -58,6 +87,7 @@ $navbar-default-color: #fff;
     position:relative;
     letter-spacing: 2px;
     overflow: hidden;
+    max-width: 870px;
 
     .head{
         .front{
@@ -89,19 +119,110 @@ $navbar-default-color: #fff;
     }
 }
 
+.post-info {
+    text-align: right;
+}
+
+.salone-image {
+    display: block;
+    margin: auto;
+}
+
+.inline-image {
+    float: left;
+    margin: 7px 10px 10px 0;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
 
 .section-header-ajuntament {
-    @include section-header($aj_blau, $aj_blau_dos);
+    @include section-header($col_ajuntament, $col_ajuntament_dos);
 }
 
 .section-header-blog{
-    @include section-header($aj_blau, $aj_blau_dos);
+    @include section-header($col_ajuntament, $col_ajuntament_dos);
 }
 
 .section-header-medi {
-    @include section-header($aj_verd, $aj_verd_dos);
+    @include section-header($col_medi, $col_medi_dos);
 }
 
 .section-header-esports {
-    @include section-header($aj_roig, $aj_roig_dos);
+    @include section-header($col_esports, $col_esports_dos);
+}
+
+.section-header-urbanisme{
+    @include section-header($col_urbanisme, $col_urbanisme_dos);
+}
+
+.section-header-turisme {
+    @include section-header($col_turisme, $col_turisme_dos);
+}
+
+.section-header-serveis {
+    @include section-header($col_serveis, $col_serveis_dos);
+}
+
+.section-header-festes {
+    @include section-header($col_festes, $col_festes_dos);
+}
+
+.section-header-educacio {
+    @include section-header($col_educacio, $col_educacio_dos);
+}
+
+.section-header-economia {
+    @include section-header($col_economia, $col_economia_dos);
+}
+
+.section-header-cultura {
+    @include section-header($col_cultura, $col_cultura_dos);
+}
+
+.section-title-ajuntament {
+    @include section-title($col_ajuntament);
+}
+
+.section-title-blog{
+    @include section-title($col_ajuntament);
+}
+
+.section-title-medi {
+    @include section-title($col_medi);
+}
+
+.section-title-esports {
+    @include section-title($col_esports);
+}
+
+.section-title-urbanisme{
+    @include section-title($col_urbanisme);
+}
+
+.section-title-turisme {
+    @include section-title($col_turisme);
+}
+
+.section-title-serveis {
+    @include section-title($col_serveis);
+}
+
+.section-title-festes {
+    @include section-title($col_festes);
+}
+
+.section-title-educacio {
+    @include section-title($col_educacio);
+}
+
+.section-title-economia {
+    @include section-title($col_economia);
+}
+
+.section-title-cultura {
+    @include section-title($col_cultura);
 }

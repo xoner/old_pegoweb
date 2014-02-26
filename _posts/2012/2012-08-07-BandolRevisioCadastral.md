@@ -1,7 +1,8 @@
 ---
 title: Bàndol revisió Cadastral
 author: Ajuntament de Pego
-layout: post
+layout: page_layout
+section: blog
 ---
 <div class='center'>
 <p><strong>BÀNDOL</strong></p>

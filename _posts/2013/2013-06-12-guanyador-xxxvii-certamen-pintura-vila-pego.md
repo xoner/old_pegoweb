@@ -1,6 +1,7 @@
 ---
 title: Guanyador XXXVII certamen pintura vila de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de cultura
 date: 2013-06-12T13:00
 ---

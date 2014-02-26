@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Cultura
 title: XXXVI CERTAMEN NACIONAL DE PINTURA VILA DE PEGO 2012
 ---

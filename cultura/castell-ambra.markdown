@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: cultura
 title: El castell d'ambra
 ---

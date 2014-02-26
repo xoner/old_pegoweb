@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: cultura
 title: Breu història de Pego
 description: Article que recull un breu resum de la història del poble de Pego en Alacant des de temps del paleolitic fins practicament els nostres dies.

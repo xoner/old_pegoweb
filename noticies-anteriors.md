@@ -1,6 +1,6 @@
 ---
 title: Arxiu de Noticies
-layout: post
+layout: content_layout
 author: Ajuntament de Pego
 date: "now"
 description: Històric de les noticies publicades a la plana web de l'Ajuntament de Pego.

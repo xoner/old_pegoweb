@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: ajuntament
 title: Equip de govern
 description: Composició de l'equip de govern per a la legislatura 2011-2015 de l'ajuntament de Pego

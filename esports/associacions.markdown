@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Associacions Esportives
 section: esports
 description: Informació sobre les associacions i clubs esportius del municipi de Pego.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: ajuntament
 title: Dependències municipals
 description: localització de les diferents dependencies municipals de l'ajuntament de Pego

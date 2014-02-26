@@ -10,9 +10,18 @@ author:
     facebook: http://ca-es.facebook.com/pages/Ajuntament-de-Pego
 
 
-sections:
-    blog:
-        - screen_name: noticies
+screenName:
+    blog: noticies
+    medi: medi ambient
+    ajuntament: ajuntament
+    cultura: cultura
+    economia: economia
+    educacio: educació
+    esports: esports
+    festes: festes
+    serveis: serveis
+    turisme: turisme
+    urbanisme: urbanisme
 
 menu:
     serveis:

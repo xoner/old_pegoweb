@@ -1,6 +1,7 @@
 ---
 title: Mig any de carnestoltes 2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Festes
 ---
 

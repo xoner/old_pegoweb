@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: CMFPA Perez Ramos
 section: educacio
 ---

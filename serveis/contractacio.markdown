@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Contractació
 section: serveis
 description: Contingut mogut a la plataforma de contractació de la generalitat valenciana.

@@ -1,6 +1,7 @@
 ---
 title: Avís de matriculació al centre municipal de formació de persones adultes "A. Pérez Ramos"
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 L'Ajuntament de Pego com tots els anys organitza per mitjà de l'escola d'adults FPA "A.Pérez Ramos" cursos i ensenyaments conduents a l'obtenció de la titulació bàsica, dirigida als treballadors que es troben a l'atur o aquells amb contracte de formació i altra gent adulta que no tenen la titulació necessaria i que els demanen per a apuntar-se a les borses de contractació.

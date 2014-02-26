@@ -1,6 +1,7 @@
 ---
 title: Certamen de fotografia esportiva vila de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'Esports
 ---
 <a class="salone-image center" href="/images/news/20130315_ConcursFotografiaEsportiva_big.jpg" title="Concurs Fotografia Esportiva">

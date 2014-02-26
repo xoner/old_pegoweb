@@ -1,6 +1,7 @@
 ---
 title: Acta de baremació de l'adjudicació dels llocs de venda no sedentària al Mercat Municipal,
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Comerç i Promoció Econòmica
 ---
 La Regidoria de Comerç i Promoció Econòmica de l'Ajuntament de Pego, fa pública **[l'Acta de baremació de l'adjudicació dels llocs de venda no sedentària  al Mercat Municipal](/pdf/news/20130530-acta-baremacio-llocs-venda-no-sedentaria-mercat-municipal.pdf)**, segons els criteris que es van establir a la convocatòria i a la vista de les sol·licituds presentades, mitjançant document adjunt.

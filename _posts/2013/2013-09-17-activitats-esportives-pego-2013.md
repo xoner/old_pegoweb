@@ -1,6 +1,7 @@
 ---
 title: Activitats esportives 2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'esports
 ---
 La regidoria d'esports proposa activitats per a adults i xiquets.

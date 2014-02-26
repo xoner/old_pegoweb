@@ -1,6 +1,7 @@
 ---
 title: Ampliació oferta activitats Esportives Pego 2012
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'Esports
 description: Descripció de l'oferta d'activitats esportives per a personal adult en Pego
 ---

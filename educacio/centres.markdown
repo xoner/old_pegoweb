@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Centres educatius
 section: educacio
 menu: educacio

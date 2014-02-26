@@ -1,6 +1,7 @@
 ---
 title: Festes patronals 2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Festes
 ---
 <div class="update" markdown="1">

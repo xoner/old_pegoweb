@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Urbanisme
 section: urbanisme
 ---

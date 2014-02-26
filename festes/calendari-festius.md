@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: festes
 title: Calendari Festius 2014
 description: Calendari de dies festius al municipi de Pego.

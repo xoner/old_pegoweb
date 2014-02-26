@@ -1,6 +1,7 @@
 ---
 title: IX fira de comerç local Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Comerç i Creama
 ---
 

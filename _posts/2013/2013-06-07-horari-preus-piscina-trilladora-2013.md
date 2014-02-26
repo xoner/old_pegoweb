@@ -1,6 +1,7 @@
 ---
 title: Horari i preus temporada d'estiu de piscina trilladora 2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'esports
 ---
 <a class="salone-image center" href="/images/news/20130605-horaris-preus-piscina-trilladora-2013-big.jpg" title="Escola d'estiu 2013">

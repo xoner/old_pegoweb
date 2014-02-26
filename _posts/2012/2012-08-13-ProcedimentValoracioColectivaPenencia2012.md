@@ -2,7 +2,8 @@
 title: Procediment de valoració col·lectiva de caràcter general per al municipi de pego. Ponència 2012, amb efectes 2013
 author: Regidoria d'Urbanisme
 date: 2012-08-13T11:30
-layout: post
+layout: page_layout
+section: blog
 ---
 
 <div class="update" markdown="1">

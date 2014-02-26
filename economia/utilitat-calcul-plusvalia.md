@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: economia
 title: Utilitat de Càlcul de plusvalia
 description: Xicoteta utilitat en format de full d'excel o openoffice calc per al càlcul de plusvalies.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Ocupació Pública
 section: serveis
 description: Aci apareixerà publicada tota la informació sobre les ofertes d'ocupació publica de l'ajuntament de Pego.

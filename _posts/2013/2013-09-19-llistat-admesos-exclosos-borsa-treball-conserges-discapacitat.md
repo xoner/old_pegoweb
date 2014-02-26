@@ -1,6 +1,7 @@
 ---
 title: Llistat admessos exclosos borsa de treball conserges amb discapacitat
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Publicat el llistat d'amessos i exclosos a la borsa de treball conserges amb discapacitat:

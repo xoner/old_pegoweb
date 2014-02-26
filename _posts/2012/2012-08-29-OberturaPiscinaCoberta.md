@@ -1,6 +1,7 @@
 ---
 title: Obertura piscina coberta temporada 2012/2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'Esports
 ---
 

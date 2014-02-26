@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: turisme
 title: Activitats i contacte - Oficina turisme Pego
 ---

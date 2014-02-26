@@ -1,6 +1,7 @@
 ---
 title: Jornada de portes obertes a la piscina coberta de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 longPost: true
 ---

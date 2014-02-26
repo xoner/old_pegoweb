@@ -1,6 +1,7 @@
 ---
 title: Inaguració de la senyalització de la ruta amb bicicleta pel parc natural de la marjal Pego-Oliva
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Turisme
 longPost: true
 ---

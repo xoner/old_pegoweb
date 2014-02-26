@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 title: Pla General Ordenació Urbana
 section: urbanisme
 jqueryui: true

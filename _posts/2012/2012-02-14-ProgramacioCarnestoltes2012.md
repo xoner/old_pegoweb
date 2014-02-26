@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Programació Carnestoltes 2012
 author: Regidoria de Festes
 skip_front: true

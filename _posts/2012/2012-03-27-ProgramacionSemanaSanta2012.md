@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Programación de Semana Santa
 author: Concejalía de Cultura, Concejalía de Fiestas
 longPost: true

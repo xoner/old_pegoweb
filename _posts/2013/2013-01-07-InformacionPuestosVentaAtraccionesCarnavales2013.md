@@ -1,6 +1,7 @@
 ---
 title: Informacion sobre puestos de venta y atracciones en los carnavales de Pego 2013
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Festes
 ---
 <div class="inline-image">

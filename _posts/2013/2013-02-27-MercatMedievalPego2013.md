@@ -1,6 +1,7 @@
 ---
 title: Mercat Medieval en Pego 2013
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <a class="inline-image" href="/images/news/20130227_MercatMedieval2013_big.jpg" title="Mercat Medieval Pego 2013">

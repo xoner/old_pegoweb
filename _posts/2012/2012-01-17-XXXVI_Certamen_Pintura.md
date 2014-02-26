@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: XXXVI Certamen nacional de pintura "vila de Pego" 2012
 author: Ajuntament de Pego
 ---

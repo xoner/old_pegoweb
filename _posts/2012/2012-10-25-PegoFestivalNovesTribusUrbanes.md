@@ -1,6 +1,7 @@
 ---
 title: Festival Noves Tribus Urbanes a Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidories d'Esports i Joventut
 ---
 
