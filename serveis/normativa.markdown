@@ -10,7 +10,7 @@ description: Ordenançes i Normativa municipals.
 * [Inscripció Associacions](/pdf/ajuntament/Inscripcio_Associacions.pdf)
 
 ### Hisenda
-* [Ordenances Fiscals](/pdf/hisenda/ordenances2013.pdf)
+* [Ordenances Fiscals](/pdf/hisenda/ordenances.pdf)
 
 ### Serveis Socials
 * [Llei de Promoció de l'autonomia personal i atenció a les persones en situació de dependència](/pdf/ssocials/Llei_Dependencia.pdf)
