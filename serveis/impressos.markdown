@@ -10,6 +10,9 @@ description: En aquesta secció es poden descarregar els impresos i instancies d
 * [Instància Selecció Funcionaris Carrera](/pdf/personal/INSTANCIA_SELECCIO_FUNCIONARI_CARRERA.pdf)
 * [Instància Selecció Funcionaris Interins](/pdf/personal/INSTANCIA_SELECCIO_FUNCIONARI_INTERI.pdf)
 
+### Economia
+* [Bases ajudes plus values](/pdf/hisenda/bases-ajudes-plus-values.pdf)
+* [Instància ajudes plus values](/pdf/hisenda/instancia-ajudes-plus-values.pdf)
 
 ### Medi Ambient
 
