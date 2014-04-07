@@ -11,8 +11,9 @@ description: En aquesta secció es poden descarregar els impresos i instancies d
 * [Instància Selecció Funcionaris Interins](/pdf/personal/INSTANCIA_SELECCIO_FUNCIONARI_INTERI.pdf)
 
 ### Economia
-* [Bases ajudes plus values](/pdf/hisenda/bases-ajudes-plus-values.pdf)
-* [Instància ajudes plus values](/pdf/hisenda/instancia-ajudes-plus-values.pdf)
+* [Sol·licitud liquidació impost sobre l'increment dels terrenys de naturalesa urbana](/pdf/hisenda/sollicitud-liquidacio-impost-increment-terrenys-naturalesa-urbana.pdf)
+* [Bases ajudes plusvàlues](/pdf/hisenda/bases-ajudes-plus-values.pdf)
+* [Instància ajudes plusvàlues](/pdf/hisenda/instancia-ajudes-plus-values.pdf)
 
 ### Medi Ambient
 
@@ -30,7 +31,7 @@ description: En aquesta secció es poden descarregar els impresos i instancies d
 * [Sol·licitud de certificat compatibilitat urbanística](/pdf/medi/solicitud-certificat-compatibilitat-urbanistica.pdf)
 
 #### Llicència Ambiental
-* [Sol·licitud de llicència d’obertura i funcionament d’activitat](/pdf/medi/llicencia-ambiental-solicitud-obertura-funcioanment-activitat.pdf)
+* [Sol·licitud de llicència d'obertura i funcionament d'activitat](/pdf/medi/llicencia-ambiental-solicitud-obertura-funcioanment-activitat.pdf)
 * [Sol·licitud de llicència ambiental](/pdf/medi/llicencia-ambiental-solicitud.pdf)
 * [Sol·licitud de certificat de compatibilitat urbanística](/pdf/medi/solicitud-certificat-compatibilitat-urbanistica.pdf)
 </div>
@@ -41,7 +42,7 @@ description: En aquesta secció es poden descarregar els impresos i instancies d
 
 
 ### Ajuntament
-* [Recurs de Repossició IBI (2008)](/pdf/ajuntament/Recurso_Reposicion_IBI.pdf)
+* [Recurs de Reposició IBI (2008)](/pdf/ajuntament/Recurso_Reposicion_IBI.pdf)
 * [Sol·licitud d'incripció de Associacions](/pdf/ajuntament/Inscripcio_Associacions.pdf)
 
 
