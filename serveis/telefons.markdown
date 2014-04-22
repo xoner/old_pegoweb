@@ -6,36 +6,35 @@ description: Recull de telefons d'interes.
 ---
 Entitat                                     | Telefon
 --------------------------------------------|----------
-Ajuntament                                  | **96 557 00 11**
-Acció Urgent (Ambulància Pego i les Valls)  | **65 386 73 83**
-Aigua Potable                               | **90 225 01 70**
-Bombers Dénia                               | **96 578 11 85**
-Butano                                      | **96 557 07 15**
-Camara Agrària                              | **96 557 00 71**
-OCAPA (Marina Alta)                         | **96 557 18 80**
-OCAPA (Marina Alta)                         | **96 557 18 80**
-Casa de Cultura                             | **96 557 28 01**
-Centre de Salut Informació                  | **96 557 86 50**
-Centre de Salut Urgències                   | **96 557 86 54**
-Correus                                     | **96 557 01 25**
-Creama                                      | **96 557 12 55**
-Depuradora                                  | **96 597 73 00**
-Ecopark                                     | **900 36 10 82**
+Ajuntament                                  | **965570011**
+Acció Urgent (Ambulància Pego i les Valls)  | **653867383**
+Aigua Potable                               | **900101270**
+Bombers Dénia                               | **965781185**
+Butano                                      | **965570715**
+Camara Agrària                              | **965570071**
+OCAPA (Marina Alta)                         | **965571880**
+Casa de Cultura                             | **965572801**
+Centre de Salut Informació                  | **965578650**
+Centre de Salut Urgències                   | **965578654**
+Correus                                     | **965570125**
+Creama                                      | **965571255**
+Depuradora                                  | **965977300**
+Ecopark                                     | **900361082**
 Emergències                                 | **112**
-Policia Local                               | **96 557 01 18**
-Centre de Salut URGÈNCIES                   | **96 557 25 11**
-Recollida de Fem                            | **900 10 27 30**
-Guàrdia Civil                               | **96 557 00 31**
-Hospital La Pedrera de Dénia                | **96 578 70 12**
-Iberdrola                                   | **90 120 20 20**
-Jutjats de Pau                              | **96 557 03 19**
-Oficina de Turisme                          | **96 640 08 43**
-Parc Natural de la Marjal                   | **96 640 02 51**
-Piscina Municipal Coberta                   | **96 557 01 56**
-Policia Local                               | **96 557 01 18**
-Poliesportiu “La Trilladora”                | **96 640 00 50**
-Radio Pego 107.8 FM                         | **96 640 02 12**
-Residència San Juan de Dios                 | **96 557 01 69**
-Serveis Socials                             | **96 557 06 01**
-SUMA                                        | **96 640 06 48**
-Teatre Municipal                            | **96 557 26 05**
+Policia Local                               | **965570118**
+Centre de Salut URGÈNCIES                   | **965572511**
+Recollida de Fem                            | **900102730**
+Guàrdia Civil                               | **965570031**
+Hospital La Pedrera de Dénia                | **965787012**
+Iberdrola                                   | **901202020**
+Jutjats de Pau                              | **965570319**
+Oficina de Turisme                          | **966400843**
+Parc Natural de la Marjal                   | **966400251**
+Piscina Municipal Coberta                   | **965570156**
+Policia Local                               | **965570118**
+Poliesportiu “La Trilladora”                | **966400050**
+Radio Pego 107.8 FM                         | **966400212**
+Residència San Juan de Dios                 | **965570169**
+Serveis Socials                             | **965570601**
+SUMA                                        | **966400648**
+Teatre Municipal                            | **965572605**
