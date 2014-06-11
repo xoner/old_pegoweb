@@ -1,0 +1,54 @@
+<div class="certamen" ng-controller="ResultatsController">
+    <div class="selector">
+        
+    </div>
+    <h2>{{edicio}} Edició</h2>
+    <h3>Guanyador</h3>
+    <figure class="winner">
+        <a href="{{ certamen.guanyador.file }}" title="{{ certamen.guanyador.info.titol }}" target="_blank">
+            <img src="{{ certamen.guanyador.file }}" alt="{{ certamen.guanyador.info.titol }}">
+        </a>
+        <figcaption>
+            <div class="info">
+                <div class="author">{{ certamen.guanyador.info.author }}</div>
+                <span class="title">{{ certamen.guanyador.info.titol }}</span>
+                <span class="date"> ({{ certamen.guanyador.info.any }})</span>
+                <div><span class="style">{{ certamen.guanyador.info.tecnica }}</span><span class="measures"> {{ certamen.guanyador.info.dimen }}</span></div>
+            </div>
+        </figcaption>
+    </figure>
+
+    <h3>Finalistes</h3>
+    <div class="runners-up">
+        <figure class="runner-up" ng-repeat="finalista in certamen.finalistes">
+            <a href="{{ finalista.file }}" title="{{ finalista.info.titol }}" target="_blank">
+                <img src="{{ finalista.file }}" alt="{{ finalista.info.titol }}">
+            </a>
+            <figcaption>
+                <div class="info">
+                    <div class="author">{{ finalista.info.author }}</div>
+                    <span class="title">{{ finalista.info.titol }}</span>
+                    <span class="date"> ({{ finalista.info.any }})</span>
+                    <div><span class="style">{{ finalista.info.tecnica }}</span><span class="measures"> {{ finalista.info.dimen }}</span></div>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+
+    <h3>Seleccionats</h3>
+    <div class="selecteds">
+        <figure class="selected" ng-repeat="seleccionat in certamen.seleccionats">
+            <a href="{{ seleccionat.file }}" title="{{ seleccionat.info.titol }}" target="_blank">
+                <img src="{{ seleccionat.file }}" alt="{{ seleccionat.info.titol }}">
+            </a>
+            <figcaption>
+                <div class="info">
+                    <div class="author">{{ seleccionat.info.author }}</div>
+                    <span class="title">{{ seleccionat.info.titol }}</span>
+                    <span class="date"> ({{ seleccionat.info.any }})</span>
+                    <div><span class="style">{{ seleccionat.info.tecnica }}</span><span class="measures"> {{ seleccionat.info.dimen }}</span></div>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+</div>
