@@ -1,0 +1,218 @@
+<!doctype html>
+<html>
+    <head>
+        <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+       <link rel="stylesheet" href="/style/blueprint/screen.css" type="text/css" media="screen, projection" />
+       <link rel="stylesheet" href="/style/blueprint/print.css" type="text/css" media="print" />
+        <!--[if lt IE 8]><link rel="stylesheet" href="/style/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+        <link rel="stylesheet" href="/fonts/Futura/stylesheet.css" media="all" />
+        <link rel="stylesheet" href="/style/global.css" type="text/css" media="screen, projection" />
+        <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+        <!-- Development -->
+        <script type="text/javascript" src="/script/jquery-1.11.1.min.js"></script>
+        <script src="bower_components/angular/angular.js"></script>
+        <script src="bower_components/angular-route/angular-route.js"></script>
+        <script src="js/app.js"></script>
+        <script src="js/controllers.js"></script>
+        <style type="text/css">
+            .winner {
+                width: 60%;
+                margin: 0 auto;
+            }
+            .winner img {
+                width: 100%;
+                height: auto;
+            }
+
+            .selected,
+            .runner-up{
+                width: 30% !important;
+                margin: 10px 10px;
+            }
+
+            .selected a,
+            .runner-up a{
+                display: block;
+                margin: 0 auto;
+                width: 60%;
+            }
+
+            .selected a img,
+            .runner-up a img {
+                width: 100%;
+                height: auto;
+            }
+
+            figure {
+                display: inline-block;
+            }
+
+            .certamen .runner-up a{
+                display: block;
+                min-height: 250px;
+            }
+        </style>
+    </head>
+<body>
+<body>
+    <div class="container">
+        <div class="span-24 last header">
+           <!--<h1 id="main-title">Ajuntament de Pego<a href="/"><span></span></a></h1>-->
+           <a href="/">
+               <h1 class="main-title">
+                    <img src="/images/escut-ajuntament-pego.png" alt="Escut ajuntament de Pego">
+                    <span class="caption">AJUNTAMENT DE PEGO</span>
+               </h1>
+           </a>
+           <object name="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="594" height="125" style="margin-left: 85px;" data="/images/bannerintro.swf" type="application/x-shockwave-flash">
+                <param name="movie" value="/images/bannerintro.swf"/>
+                <!--[if !IE]>-->
+                <object type="application/x-shockwave-flash" data="images/bannerintro.swf" width="594" height="125">
+                <!--<![endif]-->
+                <p>You need to have flash player installed to see this content</p>
+                <!--[if !IE]>-->
+                </object>
+                <!--<![endif]-->
+           </object>
+        </div>
+        <div class="span-6 menu">
+    <nav class="menu">
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_ajuntament" href="/ajuntament/salutacio-alcalde.html">Ajuntament</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_economia" href="/economia/creama.html">Economia</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_urbanisme" href="/urbanisme/informacio.html">Urbanisme</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_serveis" href="/serveis/mancomunitat.html">Serveis</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_medi-ambient" href="/medi-ambient/parc-natural-marjal.html">Medi ambient</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_esports" href="/esports/instalacions.html">Esports</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_educacio" href="/educacio/centres.html">Educació</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_cultura" href="/cultura/historia.html">Cultura</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_turisme" href="/turisme/activitats-i-contacte.html">Turisme</a>
+    </div>
+    <div class="item-container">
+        <span class="item-background">&nbsp;</span>
+        <a class="item m_festes" href="/festes/festes-i-tradicions.html">Festes</a>
+    </div>
+</nav>
+    <div class="section-menu menu-cultura">
+        <ul>
+  <li><a href="/cultura/historia.html">Breu història de Pego</a></li>
+  <li><a href="/cultura/biblioteca.html">Biblioteca pública municipal</a></li>
+  <li><a href="/cultura/arxiu.html">Arxiu municipal de Pego</a></li>
+  <li><strong>Museus</strong></li>
+  <li><a href="/cultura/museu-art-contemporani.html">Museu d’art contemporani</a></li>
+  <li><a href="/cultura/museu-etnologic.html">Museu etonològic</a></li>
+  <li><strong>Arqueologia i Patrimoni</strong></li>
+  <li><a href="/cultura/passeig-arqueoligic-vall-pego.html">Un passeig arqueològic per la vall de Pego</a></li>
+  <li><a href="/cultura/castell-ambra.html">El castell d’Ambra</a></li>
+  <li><a href="/cultura/passeig-carrers-respiren-historia.html">Passeig per carrers que respiren història</a></li>
+  <li><a href="/cultura/galeria-imatges.html">Galeria d’imatges</a></li>
+  <li><a href="/cultura/galeria-blanc-negre.html">Pego en blanc i negre</a></li>
+  <li><strong>Certamen Nacional de Pintura Vila de Pego</strong></li>
+  <li><a href="/cultura/certamen-pintura/XXXVI.html">XXXVI Edició</a></li>
+  <li><a href="/cultura/certamen-pintura/XXXVII.html">XXXVII Edició</a></li>
+</ul>
+
+    </div>
+</div>
+<div class="span-17 last content">
+    <div class="cultura" ng-app="ajupegoApp">
+        <!--         -->
+        <!-- Content -->
+        <!--         -->
+        <div ng-view></div>
+        <!--         -->
+        <!-- Content -->
+        <!--         -->
+    </div>
+</div>
+<div class="span-22 last footer">
+    <p id="footer-info">
+    <span class="vcard">
+        <a class="fn org url" href="http://www.pego.org">M.I. Ajuntament de Pego.</a>
+        <span class="adr">
+            <span class="type">Work</span>
+            <span class="street-address">Pla&#231;a ajuntament n&#186; 1</span>
+            <span class="locality">Pego</span>
+            (<span class="region" title="Alacant">Alacant</span>)
+            <span class="postal-code">03780</span>
+            <span class="country-name">ES</span>
+            <span class="tel"><span class="type">Work</span> 965570011</span>
+            <span class="tel"><span class="type">Fax</span> 965572583</span>
+        </span>
+    </span>
+    <span></span></p>
+</div>
+ <div class="span-2 prepend-11 append-11 last foot-banners">
+            <!-- Afegit per a que al publicar automàticament al facebook no s'agafe com a imatge el logo de CSS3 -->
+            <span><span><span><span>
+            <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.pego.org%2F">
+                <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="116" height="45" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
+            </a>
+            <!-- Afegit per a que al publicar automàticament al facebook no s'agafe com a imatge el logo de CSS3 -->
+            </span></span></span></span>
+        </div>
+        <div class="span-4 prepend-10 append-10 last foot-banners center cookie-policy">
+            <a href="/politica-de-cookies.html">Política de Cookies</a>
+        </div>
+    </div>
+<script type="text/javascript">
+//<![CDATA[
+    $(function(){
+        // comprobar si estem dins del puto iframe de la merda de cinfonet
+        // i redirigir cap a www.pego.org
+        if(!(top === self)){
+            top.parent.location.href = 'http://www.pego.org';
+        }
+
+        $('.section-menu a').each(function(){
+            if(this.href == window.location.href){
+                $(this).parents('li').addClass('current');
+            }
+        });
+
+        if ($('.tabs').length > 0) {$('.tabs').tabs();};
+
+
+
+    });
+//]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16993222-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</body>

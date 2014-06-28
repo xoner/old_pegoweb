@@ -64,10 +64,6 @@
     vertical-align: top;
 }
 
-.certamen .runner-up img{
-    min-height: 270px;
-}
-
 .certamen .selected{
     width: 214px;
     display: inline-block;
