@@ -1,18 +1,19 @@
 <?php
+
 require 'vendor/autoload.php';
 use Symfony\Component\Yaml\Parser;
 
-function get_concurs_results(edicio){
+function get_concurs_results($edicio){
     $concurs = array();
     $concurs['guanyador'] = array();
     $concurs['finalistes'] = array();
     $concurs['seleccionats'] = array();
 
-    $files = glob('images/xxxviii/*.jpg');
+    $files = glob('images/'.$edicio.'/*.jpg');
     foreach ($files as $file) {
 
         $file_name = basename($file, '.jpg');
-        $yaml_content = file_get_contents('images/xxxviii/'.$file_name.'.yaml');
+        $yaml_content = file_get_contents('images/'.$edicio.'/'.$file_name.'.yaml');
         $yaml = new Parser();
         $info = $yaml->parse($yaml_content);
 
@@ -40,7 +41,7 @@ function get_concurs_results(edicio){
 function get_concurs_edicions(){
     $edicions = array();
 
-    $edicions[] = array('any' => '2014', 'edicio' => 'xxxviii');
+    $edicions[] = array('xxxviii' => '2014');
 
     return json_encode($edicions);
 }
@@ -51,5 +52,10 @@ if (isset($_GET["edicions"])){
     exit(0);
 }
 
-if(isset($_GET['results']))
+if(isset($_GET['edicio'])){
+    echo get_concurs_results($_GET['edicio']);
+    exit(0);
+}
+
+echo get_concurs_results('last');
 ?>

@@ -6,10 +6,10 @@ var ajupegoControllers = angular.module('ajupegoControllers', []);
 
 ajupegoControllers.controller('ResultatsController',
 ['$scope', '$http', '$routeParams' , function($scope, $http, $routeParams) {
-    $http.get('http://localhost:8000/cultura/certamen-pintura/results.php').success(function(data) {
+    $http.get('/cultura/certamen-pintura/results.php?edicio=' + $routeParams.edicio).success(function(data) {
         $scope.certamen = data;
 
-        $scope.edicio = $routeParams.edicio;
+        $scope.edicio = $routeParams.edicio.toUpperCase();
 
         console.log($scope);
     });
