@@ -1,7 +1,7 @@
 ---
 layout: page
 section: urbanisme
-Title: Sector Monte Pego - Exe3cució STSJCV
+Title: Sector Monte Pego - Execució STSJCV
 ---
 <div class="update" style="text-align: justify;">
     El text que es presenta a continuació és una transcripcció d'un document per a facilitar l'accés dels ciutadans als documents relacionats amb/esmentats en el text original. En el text apareixen referencies a signatures digitals. Aquesta plana web no està signada digitalment, el document original és el que està signat digitalment i son les firmes digitals d'aquest a les que es fa referència en el text. L'original es pot obtindre en el <strong><a href="/pdf/urbanisme/sector-monte-pego-execucio-stsjcv/0-CERTIFICADO-EJECUCION-SENTENCIA-MONTEPEGO-189-14-1.pdf">següent enllaç</a></strong>.
