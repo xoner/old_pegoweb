@@ -4,7 +4,8 @@ title: Pla General Ordenació Urbana
 section: urbanisme
 jqueryui: true
 customjs: |
-    $(function(){$('#accordion').accordion({allwaysOpen: false,active: false,header: 'h3',clearStyle: true});$('.acc-content-3').accordion({allwaysOpen: false,active: false,header: 'h4',clearStyle: true});$('.acc-content-4').accordion({allwaysOpen: false,active: false,header: 'h5',clearStyle: true});});
+    //$(function(){$('#accordion').accordion({allwaysOpen: false,active: false,header: 'h3',clearStyle: true});$('.acc-content-3').accordion({allwaysOpen: false,active: false,header: 'h4',clearStyle: true});$('.acc-content-4').accordion({allwaysOpen: false,active: false,header: 'h5',clearStyle: true});});
+    $('#accordion').accordion({ heightStyle: "content" });$('.acc-content-3').accordion({header: 'h4',heightStyle: "content"});$('.acc-content-4').accordion({header: 'h5',heightStyle: "content"});
 description: Pla genereal d'ordenació urbana del poble de Pego
 ---
 <?php

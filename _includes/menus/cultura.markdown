@@ -13,3 +13,4 @@
 * **Certamen Nacional de Pintura Vila de Pego**
 * [XXXVI Edició](/cultura/certamen-pintura/XXXVI.html)
 * [XXXVII Edició](/cultura/certamen-pintura/XXXVII.html)
+* [XXXVIII Edició](/cultura/certamen-pintura/#/xxxviii)

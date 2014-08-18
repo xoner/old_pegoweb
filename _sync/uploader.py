@@ -17,6 +17,14 @@ except ImportError:
 from os import path
 
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+
 def get_files_to_upload():
     print 'Checking for changes:\n'
     proc = subprocess.Popen('rsync -rvchn {} {}'.format(CONFIG['rsync_jekyll_gen_dir'],
@@ -67,20 +75,29 @@ def upload_files(files_list):
         result = ''
         if path.isdir(it_file):
             print "Creating directory {}".format(it_file)
-            result = py_ftp.mkd(it_file)
 
-            # Compare if the results of creating the directory where ok
-            splt_it_file = it_file.split('/')
-            splt_it_file.remove('')
-            splt_result = result.split('/')
-            splt_result.remove('')
+            try:
+                result = py_ftp.mkd(it_file)
 
-            if not splt_it_file == splt_result:
-                errors_exist = True
-                break
+                # Compare if the results of creating the directory where ok
+                splt_it_file = it_file.split('/')
+                splt_it_file.remove('')
+                splt_result = result.split('/')
+                splt_result.remove('')
+
+                if not splt_it_file == splt_result:
+                    errors_exist = True
+                    break
+
+            except Exception, e:
+                print(bcolors.FAIL + e.message + bcolors.ENDC)
         else:
             print 'Uploading {}'.format(it_file)
-            result = py_ftp.storbinary('STOR {}'.format(it_file), open(it_file, 'rb'))
+
+            try:
+                result = py_ftp.storbinary('STOR {}'.format(it_file), open(it_file, 'rb'))
+            except Exception, e:
+                print(bcolors.FAIL + e.message + bcolors.ENDC)
 
             if result != '226 Transfer complete':
                 errors_exist = True
