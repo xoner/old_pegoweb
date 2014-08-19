@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: urbanisme
 Title: Sector Monte Pego - Execució STSJCV
 ---

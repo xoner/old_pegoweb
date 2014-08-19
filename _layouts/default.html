@@ -11,6 +11,7 @@
     <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="/fonts/Futura/stylesheet.css" media="all" />
     <link rel="stylesheet" href="/css/screen.css" type="text/css" media="all" />
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- Development -->
     <script type="text/javascript" src="/script/jquery-1.11.1.min.js"></script>
@@ -43,7 +44,7 @@
                         <span class="caption">AJUNTAMENT DE PEGO</span>
                    </h1>
                </a>
-               <div class="col-md-9 aj-caroussel">
+               <div class="col-md-9 aj-caroussel hidden-xs">
                 <object name="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="618" height="130" data="/images/bannerintro.swf" type="application/x-shockwave-flash">
                     <param name="movie" value="/images/bannerintro.swf"/>
                     <!--[if !IE]>-->
@@ -57,26 +58,50 @@
                 </div>
             </div>
         </div>
+
         {{ content }}
-        <div class="col-md-10 last footer">
-            <p id="footer-info">
-            <span class="vcard">
-                <a class="fn org url" href="http://www.pego.org">M.I. Ajuntament de Pego.</a>
-                <span class="adr">
-                    <span class="type">Work</span>
-                    <span class="street-address">Pla&#231;a ajuntament n&#186; 1</span>
-                    <span class="locality">Pego</span>
-                    (<span class="region" title="Alacant">Alacant</span>)
-                    <span class="postal-code">03780</span>
-                    <span class="country-name">ES</span>
-                    <span class="tel"><span class="type">Work</span> 965570011</span>
-                    <span class="tel"><span class="type">Fax</span> 965572583</span>
+
+        <div class="row footer">
+            <div id="footer-info" class="col-md-12">
+                <span class="vcard">
+                    <a class="fn org url" href="http://www.pego.org">M.I. Ajuntament de Pego</a>
+                    <span class="adr">
+                        <span class="type">Work</span>
+                        <span class="street-address">Plaça de l'ajuntament n&#186; 1</span>
+                        <span class="postal-code">03780</span>
+                        <span class="locality">Pego</span>
+                        (<span class="region" title="Alacant">Alacant</span>)
+                        <span class="country-name">ES</span>
+                        <div>&nbsp;</div>
+                        <span class="tel-type">Telèfon: </span><span class="tel"><span class="type">Work</span> 965570011</span>
+                        <span class="tel-type">Fax: </span><span class="tel"><span class="type">Fax</span> 965572583</span>
+                    </span>
                 </span>
-            </span>
-            <span></span></p>
+                <span></span>
+                <div class="scl-buttons">
+                </div>
+            </div>
+        </div>
+        <div id="badges-policy" class="row">
+            <div class="col-md-offset-1 col-md-10">
+                <!-- Afegit per a que al publicar automàticament al facebook no s'agafe com a imatge el logo de CSS3 -->
+                <div class="col-md-6" id="html5-bagdes">
+                    <span><span><span><span>
+                    <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.pego.org%2F">
+                        <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="116" height="45" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
+                    </a>
+                    <!-- Afegit per a que al publicar automàticament al facebook no s'agafe com a imatge el logo de CSS3 -->
+                    </span></span></span></span>
+                </div>
+
+                <div class="col-md-6 policies">
+                    <div class="span-4 prepend-10 append-10 last foot-banners center cookie-policy">
+                        <a href="/politica-de-cookies.html">Política de Cookies</a>
+                    </div>
+                </div>
         </div>
         {% if page.show_avanza %}
-        <div class="avanza col-md-12 last">
+        <div class="row avanza">
             <div class="logos">
                 <img src="/images/logo_avanza.gif" alt="Plan avanza" />
                 <img src="/images/logo_ministeri.gif" alt="Ministerio de Industria, Energia y Turismo" />
@@ -86,18 +111,7 @@
             </div>
         </div>
         {% endif %}
-        <div class="span-2 prepend-11 append-11 last foot-banners">
-            <!-- Afegit per a que al publicar automàticament al facebook no s'agafe com a imatge el logo de CSS3 -->
-            <span><span><span><span>
-            <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.pego.org%2F">
-                <img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="116" height="45" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics">
-            </a>
-            <!-- Afegit per a que al publicar automàticament al facebook no s'agafe com a imatge el logo de CSS3 -->
-            </span></span></span></span>
-        </div>
-        <div class="span-4 prepend-10 append-10 last foot-banners center cookie-policy">
-            <a href="/politica-de-cookies.html">Política de Cookies</a>
-        </div>
+
     </div>
 <script type="text/javascript">
 //<![CDATA[

@@ -17,6 +17,8 @@ $col_festes: #cacb01;
 $col_festes_dos: #dedc4b;
 $col_medi: #9EC301;
 $col_medi_dos: #BAD74B;
+$col_news: #4A5EE3;
+$col_news_dos: #8590F9;
 $col_serveis: #57a79c;
 $col_serveis_dos: #85c8bf;
 $col_turisme: #50885b;
@@ -107,6 +109,16 @@ body {
             z-index: 0;
             bottom: -12px;
         }
+
+        #scl-buttons{
+            a {
+                text-decoration: none;
+                color: $col_news_dos;
+            }
+            right: 0;
+            position: absolute;
+            padding: 3px
+        }
     }
 }
 
@@ -116,6 +128,7 @@ body {
     .news {
         article{
             border-bottom: 3px dotted #666;
+            margin: 0px 0px 1.1em;
 
             header {
                 h2 {
@@ -137,6 +150,7 @@ body {
 
         .art-content{
             margin-top: 15px;
+            margin-bottom: 5px;
         }
     }
 
@@ -162,6 +176,41 @@ body {
     }
 }
 
+.footer{
+    margin-top: 15px;
+
+    #footer-info {
+        background-color: #B1B2A2;
+        text-align: center;
+        font-family: 'FuturaLight', Arial, Verdana;
+        padding: 5px 0;
+
+        background-image: url('/images/logo-ajuntament-blanc.png');
+        background-repeat: no-repeat;
+        background-position: 25% 65%;
+
+        .org {
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .tel-type {
+            font-weight: bold;
+        }
+
+        .type, .country-name {
+            display: none;
+        }
+    }
+}
+
+#badges-policy{
+    margin: 15px 0;
+    text-align: center;
+}
+
 .post-info {
     text-align: right;
 }
@@ -181,13 +230,19 @@ body {
     text-align: center;
 }
 
+@media (max-width: 1199px){
+    #el-temps{
+        display: none;
+    }
+}
+
 
 .section-header-ajuntament {
     @include section-header($col_ajuntament, $col_ajuntament_dos);
 }
 
 .section-header-blog{
-    @include section-header($col_ajuntament, $col_ajuntament_dos);
+    @include section-header($col_news, $col_news_dos);
 }
 
 .section-header-medi {
@@ -231,7 +286,7 @@ body {
 }
 
 .section-title-blog{
-    @include section-title($col_ajuntament);
+    @include section-title($col_news);
 }
 
 .section-title-medi {

@@ -8216,42 +8216,42 @@ a.item {
   background-color: #ed9220;
 }
 
-/* line 35, ../_sass/screen.scss */
+/* line 37, ../_sass/screen.scss */
 body {
   background-color: #A7C2D1;
 }
 
-/* line 39, ../_sass/screen.scss */
+/* line 41, ../_sass/screen.scss */
 .container {
   padding-top: 20px;
   background-color: #F1F0E8;
 }
 
-/* line 45, ../_sass/screen.scss */
+/* line 47, ../_sass/screen.scss */
 .header a {
   color: #000;
 }
-/* line 48, ../_sass/screen.scss */
+/* line 50, ../_sass/screen.scss */
 .header img {
   display: block;
   margin: 0 auto;
 }
-/* line 52, ../_sass/screen.scss */
+/* line 54, ../_sass/screen.scss */
 .header h1 {
   font-family: 'FuturaLight', Arial, Verdana;
 }
-/* line 56, ../_sass/screen.scss */
+/* line 58, ../_sass/screen.scss */
 .header .caption {
   display: block;
   font-size: 0.5em;
   text-align: center;
 }
-/* line 62, ../_sass/screen.scss */
+/* line 64, ../_sass/screen.scss */
 .header .aj-caroussel {
   text-align: center;
 }
 
-/* line 83, ../_sass/screen.scss */
+/* line 85, ../_sass/screen.scss */
 .section-header {
   border-radius: 5px;
   min-height: 35px;
@@ -8261,7 +8261,7 @@ body {
   overflow: hidden;
   max-width: 870px;
 }
-/* line 93, ../_sass/screen.scss */
+/* line 95, ../_sass/screen.scss */
 .section-header .head .front {
   color: #fff;
   position: absolute;
@@ -8271,7 +8271,7 @@ body {
   font-weight: bolder;
   font-size: 1.5em;
 }
-/* line 103, ../_sass/screen.scss */
+/* line 105, ../_sass/screen.scss */
 .section-header .head .back {
   position: absolute;
   font-size: 2.5em;
@@ -8279,251 +8279,306 @@ body {
   z-index: 0;
   bottom: -12px;
 }
-
 /* line 113, ../_sass/screen.scss */
+.section-header .head #scl-buttons {
+  right: 0;
+  position: absolute;
+  padding: 3px;
+}
+/* line 114, ../_sass/screen.scss */
+.section-header .head #scl-buttons a {
+  text-decoration: none;
+  color: #8590f9;
+}
+
+/* line 125, ../_sass/screen.scss */
 .content {
   margin-top: 10px;
 }
-/* line 117, ../_sass/screen.scss */
+/* line 129, ../_sass/screen.scss */
 .content .news article {
   border-bottom: 3px dotted #666;
+  margin: 0px 0px 1.1em;
 }
-/* line 121, ../_sass/screen.scss */
+/* line 134, ../_sass/screen.scss */
 .content .news article header h2 {
   border-bottom: 1px dotted #4A5EE3;
 }
-/* line 122, ../_sass/screen.scss */
+/* line 135, ../_sass/screen.scss */
 .content .news article header h2 a {
   color: #8F030C;
   text-decoration: none;
 }
-/* line 128, ../_sass/screen.scss */
+/* line 141, ../_sass/screen.scss */
 .content .news article header .post-info {
   font-size: 0.8em;
 }
-/* line 131, ../_sass/screen.scss */
+/* line 144, ../_sass/screen.scss */
 .content .news article header .post-info time {
   font-weight: bold;
 }
-/* line 138, ../_sass/screen.scss */
+/* line 151, ../_sass/screen.scss */
 .content .news .art-content {
   margin-top: 15px;
+  margin-bottom: 5px;
 }
-/* line 143, ../_sass/screen.scss */
+/* line 157, ../_sass/screen.scss */
 .content .banners {
   margin-top: 10px;
 }
-/* line 146, ../_sass/screen.scss */
+/* line 160, ../_sass/screen.scss */
 .content .banners .banner-container {
   width: 105%;
   background-color: #fff;
 }
-/* line 150, ../_sass/screen.scss */
+/* line 164, ../_sass/screen.scss */
 .content .banners .banner-container .banner {
   margin-top: 10px;
 }
-/* line 153, ../_sass/screen.scss */
+/* line 167, ../_sass/screen.scss */
 .content .banners .banner-container .banner img {
   width: 100%;
 }
-/* line 158, ../_sass/screen.scss */
+/* line 172, ../_sass/screen.scss */
 .content .banners .banner-container table#table_widget {
   width: 100% !important;
 }
 
-/* line 165, ../_sass/screen.scss */
+/* line 179, ../_sass/screen.scss */
+.footer {
+  margin-top: 15px;
+}
+/* line 182, ../_sass/screen.scss */
+.footer #footer-info {
+  background-color: #B1B2A2;
+  text-align: center;
+  font-family: 'FuturaLight', Arial, Verdana;
+  padding: 5px 0;
+  background-image: url("/images/logo-ajuntament-blanc.png");
+  background-repeat: no-repeat;
+  background-position: 25% 65%;
+}
+/* line 192, ../_sass/screen.scss */
+.footer #footer-info .org {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000;
+}
+/* line 199, ../_sass/screen.scss */
+.footer #footer-info .tel-type {
+  font-weight: bold;
+}
+/* line 203, ../_sass/screen.scss */
+.footer #footer-info .type, .footer #footer-info .country-name {
+  display: none;
+}
+
+/* line 209, ../_sass/screen.scss */
+#badges-policy {
+  margin: 15px 0;
+  text-align: center;
+}
+
+/* line 214, ../_sass/screen.scss */
 .post-info {
   text-align: right;
 }
 
-/* line 169, ../_sass/screen.scss */
+/* line 218, ../_sass/screen.scss */
 .salone-image {
   display: block;
   margin: auto;
 }
 
-/* line 174, ../_sass/screen.scss */
+/* line 223, ../_sass/screen.scss */
 .inline-image {
   float: left;
   margin: 7px 10px 10px 0;
 }
 
-/* line 179, ../_sass/screen.scss */
+/* line 228, ../_sass/screen.scss */
 .center {
   margin: 0 auto;
   text-align: center;
 }
 
-/* line 185, ../_sass/screen.scss */
+@media (max-width: 1199px) {
+  /* line 234, ../_sass/screen.scss */
+  #el-temps {
+    display: none;
+  }
+}
+/* line 240, ../_sass/screen.scss */
 .section-header-ajuntament {
   background-color: #2e448d;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-ajuntament .head .back {
   color: #7084b7;
 }
 
-/* line 189, ../_sass/screen.scss */
+/* line 244, ../_sass/screen.scss */
 .section-header-blog {
-  background-color: #2e448d;
+  background-color: #4a5ee3;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-blog .head .back {
-  color: #7084b7;
+  color: #8590f9;
 }
 
-/* line 193, ../_sass/screen.scss */
+/* line 248, ../_sass/screen.scss */
 .section-header-medi {
   background-color: #9ec301;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-medi .head .back {
   color: #bad74b;
 }
 
-/* line 197, ../_sass/screen.scss */
+/* line 252, ../_sass/screen.scss */
 .section-header-esports {
   background-color: #da1c40;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-esports .head .back {
   color: #e96781;
 }
 
-/* line 201, ../_sass/screen.scss */
+/* line 256, ../_sass/screen.scss */
 .section-header-urbanisme {
   background-color: #a6765f;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-urbanisme .head .back {
   color: #c3a08d;
 }
 
-/* line 205, ../_sass/screen.scss */
+/* line 260, ../_sass/screen.scss */
 .section-header-turisme {
   background-color: #50885b;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-turisme .head .back {
   color: #84b28e;
 }
 
-/* line 209, ../_sass/screen.scss */
+/* line 264, ../_sass/screen.scss */
 .section-header-serveis {
   background-color: #57a79c;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-serveis .head .back {
   color: #85c8bf;
 }
 
-/* line 213, ../_sass/screen.scss */
+/* line 268, ../_sass/screen.scss */
 .section-header-festes {
   background-color: #cacb01;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-festes .head .back {
   color: #dedc4b;
 }
 
-/* line 217, ../_sass/screen.scss */
+/* line 272, ../_sass/screen.scss */
 .section-header-educacio {
   background-color: #ff0066;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-educacio .head .back {
   color: #ff94be;
 }
 
-/* line 221, ../_sass/screen.scss */
+/* line 276, ../_sass/screen.scss */
 .section-header-economia {
   background-color: #bb7c51;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-economia .head .back {
   color: #d5aa8a;
 }
 
-/* line 225, ../_sass/screen.scss */
+/* line 280, ../_sass/screen.scss */
 .section-header-cultura {
   background-color: #049bd2;
 }
-/* line 71, ../_sass/screen.scss */
+/* line 73, ../_sass/screen.scss */
 .section-header-cultura .head .back {
   color: #59bde1;
 }
 
-/* line 229, ../_sass/screen.scss */
+/* line 284, ../_sass/screen.scss */
 .section-title-ajuntament {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #2e448d;
   border-bottom: 1px dotted #2e448d;
 }
 
-/* line 233, ../_sass/screen.scss */
+/* line 288, ../_sass/screen.scss */
 .section-title-blog {
   font-family: 'FuturaLight', Arial, Verdana;
-  color: #2e448d;
-  border-bottom: 1px dotted #2e448d;
+  color: #4a5ee3;
+  border-bottom: 1px dotted #4a5ee3;
 }
 
-/* line 237, ../_sass/screen.scss */
+/* line 292, ../_sass/screen.scss */
 .section-title-medi {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #9ec301;
   border-bottom: 1px dotted #9ec301;
 }
 
-/* line 241, ../_sass/screen.scss */
+/* line 296, ../_sass/screen.scss */
 .section-title-esports {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #da1c40;
   border-bottom: 1px dotted #da1c40;
 }
 
-/* line 245, ../_sass/screen.scss */
+/* line 300, ../_sass/screen.scss */
 .section-title-urbanisme {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #a6765f;
   border-bottom: 1px dotted #a6765f;
 }
 
-/* line 249, ../_sass/screen.scss */
+/* line 304, ../_sass/screen.scss */
 .section-title-turisme {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #50885b;
   border-bottom: 1px dotted #50885b;
 }
 
-/* line 253, ../_sass/screen.scss */
+/* line 308, ../_sass/screen.scss */
 .section-title-serveis {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #57a79c;
   border-bottom: 1px dotted #57a79c;
 }
 
-/* line 257, ../_sass/screen.scss */
+/* line 312, ../_sass/screen.scss */
 .section-title-festes {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #cacb01;
   border-bottom: 1px dotted #cacb01;
 }
 
-/* line 261, ../_sass/screen.scss */
+/* line 316, ../_sass/screen.scss */
 .section-title-educacio {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #ff0066;
   border-bottom: 1px dotted #ff0066;
 }
 
-/* line 265, ../_sass/screen.scss */
+/* line 320, ../_sass/screen.scss */
 .section-title-economia {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #bb7c51;
   border-bottom: 1px dotted #bb7c51;
 }
 
-/* line 269, ../_sass/screen.scss */
+/* line 324, ../_sass/screen.scss */
 .section-title-cultura {
   font-family: 'FuturaLight', Arial, Verdana;
   color: #049bd2;

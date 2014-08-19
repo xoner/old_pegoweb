@@ -30,9 +30,38 @@ layout: default
               <div class="head">
                 <span class="front">{{ site.screenName[page.section] }}</span>
                 <span class="back">{{ site.screenName[page.section] }}</span>
+                {% if page.section == 'blog' %}
+                    <div id="scl-buttons">
+                        <a href="http://twitter.com/#!/ajupego" data-toggle="tooltip" data-placement="bottom" title="Twitter">>
+                            <span class="fa-stack fa">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                        <a href="http://www.facebook.com/pages/Ajuntament-de-Pego/210367298986788">
+                            <span class="fa-stack fa">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                        <a href="https://plus.google.com/116968350420735463793">
+                            <span class="fa-stack fa">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                        <a href="http://www.pego.org/feed.xml">
+                            <span class="fa-stack fa">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </div>
+                {% endif %}
               </div>
             </div>
         </div>
+
         {{ content }}
     </div>
 </div>

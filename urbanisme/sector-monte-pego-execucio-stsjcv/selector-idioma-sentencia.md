@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_layout
 section: urbanisme
 title: Selector d'idioma sentència 189/2014 de 28 de febrero
 ---
