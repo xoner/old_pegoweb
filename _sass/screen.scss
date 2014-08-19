@@ -38,7 +38,7 @@ body {
 
 .container {
     padding-top: 20px;
-    background-color: #fff;
+    background-color: #F1F0E8;
 }
 
 .header{
@@ -113,9 +113,52 @@ body {
 .content{
     margin-top: 10px;
 
+    .news {
+        article{
+            border-bottom: 3px dotted #666;
+
+            header {
+                h2 {
+                    a {
+                        color: #8F030C;
+                        text-decoration: none;
+                    }
+                    border-bottom: 1px dotted #4A5EE3;
+                }
+                .post-info {
+                    font-size: 0.8em;
+
+                    time {
+                        font-weight: bold;
+                    }
+                }
+            }
+        }
+
+        .art-content{
+            margin-top: 15px;
+        }
+    }
 
     .banners{
-        margin-top: 20px;
+        margin-top: 10px;
+
+        .banner-container{
+            width: 105%;
+            background-color: #fff;
+
+                .banner {
+                    margin-top: 10px;
+
+                    img{
+                        width: 100%;
+                    }
+                }
+
+                table#table_widget{
+                    width:100% !important;
+                }
+        }
     }
 }
 
