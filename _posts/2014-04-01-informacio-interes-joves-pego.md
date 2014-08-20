@@ -1,6 +1,7 @@
 ---
 title: Informació d'interés per als joves de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Joventut
 ---
 Des de la Regidoria de Joventut, donem a conèixer diverses novetats que poden ser de l'interés dels joves pegolins amb els enllaços següents: (Disponibles partir del dia 1 d'abril)

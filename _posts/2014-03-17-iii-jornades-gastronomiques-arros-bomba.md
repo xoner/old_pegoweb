@@ -1,6 +1,7 @@
 ---
 title: III Jornades gastronòmiques arròs bomba Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria turisme
 ---
 <a class="salone-image center" href="/images/news/20140317-iii-jornades-gastronomiques-arros-bomba.jpg" title="III Jornades gastronòmiques arros bomba Pego 2014">

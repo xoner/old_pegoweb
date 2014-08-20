@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page_layout
+section: blog
 title: Política de cookies
 author: Ajuntament de Pego
 date: 2014-04-29

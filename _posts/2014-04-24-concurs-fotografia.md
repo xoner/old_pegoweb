@@ -1,6 +1,7 @@
 ---
 title: II Concurs de fotografia esportiva
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'esports
 ---
 

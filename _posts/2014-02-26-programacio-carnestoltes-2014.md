@@ -1,6 +1,7 @@
 ---
 title: Programació Carnestoltes 2014
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 date: 2014-02-26T10:00
 longPost: true

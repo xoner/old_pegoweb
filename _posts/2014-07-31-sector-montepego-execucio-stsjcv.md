@@ -1,6 +1,7 @@
 ---
 title: Sector Monte Pego – Execució STSJCV
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 Acord del Ple de l' Ajuntament de Pego, de 5 de juny de 2014, sobre execució de la Sentència 189/2014, de 28 de febrer, de la Secció 1ª de la Sala del Contenciós Administratiu del Tribunal Superior de Justícia de la Comunitat Valenciana.

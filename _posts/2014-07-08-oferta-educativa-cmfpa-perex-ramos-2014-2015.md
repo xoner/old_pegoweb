@@ -1,6 +1,7 @@
 ---
 title: Oferta educativa del CMFPA "A. Pérez Ramos" 2014-2015
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <div class="salone-img center">

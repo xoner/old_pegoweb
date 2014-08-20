@@ -1,6 +1,7 @@
 ---
 title: Ajornament del segon dia dels xiquets
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de festes
 ---
 

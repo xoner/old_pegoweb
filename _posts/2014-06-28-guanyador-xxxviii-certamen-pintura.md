@@ -1,6 +1,7 @@
 ---
 title: Guanyador XXXVIII certamen pintura vila de Pego
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de cultura
 ---
 <a class="salone-image center" href="/cultura/certamen-pintura/images/xxxviii/1er-premi-momento-tesla.jpg" target="_blank" title="Momento Tesla">

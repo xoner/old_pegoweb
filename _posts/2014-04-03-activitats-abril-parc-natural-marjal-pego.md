@@ -1,6 +1,7 @@
 ---
 title: Activitats Parc Natural de la marjal de Pego-Oliva en abril
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 <div class="center salone-image">

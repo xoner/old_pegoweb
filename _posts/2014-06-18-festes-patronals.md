@@ -1,6 +1,7 @@
 ---
 title: Festes patronals 2014
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 

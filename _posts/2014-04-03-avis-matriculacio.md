@@ -1,6 +1,7 @@
 ---
 title: Avis de matriculació
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 date: 2014-04-03T18:08
 ---

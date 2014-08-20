@@ -1,6 +1,7 @@
 ---
 title: Escola d'estiu 2014
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria d'esports
 date: 2014-06-11T10:00
 longPost: true

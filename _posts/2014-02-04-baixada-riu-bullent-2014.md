@@ -1,6 +1,7 @@
 ---
 title: Baixada riu Bullent 2014, inici del carnestoltes a Pego.
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de festes
 ---
 

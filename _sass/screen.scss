@@ -39,20 +39,37 @@ body {
 }
 
 .container {
-    padding-top: 20px;
+    padding-top: 5px;
     background-color: #F1F0E8;
 }
 
 .header{
+    font-family: 'FuturaLight', Arial, Verdana;
+
+    #mobile-header {
+        .caption {
+            font-size: 1.5em;
+        }
+    }
+
+    #main-title {
+        position: absolute;
+        z-index: 1;
+        left: 2%;
+        background-color: rgba(255, 255, 255, 0.7);
+        width: 21%;
+        color: #000;
+        height: 100%;
+        margin: 0;
+        padding-top: 3%;
+    }
+
     a {
         color: #000;
     }
     img {
         display: block;
         margin: 0 auto;
-    }
-    h1 {
-        font-family: 'FuturaLight', Arial, Verdana;
     }
 
     .caption {
@@ -62,7 +79,11 @@ body {
     }
 
     .aj-caroussel{
-        text-align: center
+        text-align: center;
+
+        #carousel-aj .carousel-inner .item:hover{
+            margin: 0px
+        }
     }
 }
 
@@ -122,6 +143,14 @@ body {
     }
 }
 
+.post-info {
+    font-size: 0.8em;
+
+    time {
+        font-weight: bold;
+    }
+}
+
 .content{
     margin-top: 10px;
 
@@ -138,13 +167,7 @@ body {
                     }
                     border-bottom: 1px dotted #4A5EE3;
                 }
-                .post-info {
-                    font-size: 0.8em;
 
-                    time {
-                        font-weight: bold;
-                    }
-                }
             }
         }
 

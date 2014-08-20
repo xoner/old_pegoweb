@@ -1,6 +1,7 @@
 ---
 title: 1a fira de la tapa "Pego també tapeja"
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 ---
 

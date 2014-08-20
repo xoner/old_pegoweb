@@ -1,6 +1,7 @@
 ---
 title: Exposició "Siempre hay motivos para la Esperanza"
-layout: post
+layout: page_layout
+section: blog
 author: Ajuntament de Pego
 date: 2014-02-26T09:00
 ---

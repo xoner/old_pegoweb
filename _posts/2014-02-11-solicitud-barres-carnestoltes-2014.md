@@ -1,6 +1,7 @@
 ---
 title: Obert el periode per a la sol·licitud de barres als carnestoltes 2014
-layout: post
+layout: page_layout
+section: blog
 author: Regidoria de Festes
 ---
 <a class="salone-image center" href="/images/news/20140124-carnestoltes-pego-2014-big.jpg" title="Carnestoltes 2014">
