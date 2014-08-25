@@ -23,6 +23,9 @@ screenName:
     turisme: turisme
     urbanisme: urbanisme
 
+kramdown:
+    auto_ids: false
+
 menu:
     serveis:
         - src: /serveis/mancomunitat.html
@@ -32,4 +35,4 @@ menu:
         - src: /serveis/impressos.html
           txt: Impressos
         - src: /serveis/contractacio.html
-          txt: Contractació;
+          txt: Contractació
