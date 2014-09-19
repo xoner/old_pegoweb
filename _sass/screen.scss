@@ -31,7 +31,7 @@ $navbar-default-color: #fff;
 
 //@import "compass/reset";
 @import "bootstrap";
-@import "compass/css3/shared";
+//@import "compass/css3/shared";
 @import "main-menu";
 
 body {
@@ -39,8 +39,21 @@ body {
 }
 
 .container {
-    padding-top: 5px;
+    //padding-top: 5px;
     background-color: #F1F0E8;
+}
+
+#cookies-policy{
+    background-color: #40403A;
+    color: #fff;
+    padding: 10px 0 5px 0;
+    text-align: center;
+    //height: auto;
+}
+
+#cookies-policy.hidden{
+    height: 0px;
+    display: none;
 }
 
 .header{
@@ -201,6 +214,7 @@ body {
     }
 }
 
+
 .section-menu {
 
     ul {
@@ -286,6 +300,33 @@ body {
     text-align: center;
 }
 
+.update, .warning {
+    font-size: 0.9em;
+    border: 1px solid #C3B329;
+    background-color: #E1D56C;
+    padding: 5px;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.pdf-list, .impressos {
+    ul {
+        list-style: none;
+    }
+
+    li {
+        padding-left: 1.2em;
+    }
+
+    li:before {
+        content: '\f1c1' /*fontawesome char code inside the ''*/;
+        font-family: FontAwesome; /* or whatever */
+        display: inline-block;
+        margin-left: -1.2em; /*same as padding-left set on li*/
+        width: 1.2em; /*same as padding-left set on li*/
+    }
+}
+
 @media (max-width: 1199px){
     #el-temps{
         display: none;
@@ -293,90 +334,26 @@ body {
 }
 
 
-.section-header-ajuntament {
-    @include section-header($col_ajuntament, $col_ajuntament_dos);
-}
+.section-header-ajuntament { @include section-header($col_ajuntament, $col_ajuntament_dos); }
+.section-header-blog{ @include section-header($col_news, $col_news_dos); }
+.section-header-medi { @include section-header($col_medi, $col_medi_dos); }
+.section-header-esports { @include section-header($col_esports, $col_esports_dos); }
+.section-header-urbanisme{ @include section-header($col_urbanisme, $col_urbanisme_dos); }
+.section-header-turisme { @include section-header($col_turisme, $col_turisme_dos); }
+.section-header-serveis { @include section-header($col_serveis, $col_serveis_dos); }
+.section-header-festes { @include section-header($col_festes, $col_festes_dos); }
+.section-header-educacio { @include section-header($col_educacio, $col_educacio_dos); }
+.section-header-economia { @include section-header($col_economia, $col_economia_dos); }
+.section-header-cultura { @include section-header($col_cultura, $col_cultura_dos); }
 
-.section-header-blog{
-    @include section-header($col_news, $col_news_dos);
-}
-
-.section-header-medi {
-    @include section-header($col_medi, $col_medi_dos);
-}
-
-.section-header-esports {
-    @include section-header($col_esports, $col_esports_dos);
-}
-
-.section-header-urbanisme{
-    @include section-header($col_urbanisme, $col_urbanisme_dos);
-}
-
-.section-header-turisme {
-    @include section-header($col_turisme, $col_turisme_dos);
-}
-
-.section-header-serveis {
-    @include section-header($col_serveis, $col_serveis_dos);
-}
-
-.section-header-festes {
-    @include section-header($col_festes, $col_festes_dos);
-}
-
-.section-header-educacio {
-    @include section-header($col_educacio, $col_educacio_dos);
-}
-
-.section-header-economia {
-    @include section-header($col_economia, $col_economia_dos);
-}
-
-.section-header-cultura {
-    @include section-header($col_cultura, $col_cultura_dos);
-}
-
-.section-title-ajuntament {
-    @include section-title($col_ajuntament);
-}
-
-.section-title-blog{
-    @include section-title($col_news);
-}
-
-.section-title-medi {
-    @include section-title($col_medi);
-}
-
-.section-title-esports {
-    @include section-title($col_esports);
-}
-
-.section-title-urbanisme{
-    @include section-title($col_urbanisme);
-}
-
-.section-title-turisme {
-    @include section-title($col_turisme);
-}
-
-.section-title-serveis {
-    @include section-title($col_serveis);
-}
-
-.section-title-festes {
-    @include section-title($col_festes);
-}
-
-.section-title-educacio {
-    @include section-title($col_educacio);
-}
-
-.section-title-economia {
-    @include section-title($col_economia);
-}
-
-.section-title-cultura {
-    @include section-title($col_cultura);
-}
+.section-title-ajuntament { @include section-title($col_ajuntament); }
+.section-title-blog{ @include section-title($col_news); }
+.section-title-medi { @include section-title($col_medi); }
+.section-title-esports { @include section-title($col_esports); }
+.section-title-urbanisme{ @include section-title($col_urbanisme); }
+.section-title-turisme { @include section-title($col_turisme); }
+.section-title-serveis { @include section-title($col_serveis); }
+.section-title-festes { @include section-title($col_festes); }
+.section-title-educacio { @include section-title($col_educacio); }
+.section-title-economia { @include section-title($col_economia); }
+.section-title-cultura { @include section-title($col_cultura);}

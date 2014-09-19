@@ -12,25 +12,25 @@ description: Composició de l'equip de govern per a la legislatura 2011-2015 de 
 
 Ostenta totes les atribucions pròpies de l'alcaldia que no han estat delegades exulssament.  Especialment ostenta les àrees de Serveis socials, dona i immigració.
 
-### TINENCES  D'ALCALDIA 
+### TINENCES  D'ALCALDIA
 
 * **1ER  TINENT D'ALCALDE:**  SR. JOSE CARMELO ORTOLÀ SISCAR.
 * **2N   TINENT D'ALCALDE:**  SRA. PEPA SENDRA SALA.
 * **3R   TINENT D'ALCALDE:**  ALICIA SISCAR ESCRIVA
 * **4T   TINENT D'ALCALDE:**  SR. JOSÉ PASCUAL GARCIA ESCRIVÁ.
 
-### DELEGACIONS 
+### DELEGACIONS
 
-<table>
+<table class="table table-hover table-condensed">
     <thead>
-        <tr><td>AREA - SERVEI MUNICIPAL</td><td>REGIDOR/A   DELEGAT/A</td></tr>
+        <tr><th>AREA - SERVEI MUNICIPAL</th><th>REGIDOR/A   DELEGAT/A</th></tr>
     </thead>
     <tbody>
         <tr>
             <td>
                 <ul>
-                    <li>AGRICULTURA.</li> 
-                    <li>MEDI AMBIENT.</li> 
+                    <li>AGRICULTURA.</li>
+                    <li>MEDI AMBIENT.</li>
                     <li>PARCS I JARDINS.</li>
                 <ul>
             </td>
@@ -41,10 +41,10 @@ Ostenta totes les atribucions pròpies de l'alcaldia que no han estat delegades 
         <tr>
             <td>
                 <ul>
-                    <li>TURISME.</li> 
-                    <li>COMERÇ.</li> 
+                    <li>TURISME.</li>
+                    <li>COMERÇ.</li>
                     <li>PROMOCIÓ ECONÓMICA.</li>
-                    <li>CREAMA.</li> 
+                    <li>CREAMA.</li>
                 </ul>
             </td>
             <td>SRA. PEPA SENDRA SALA</td>
@@ -54,7 +54,7 @@ Ostenta totes les atribucions pròpies de l'alcaldia que no han estat delegades 
                 <ul>
                     <li>ESPORTS.</li>
                     <li>FESTES.</li>
-                    <li>JOVENTUT.</li> 
+                    <li>JOVENTUT.</li>
                 </ul>
             </td>
             <td>SR. RAUL TAMARIT SERESOLA.</td>
@@ -64,8 +64,8 @@ Ostenta totes les atribucions pròpies de l'alcaldia que no han estat delegades 
                 <ul>
                     <li>URBANISME (PLANEJAMENT. GESTIÓ. OBRES MENORS. PONÈNCIA D'ACTIVITATS) </li>
                     <li>EDUCACIÓ. </li>
-                    <li>CULTURA.</li> 
-                    <li>PARTICIPACIÓ CIUTADANA.</li> 
+                    <li>CULTURA.</li>
+                    <li>PARTICIPACIÓ CIUTADANA.</li>
                     <li>RESIDENTS EUROPEUS. </li>
                 </ul>
             </td>

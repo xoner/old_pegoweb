@@ -1,12 +1,12 @@
 ---
 layout: page_layout
-title: Descàrrega d'Impressos
+title: Descàrrega d'Impresos
 section: serveis
 description: En aquesta secció es poden descarregar els impresos i instancies de diverses gestions administratives municipals.
 ---
 <div class="impressos" markdown="1">
 ### Personal
-* [Instància Borses de Treball](/pdf/personal/INSTANCIA_BORSES_TREBALL.pdf)
+* <i class="fa-li fa fa-check-square"></i>[Instància Borses de Treball](/pdf/personal/INSTANCIA_BORSES_TREBALL.pdf)
 * [Instància Selecció Funcionaris Carrera](/pdf/personal/INSTANCIA_SELECCIO_FUNCIONARI_CARRERA.pdf)
 * [Instància Selecció Funcionaris Interins](/pdf/personal/INSTANCIA_SELECCIO_FUNCIONARI_INTERI.pdf)
 

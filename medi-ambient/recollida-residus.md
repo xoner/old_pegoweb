@@ -18,7 +18,7 @@ L’imcompliment de qualsevol dels fets exposats amb anterioritat suposarà les 
 
 ### Sancions
 
-<table class="sancions">
+<table class="table">
     <tbody>
         <tr>
             <td><strong>150€</strong></td>

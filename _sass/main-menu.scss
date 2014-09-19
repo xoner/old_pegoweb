@@ -1,3 +1,46 @@
+@import "compass/css3/transition";
+
+// Menu Colors
+$ajuntament-uno: #2E448D;
+$ajuntament-dos: #816f8d;
+
+$economia-uno: #CE895A;
+$economia-dos: #9b6f5a;
+
+$urbanisme-uno: #A6775F;
+$urbanisme-dos: #9b3c5a;
+
+$serveis-uno: #56A89C;
+$serveis-dos: #4e6f8d;
+
+$medi-ambient-uno: #9EC400;
+$medi-ambient-dos: #81895a;
+
+$esports-uno: #D91C40;
+$esports-dos: #b4565a;
+
+$educacio-uno: #FF0066;
+$educacio-dos: #ce3c8d;
+
+
+$cultura-uno: #00A3DE;
+$cultura-dos: #6856a7;
+
+$turisme-uno: #4E895A;
+$turisme-dos: #4e895a;
+
+$festes-uno: #CCCC00;
+$festes-dos: #ed9220;
+
+.menu .navbar-collapse {
+    padding: 0;
+}
+
+.menu.navbar-default{
+    background-color: #F1F0E8;
+    border-color: #F1F0E8;
+}
+
 .item-container .item{
     height: 30px;
     /*border: 1px solid black;*/
@@ -6,30 +49,23 @@
     font-weight: bold;
     font-size: 1.1em;
     display: block;
-    margin-left: 30px;
     margin-top:-1px;
     position: relative;
-
-    color: #000;
     margin-left: 20px;
 
-    -webkit-transition-property: margin-left color;
-       -moz-transition-property: margin-left color;
-        -ms-transition-property: margin-left color;
-         -o-transition-property: margin-left color;
-            transition-property: margin-left color;
+    color: #000;
 
-    -webkit-transition-duration: 300ms;
-       -moz-transition-duration: 300ms;
-        -ms-transition-duration: 300ms;
-         -o-transition-duration: 300ms;
-            transition-duration: 300ms;
+    @include transition-duration(300ms);
+    @include transition-property(margin-left color);
+    @include transition-timing-function(ease-in-out);
+}
 
-    -webkit-transition-timing-function: ease-in-out;
-       -moz-transition-timing-function: ease-in-out;
-        -ms-transition-timing-function: ease-in-out;
-         -o-transition-timing-function: ease-in-out;
-            transition-timing-function: ease-in-out;
+.item:hover {
+    margin-left: 30px;
+
+    @include transition-duration(300ms);
+    @include transition-property(margin-left color);
+    @include transition-timing-function(ease-in-out);
 }
 
 a.item{
@@ -39,25 +75,6 @@ a.item{
 
 .item:hover{
     color: #fff;
-    margin-left: 40px;
-
-    -webkit-transition-property: margin-left color;
-       -moz-transition-property: margin-left color;
-        -ms-transition-property: margin-left color;
-         -o-transition-property: margin-left color;
-            transition-property: margin-left color;
-
-    -webkit-transition-duration: 300ms;
-       -moz-transition-duration: 300ms;
-        -ms-transition-duration: 300ms;
-         -o-transition-duration: 300ms;
-            transition-duration: 300ms;
-
-    -webkit-transition-timing-function: ease-in-out;
-       -moz-transition-timing-function: ease-in-out;
-        -ms-transition-timing-function: ease-in-out;
-         -o-transition-timing-function: ease-in-out;
-            transition-timing-function: ease-in-out;
 }
 
 .item-background{
@@ -74,69 +91,194 @@ a.item{
 }
 
 .item-container{
-
     clear: both;
     position: relative;
     margin: 2px 0 3px 0;
 }
 
-.m_ajuntament{
-    background-color: #7063a4;
+.menu-section {
+    text-align: right;
+    color: white;
+    //margin-left: 40px;
+    height: 0;
+    visibility: hidden;
+    margin-left: 30px;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
+
+    ul {
+        padding: 0;
+    }
+
+    ul li {
+        list-style: none;
+        width: 100%;
+        padding: 0;
+
+        a {
+            color: white;
+            padding-right: 10px;
+            width: 100%;
+            display: block;
+        }
+
+        strong {
+            padding-right: 10px;
+            display: block;
+        }
+    }
 }
-.m_ajuntament:hover{
-    background-color: #816f8d;
+
+#ms_ajuntament.expanded {
+    height: 200px;
+    visibility: visible;
+    background-color: $ajuntament-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_economia{
-   background-color: #CE895A;
+
+#ms_economia.expanded {
+    height: 80px;
+    visibility: visible;
+    background-color: $economia-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_economia:hover{
-    background-color: #9b6f5a;
+
+#ms_urbanisme.expanded {
+    height: 140px;
+    visibility: visible;
+    background-color: $urbanisme-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_urbanisme{
-    background-color: #A6775F;
+
+#ms_serveis.expanded {
+    height: 120px;
+    visibility: visible;
+    background-color: $serveis-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_urbanisme:hover{
-    background-color: #9b3c5a;
+
+#ms_medi-ambient.expanded {
+    height: 100px;
+    visibility: visible;
+    background-color: $medi-ambient-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_serveis{
-    background-color: #56A89C;
+
+#ms_esports.expanded {
+    height: 60px;
+    visibility: visible;
+    background-color: $esports-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_serveis:hover{
-    background-color: #4e6f8d;
+
+#ms_educacio.expanded {
+    height: 40px;
+    visibility: visible;
+    background-color: $educacio-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_medi-ambient{
-    background-color: #9EC400;
+
+#ms_cultura.expanded {
+    height: 380px;
+    visibility: visible;
+    background-color: $cultura-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_medi-ambient:hover{
-    background-color: #81895a;
+
+#ms_turisme.expanded {
+    height: 80px;
+    visibility: visible;
+    background-color: $turisme-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_esports{
-    background-color: #D91C40;
+
+#ms_festes.expanded {
+    height: 140px;
+    visibility: visible;
+    background-color: $festes-dos;
+
+    @include transition-duration(500ms);
+    @include transition-property(height visibility);
+    @include transition-timing-function(ease);
 }
-.m_esports:hover{
-    background-color: #b4565a;
+
+#ms_ajuntament strong { background-color: #473c4e; }
+#ms_cultura strong { background-color: #473B6E; }
+#ms_festes strong { background-color: #986A31; }
+
+
+.m_ajuntament{ background-color: $ajuntament-uno; }
+.m_ajuntament:hover{ background-color: $ajuntament-dos;}
+
+.m_economia { background-color: $economia-uno; }
+.m_economia:hover { background-color: $economia-dos; }
+
+.m_urbanisme { background-color: $urbanisme-uno; }
+.m_urbanisme:hover { background-color: $urbanisme-dos; }
+
+.m_serveis { background-color: $serveis-uno; }
+.m_serveis:hover { background-color: $serveis-dos; }
+
+.m_medi-ambient { background-color: $medi-ambient-uno; }
+.m_medi-ambient:hover { background-color: $medi-ambient-dos; }
+
+.m_esports { background-color: $esports-uno; }
+.m_esports:hover { background-color: $esports-dos; }
+
+.m_educacio { background-color: $educacio-uno; }
+.m_educacio:hover { background-color: $educacio-dos; }
+
+.m_cultura { background-color: $cultura-uno; }
+.m_cultura:hover { background-color: $cultura-dos; }
+
+.m_turisme { background-color: $turisme-uno; }
+.m_turisme:hover { background-color: $turisme-dos; }
+
+.m_festes { background-color: $festes-uno; }
+.m_festes:hover { background-color: $festes-dos; }
+
+
+@mixin current-section($color) {
+    color: $color;
+    background-color: rgba(204,204,204,0.7);
 }
-.m_educacio{
-    background-color: #FF0066;
-}
-.m_educacio:hover{
-    background-color: #ce3c8d;
-}
-.m_cultura{
-    background-color: #00A3DE;
-}
-.m_cultura:hover{
-    background-color: #6856a7;
-}
-.m_turisme{
-    background-color: #4E895A;
-}
-.m_turisme:hover{
-    background-color: #4e895a;
-}
-.m_festes{
-    background-color: #CCCC00;
-}
-.m_festes:hover{
-    background-color: #ed9220;
-}
+
+#ms_ajuntament .current a { @include current-section($ajuntament-dos);}
+#ms_economia .current a { @include current-section($economia-dos);}
+#ms_urbanisme .current a { @include current-section($urbanisme-dos);}
+#ms_serveis .current a { @include current-section($serveis-dos);}
+#ms_medi-ambient .current a { @include current-section($medi-ambient-dos);}
+#ms_esports .current a { @include current-section($esports-dos);}
+#ms_educacio .current a { @include current-section($educacio-dos);}
+#ms_cultura .current a { @include current-section($cultura-dos);}
+#ms_turisme .current a { @include current-section($turisme-dos);}
+#ms_festes .current a { @include current-section($festes-dos);}

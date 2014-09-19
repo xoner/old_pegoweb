@@ -15,21 +15,31 @@ description: Informació de contacte, localització i serveis dels diferents cen
 * [IES Enric Valor](#enric_valor)
 
 <div id="ambra" markdown="1">
-### Col·lege públic Ambra
+### Col·legi públic Ambra
 
 
-|---
-|Adreça              | Avinguda Blasco Ibáñez, 5
-|Telèfon             | 96 640 99 15
-|Fax                 | 965570819
-|Correu electrònic   | [03014125@centres.cult.gva.es](mailto:03014125@centres.cult.gva.es)
-|Plana web           | [http://intercentres.cult.gva.es/intercentres/03014125/](http://intercentres.cult.gva.es/intercentres/03014125/)
-|Informació          | Ensenyança d'anglès, francès, instal·lacions esportives, gimnàs, aula de música, laboratori/taller, biblioteca, aula d'informàtica, menjador, i transport.
+<table class="table">
+    <tbody>
+        <tr><td><strong>Adreça              </strong></td><td>Avinguda Blasco Ibáñez, 5</td></tr>
+        <tr><td><strong>Telèfon             </strong></td><td>96 640 99 15</td></tr>
+        <tr><td><strong>Fax                 </strong></td><td>965570819</td></tr>
+        <tr><td><strong>Correu electrònic   </strong></td><td><a href="mailto:03014125@centres.cult.gva.es">03014125@centres.cult.gva.es</a></td></tr>
+        <tr><td><strong>Plana web           </strong></td><td>[http://intercentres.cult.gva.es/intercentres/03014125/](http://intercentres.cult.gva.es/intercentres/03014125/)</td></tr>
+        <tr><td><strong>Informació          </strong></td><td>Ensenyança d'anglès, francès, instal·lacions esportives, gimnàs, aula de música, laboratori/taller, biblioteca, aula d'informàtica menjador, i transport.</td></tr>
+    </tbody>
+</table>
+
+
+
+
+
+
 
 </div>
 
 <div id="carolina" markdown="1">
-### Col·lege públic Carolina Sala
+
+### Col·legi públic Carolina Sala
 
 Key                 |   Value
 --------------------|---------
@@ -43,7 +53,7 @@ Informació          | Ensenyança d'anglès, instal·lacions esportives, gimnà
 </div>
 
 <div id="rosalia" markdown="1">
-### Col·lege públic Rosalia Bondia
+### Col·legi públic Rosalia Bondia
 
 Key                 |   Value
 --------------------|---------

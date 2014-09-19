@@ -4,20 +4,9 @@ layout: default
 <div class="row content">
     <div class="col-md-3 menu">
         {% include menus/main-menu.html %}
-        <div class="section-menu{%if page.section %} menu-{{page.section}}{%endif%}">
+        <div class="section-menu visible-lg{%if page.section %} menu-{{page.section}}{%endif%}">
         {% case page.section %}
-        {% when 'serveis' %} {% capture sidebar %}{% include menus/serveis.markdown %}{% endcapture %}
-        {% when 'esports' %} {% capture sidebar %}{% include menus/esports.markdown %}{% endcapture %}
-        {% when 'urbanisme' %} {% capture sidebar %}{% include menus/urbanisme.markdown %}{% endcapture %}
-        {% when 'educacio' %} {% capture sidebar %}{% include menus/educacio.markdown %}{% endcapture %}
-        {% when 'ajuntament' %} {% capture sidebar %}{% include menus/ajuntament.markdown %}{% endcapture %}
-        {% when 'economia' %} {% capture sidebar %}{% include menus/economia.markdown %}{% endcapture %}
-        {% when 'medi' %}{% capture sidebar%}{% include menus/medi.markdown %}{% endcapture %}
-        {% when 'cultura' %}{% capture sidebar %}{% include menus/cultura.markdown %}{% endcapture %}
-        {% when 'turisme' %}{% capture sidebar %}{% include menus/turisme.markdown %}{% endcapture %}
-        {% when 'festes' %}{% capture sidebar %}{% include menus/festes.markdown %}{% endcapture %}
         {% when 'blog' %}{% capture sidebar %}{% include menus/blog.markdown %}{% endcapture %}
-        {% else %}
         {% endcase %}
         {% if sidebar %}
         {{ sidebar | markdownify }}

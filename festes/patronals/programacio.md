@@ -4,7 +4,7 @@ layout: page_layout
 section: festes
 description: Programació de les festes patronals de Pego, del 21 al 30 de juny de 2013.
 ---
-<table>
+<table class="table">
     <thead>
         <tr><td colspan="3">Programació en altres llengues</td></tr>
     </thead>
@@ -17,7 +17,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 <!--
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Divendres, 21 de Juny</th>
@@ -31,7 +31,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dissabte, 22 de Juny</th>
@@ -69,7 +69,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
 </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Diumenge, 23 de Juny</th>
@@ -99,7 +99,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dilluns, 24 de Juny</th>
@@ -137,7 +137,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 -->
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dimats, 25 de Juny</th>
@@ -197,7 +197,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dimecres, 26 de Juny, DIA DE LA SANG, DIA DEL SANTISSIM ECCE HOMO, PATRÓ DE PEGO</th>
@@ -237,7 +237,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dijous, 27 de Juny</th>
@@ -263,7 +263,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Divendres, 28 de Juny</th>
@@ -286,7 +286,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dissabte, 29 de Juny</th>
@@ -312,7 +312,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Diumenge, 30 de Juny</th>
@@ -334,7 +334,7 @@ description: Programació de les festes patronals de Pego, del 21 al 30 de juny 
     </tbody>
 </table>
 
-<table class="white-table">
+<table class="table">
     <thead>
         <tr>
             <th colspan="2">Dissabte, 6 de Juliol</th>

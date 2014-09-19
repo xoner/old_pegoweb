@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="generator" content="jekyll">
     <meta name="keywords" content="ajuntament, ayuntamiento, pego, alicante, alacant, informacio, informacion" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if page.description %}
     <meta name="description" content="{{ page.description }}" />
 {% endif %}
@@ -18,6 +19,7 @@
     <script type="text/javascript" src="/script/jquery-1.11.1.min.js"></script>
     <!-- Latest compiled and minified bootstrap JavaScript -->
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="/script/cookies.js" type="text/javascript" charset="utf-8"></script>
 {% if page.jqueryui %}
     <script type="text/javascript" src="/script/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="/style/jquery-ui/jquery-ui.min.css" type="text/css" media="screen, projection" />
@@ -31,9 +33,14 @@
 {% if page.custom_head %}
     {{ page.custom_head }}
 {% endif %}
+    <script src="/script/application.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
     <div class="container">
+        <div id="cookies-policy" class="col-md12">
+            Aquesta plana utilitza 'cookies' per millorar l'experiència de navegació. Si segueixes navegant entenem que ho acceptes.
+            <a href="#" id="bnt-cookies-accept" class="btn btn-default btn-xs">D'acord</a> <a href="/politica-de-cookies.html">Més Informació</a>.
+        </div>
         <div class="row header">
             <div id="mobile-header" class="col-md-12 hidden-lg hidden-md">
                 <a href="/">
@@ -83,15 +90,16 @@
                 <span class="vcard">
                     <a class="fn org url" href="http://www.pego.org">M.I. Ajuntament de Pego</a>
                     <span class="adr">
-                        <span class="type">Work</span>
+                        <div><span class="type">Work</span></div>
                         <span class="street-address">Plaça de l'ajuntament n&#186; 1</span>
                         <span class="postal-code">03780</span>
                         <span class="locality">Pego</span>
                         (<span class="region" title="Alacant">Alacant</span>)
                         <span class="country-name">ES</span>
-                        <div>&nbsp;</div>
-                        <span class="tel-type">Telèfon: </span><span class="tel"><span class="type">Work</span> 965570011</span>
-                        <span class="tel-type">Fax: </span><span class="tel"><span class="type">Fax</span> 965572583</span>
+                        <div>
+                            <span class="tel-type">Telèfon: </span><span class="tel"><span class="type">Work</span> 965570011</span>
+                            <span class="tel-type">Fax: </span><span class="tel"><span class="type">Fax</span> 965572583</span>
+                        </div>
                     </span>
                 </span>
                 <span></span>
@@ -131,41 +139,23 @@
 
     </div>
 <script type="text/javascript">
-//<![CDATA[
-    $(function(){
-        // comprobar si estem dins del puto iframe de la merda de cinfonet
-        // i redirigir cap a www.pego.org
-        if(!(top === self)){
-            top.parent.location.href = 'http://www.pego.org';
-        }
-
-        $('.section-menu a').each(function(){
-            if(this.href == window.location.href){
-                $(this).parents('li').addClass('current');
+$(window).load(function(){
+    {% if page.customjs %}
+    {{page.customjs}}
+    {% endif %}
+    {% if page.imggallery %}
+    $('a[rel=img-gal]').fancybox({
+        'transitionIn'  : 'none',
+        'transitionOut' : 'none',
+        'titlePosition' : 'over',
+        'titleFormat'   : function(title, currentArray, currentIndex, currentOpts){
+            return '<span id="fancybox-title-over">Imatge ' + (currentIndex + 1) + ' de ' + currentArray.length + (title.length ? '&nbsp;' + title : '&nbsp;');
             }
-        });
-
-        if ($('.tabs').length > 0) {$('.tabs').tabs();};
-
-
-        {% if page.customjs %}
-        {{page.customjs}}
-        {% endif %}
-        {% if page.imggallery %}
-        $('a[rel=img-gal]').fancybox({
-            'transitionIn'  : 'none',
-            'transitionOut' : 'none',
-            'titlePosition' : 'over',
-            'titleFormat'   : function(title, currentArray, currentIndex, currentOpts){
-                return '<span id="fancybox-title-over">Imatge ' + (currentIndex + 1) + ' de ' + currentArray.length + (title.length ? '&nbsp;' + title : '&nbsp;');
-                }
-        });
-        {% endif %}
     });
-//]]>
+    {% endif %}
+});
 </script>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-16993222-1']);
   _gaq.push(['_trackPageview']);

@@ -7,7 +7,7 @@ imggallery: true
 ---
 El Museu de &quot;Art Contempor&agrave;ni&quot; de Pego, es va inaugurar en 1991 amb els fons que constitu&iuml;xen les obres premiades en el Certamen de Pintura &quot;Vila de Pego&quot;, la primera edici&oacute; del qual &eacute;s de l'any 1976.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/art/vgeneral01.png" rel="img-gal" title="Vista general del museu d'art contemporani 01">
         <img src="/images/cultura/art/vgeneral01_thumb.png" alt="Vista general del museu d'art contemporani 01" />
     </a>
@@ -26,7 +26,7 @@ Les diferents sales estan repartides per la primera planta de la Casa de la Cult
 
 Les sales primera i segona estan dedicades a les obres de tractament figuratiu que abracen el paisatge hiperrealista d'un artista consagrat com a F. Mir Berenguer "Jardins i xaboles" 1970 al paisatge Esprai 1995 de Cale Carratala López, la figuració intimista de Manuel Prada Romerar "En qualsevol època" 1976 "Adolescent" 1970 de J. Amerigo Zalazar, la composició de sis quadros seqüències amb influències del còmic "Proces" 1980 d'Enric Solbes Cabrera , passant per Adriá Pina Alegre "Mans" 1983.
 
-<div class="museu-img-cont">
+<div class="center">
     <a title="Adolescente. Jose Amerigo Salazar. 1970" rel="img-gal" href="/images/cultura/art/quadre01.png">
         <img alt="Adolescente. Jose Amerigo Salazar. 1970" src="/images/cultura/art/quadre01_thumb.png">
     </a>
@@ -34,7 +34,7 @@ Les sales primera i segona estan dedicades a les obres de tractament figuratiu q
 
 Destacar també "Al despertar nouvingut" 1978 d'Eduardo Laborda, "Sons reals" 1976 d'Alvaro Segòvia, "Metamorfosi" 1975 de Juan Manuel Brazan amb les seues poètiques tan personals. La ruptura cap a corrents més expressives es pot contemplar en les obres de José Morea Marcos "Adam el de les formigues amb triangles" 1980 o el simbolisme de Martín Caballero "Et pluribus anum" 1980.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/art/quadre02.png" rel="img-gal" title="Adan, el de las hormigas con triangulos. Jose Morera. 1980">
         <img src="/images/cultura/art/quadre02_thumb.png" alt="Adan, el de las hormigas con triangulos. Jose Morera. 1980" />
     </a>
@@ -45,7 +45,7 @@ Destacar també "Al despertar nouvingut" 1978 d'Eduardo Laborda, "Sons reals" 19
 
 Les tendències constructivistes estan representades en la sala tercera amb obres de Luís Estellés Xapa "Escala" 1987, "Simplicitat interna" 1991 d'Ana Mª Miralles Martín i l'obra sense titule 1991 de Ricardo Domínguez Ruiz entre altres.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/art/quadre04.png" rel="img-gal" title="Escala. Lluis Estelles. 1987">
         <img src="/images/cultura/art/quadre04_thumb.png" alt="Escala. Lluis Estelles. 1987" />
     </a>
@@ -53,7 +53,7 @@ Les tendències constructivistes estan representades en la sala tercera amb obre
 
 La sala quarta arreplega el corrent abstracte entre les que destacarem l'obra de Francisco Moliner Ayala "Pintura" 1982, María Chana del Castillo amb la seua obra de 1982 sense títol. L'expressionisme abstracte de Carmen Bereguer 1981 i la força del color i la pinzellada d'Amparo Iranzo Ureña 1985.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/art/quadre05.png" rel="img-gal" title="Pintura. Francisco Molinero Ayala. 1982">
         <img src="/images/cultura/art/quadre05_thumb.png" title="Pintura. Francisco Molinero Ayala. 1982" />
     </a>

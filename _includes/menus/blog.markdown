@@ -3,5 +3,5 @@
 * [Telèfons D'interés](/serveis/telefons.html)
 * [Contractació](/serveis/contractacio.html)
 * [Normativa](/serveis/normativa.html)
-* [Impressos](/serveis/impressos.html)
+* [Impresos](/serveis/impressos.html)
 * [Ocupació Pública](/serveis/ocupacio-publica.html)

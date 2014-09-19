@@ -4,121 +4,115 @@ section: festes
 title: Calendari Festius 2014
 description: Calendari de dies festius al municipi de Pego.
 ---
-<div class="center" markdown="1">
+
 ### Gener
-<div class="serveis" markdown="1">
 
-Data                                          | Festivitat
-----------------------------------------------|-------------------------------
-**<time datetime="2013-01-01">01</time>**     | Any Nou (Festivitat Nacional).
-**<time datetime="2013-01-06">06</time>**     | Epifania. Adoració dels Reis Mags (Festa Nacional).
-**<time datetime="2013-01-12">11</time>**     | Mig Any de Moros i Cristians.
-**<time datetime="2013-01-20">19</time>**     | Sant Antoni Abad. Romeria en Pego.
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-01-01">01</time></strong></td><td>Any Nou (Festivitat Nacional).</td></tr>
+        <tr><td><strong><time datetime="2013-01-06">06</time></strong></td><td>Epifania. Adoració dels Reis Mags (Festa Nacional).</td></tr>
+        <tr><td><strong><time datetime="2013-01-12">11</time></strong></td><td>Mig Any de Moros i Cristians.</td></tr>
+        <tr><td><strong><time datetime="2013-01-20">19</time></strong></td><td>Sant Antoni Abad. Romeria en Pego.</td></tr>
+    </tbody>
+</table>
 
 ### Febrer
-<div class="serveis" markdown="1">
 
-Data                                          | Festivitat
-----------------------------------------------|-------------------------------
-**<time datetime="2013-02-02">22</time>**     | Baixada del Riu Bullent.
-
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-02-02">22</time></strong></td><td>Baixada del Riu Bullent.</td></tr>
+    </tbody>
+</table>
 
 ### Març
-<div class="serveis" markdown="1">
 
-Data                                            | Festivitat
-------------------------------------------------|-------------------------------
-**<time datetime="2013-02-09">01</time>**       | Carnestoltes.
-**<time datetime="2013-02-12">04</time>**       | Dia de la crosta.
-**<time datetime="2013-02-16">08</time>**       | Pinyata (Soterranment de la sardina).
-**<time datetime="2013-03-17">17 - 19</time>**  | Falles en Pego.
-**<time datetime="2013-03-18">18</time>**       | Dilluns de falles (Festiu Comunitat Valenciana).
-**<time datetime="2013-03-19">19</time>**       | Sant Josep (Festiu en la Comunitat Valenciana).
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-02-09">01</time></strong></td><td>Carnestoltes.</td></tr>
+        <tr><td><strong><time datetime="2013-02-12">04</time></strong></td><td>Dia de la crosta.</td></tr>
+        <tr><td><strong><time datetime="2013-02-16">08</time></strong></td><td>Pinyata (Soterranment de la sardina).</td></tr>
+        <tr><td><strong><time datetime="2013-03-17">17 - 19</time></strong></td><td>Falles en Pego.</td></tr>
+        <tr><td><strong><time datetime="2013-03-18">18</time></strong></td><td>Dilluns de falles (Festiu Comunitat Valenciana).</td></tr>
+        <tr><td><strong><time datetime="2013-03-19">19</time></strong></td><td>Sant Josep (Festiu en la Comunitat Valenciana).</td></tr>
+    </tbody>
+</table>
 
 ### Abril
-<div class="serveis" markdown="1">
 
-Data                                      | Festivitat
-------------------------------------------|-------------------------------
-**<time datetime="2013-03-24">13</time>** | Diumenge de Rams.
-**<time datetime="2013-03-28">17</time>** | Dijous Sant (Festiu en la Comunitat Valenciana).
-**<time datetime="2013-03-29">18</time>** | Divendres Sant (Festiu Nacional).
-**<time datetime="2013-04-01">21</time>** | Dilluns de Pasqua (Festiu en la Comunitat Valenciana).
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-03-24">13</time></strong></td><td>Diumenge de Rams.</td></tr>
+        <tr><td><strong><time datetime="2013-03-28">17</time></strong></td><td>Dijous Sant (Festiu en la Comunitat Valenciana).</td></tr>
+        <tr><td><strong><time datetime="2013-03-29">18</time></strong></td><td>Divendres Sant (Festiu Nacional).</td></tr>
+        <tr><td><strong><time datetime="2013-04-01">21</time></strong></td><td>Dilluns de Pasqua (Festiu en la Comunitat Valenciana).</td></tr>
+    </tbody>
+</table>
 
 ### Maig
-<div class="serveis" markdown="1">
 
-Data                                          | Festivitat
-----------------------------------------------|-------------------------------
-**<time datetime="2013-05-01">01</time>**     | Dia del Treball (Festa Nacional).
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-05-01">01</time></strong></td><td>Dia del Treball (Festa Nacional).</td></tr>
+    </tbody>
+</table>
 
-</div>
+
 
 ### Juny
-<div class="serveis" markdown="1">
 
-Data                                            | Festivitat
-------------------------------------------------|-------------------------------
-**<time datetime="2013-05-30">19</time>**       | Corpus Christi.
-**<time datetime="2013-06-26">25</time>**       | Festivitat del Santissim Ecce-Homo.
-**<time datetime="2013-06-27">26 - 29</time>**  | Moros i Cristians.
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-05-30">19</time></strong></td><td>Corpus Christi.</td></tr>
+        <tr><td><strong><time datetime="2013-06-26">25</time></strong></td><td>Festivitat del Santissim Ecce-Homo.</td></tr>
+        <tr><td><strong><time datetime="2013-06-27">26 - 29</time></strong></td><td>Moros i Cristians.</td></tr>
+    </tbody>
+</table>
 
 ### Juliol
-<div class="serveis" markdown="1">
 
-Data                                      | Festivitat
-------------------------------------------|-------------------------------
-**<time datetime="2013-07-25">25</time>** | Sant Jaume.
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-07-25">25</time></strong></td><td>Sant Jaume.</td></tr>
+    </tbody>
+</table>
 
-</div>
+
 
 ### Agost
-<div class="serveis" markdown="1">
 
-Data                                      | Festivitat
-------------------------------------------|-------------------------------
-**<time datetime="2013-08-15">15</time>** | Assumpció de la Mare de Déu (Festa Nacional).
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-08-15">15</time></strong></td><td>Assumpció de la Mare de Déu (Festa Nacional).</td></tr>
+    </tbody>
+</table>
 
 ### Octubre
-<div class="serveis" markdown="1">
 
-Data                                      | Festivitat
-------------------------------------------|-------------------------------
-**<time datetime="2013-10-09">09</time>** | Dia de la comunitat Valenciana (Festiu en la Comunitat Valenciana).
-**<time datetime="2013-10-12">12</time>** | Mare de Deu del Pilar. Dia de la Hispanitat (Festa Nacional).
-
-</div>
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-10-09">09</time></strong></td><td>Dia de la comunitat Valenciana (Festiu en la Comunitat Valenciana).</td></tr>
+        <tr><td><strong><time datetime="2013-10-12">12</time></strong></td><td>Mare de Deu del Pilar. Dia de la Hispanitat (Festa Nacional).</td></tr>
+    </tbody>
+</table>
 
 ### Novembre
-<div class="serveis" markdown="1">
 
-Data                                      | Festivitat
-------------------------------------------|-------------------------------
-**<time datetime="2013-11-01">01</time>** | Tots Sants (Festa Nacional).
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-11-01">01</time></strong></td><td>Tots Sants (Festa Nacional).</td></tr>
+    </tbody>
+</table>
 
-</div>
+
 
 ### Desembre
-<div class="serveis" markdown="1">
 
-Data                                      | Festivitat
-------------------------------------------|-------------------------------
-**<time datetime="2013-12-06">06</time>** | Dia de la Constitució Espanyola (Festa Nacional).
-**<time datetime="2013-12-08">08</time>** | Inmaculada Concepció (Festa Nacional).
-**<time datetime="2013-12-25">25</time>** | Nadal.
-**<time datetime="2013-12-26">26</time>** | Festa local en Pego.
+<table class="table table-hover">
+    <tbody>
+        <tr><td><strong><time datetime="2013-12-06">06</time></strong></td><td>Dia de la Constitució Espanyola (Festa Nacional).</td></tr>
+        <tr><td><strong><time datetime="2013-12-08">08</time></strong></td><td>Inmaculada Concepció (Festa Nacional).</td></tr>
+        <tr><td><strong><time datetime="2013-12-25">25</time></strong></td><td>Nadal.</td></tr>
+        <tr><td><strong><time datetime="2013-12-26">26</time></strong></td><td>Festa local en Pego.</td></tr>
+    </tbody>
+</table>
 
-</div>
-</div>

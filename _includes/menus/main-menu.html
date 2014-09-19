@@ -1,42 +1,112 @@
-<nav class="menu">
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_ajuntament" href="/ajuntament/salutacio-alcalde.html">Ajuntament</a>
+<nav id="menu" class="menu navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
     </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_economia" href="/economia/creama.html">Economia</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_urbanisme" href="/urbanisme/informacio.html">Urbanisme</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_serveis" href="/serveis/mancomunitat.html">Serveis</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_medi-ambient" href="/medi-ambient/parc-natural-marjal.html">Medi ambient</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_esports" href="/esports/instalacions.html">Esports</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_educacio" href="/educacio/centres.html">Educació</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_cultura" href="/cultura/historia.html">Cultura</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_turisme" href="/turisme/activitats-i-contacte.html">Turisme</a>
-    </div>
-    <div class="item-container">
-        <span class="item-background">&nbsp;</span>
-        <a class="item m_festes" href="/festes/festes-i-tradicions.html">Festes</a>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_ajuntament" href="/ajuntament/salutacio-alcalde.html">Ajuntament</a>
+                <div id="ms_ajuntament" class="menu-section">
+                    {% capture aj_menu %}{% include menus/ajuntament.markdown %}{% endcapture %}
+                    {{ aj_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_economia" href="/economia/creama.html">Economia</a>
+                <div id="ms_economia" class="menu-section">
+                    {% capture economia_menu %}{% include menus/economia.markdown %}{% endcapture %}
+                    {{ economia_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_urbanisme" href="/urbanisme/creama.html">Urbanisme</a>
+                <div id="ms_urbanisme" class="menu-section">
+                    {% capture urbanisme_menu %}{% include menus/urbanisme.markdown %}{% endcapture %}
+                    {{ urbanisme_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_serveis" href="/serveis/mancomunitat.html">Serveis</a>
+                <div id="ms_serveis" class="menu-section">
+                    {% capture serveis_menu %}{% include menus/serveis.markdown %}{% endcapture %}
+                    {{ serveis_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_medi-ambient" href="/medi-ambient/parc-natural-marjal.html">Medi ambient</a>
+                <div id="ms_medi-ambient" class="menu-section">
+                    {% capture medi_menu %}{% include menus/medi.markdown %}{% endcapture %}
+                    {{ medi_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_esports" href="/esports/instalacions.html">Esports</a>
+                <div id="ms_esports" class="menu-section">
+                    {% capture esports_menu %}{% include menus/esports.markdown %}{% endcapture %}
+                    {{ esports_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_educacio" href="/educacio/centres.html">Educació</a>
+                <div id="ms_educacio" class="menu-section">
+                    {% capture educacio_menu %}{% include menus/educacio.markdown %}{% endcapture %}
+                    {{ educacio_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_cultura" href="/cultura/historia.html">Cultura</a>
+                <div id="ms_cultura" class="menu-section">
+                    {% capture cultura_menu %}{% include menus/cultura.markdown %}{% endcapture %}
+                    {{ cultura_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_turisme" href="/turisme/activitats-i-contacte.html">Turisme</a>
+                <div id="ms_turisme" class="menu-section">
+                    {% capture turisme_menu %}{% include menus/turisme.markdown %}{% endcapture %}
+                    {{ turisme_menu | markdownify }}
+                </div>
+            </div>
+        </div>
+        <div class="item-container">
+            <span class="item-background">&nbsp;</span>
+            <div class="menu-container">
+                <a class="item m_festes" href="/festes/festes-i-tradicions.html">Festes</a>
+                <div id="ms_festes" class="menu-section">
+                    {% capture festes_menu %}{% include menus/festes.markdown %}{% endcapture %}
+                    {{ festes_menu | markdownify }}
+                </div>
+            </div>
+        </div>
     </div>
 </nav>

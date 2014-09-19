@@ -1,4 +1,15 @@
-/* line 1, ../_sass/main-menu.scss */
+/* line 35, ../_sass/main-menu.scss */
+.menu .navbar-collapse {
+  padding: 0;
+}
+
+/* line 39, ../_sass/main-menu.scss */
+.menu.navbar-default {
+  background-color: #F1F0E8;
+  border-color: #F1F0E8;
+}
+
+/* line 44, ../_sass/main-menu.scss */
 .item-container .item {
   height: 30px;
   /*border: 1px solid black;*/
@@ -7,56 +18,53 @@
   font-weight: bold;
   font-size: 1.1em;
   display: block;
-  margin-left: 30px;
   margin-top: -1px;
   position: relative;
-  color: #000;
   margin-left: 20px;
-  -webkit-transition-property: margin-left color;
-  -moz-transition-property: margin-left color;
-  -ms-transition-property: margin-left color;
-  -o-transition-property: margin-left color;
-  transition-property: margin-left color;
-  -webkit-transition-duration: 300ms;
+  color: #000;
   -moz-transition-duration: 300ms;
-  -ms-transition-duration: 300ms;
   -o-transition-duration: 300ms;
+  -webkit-transition-duration: 300ms;
   transition-duration: 300ms;
-  -webkit-transition-timing-function: ease-in-out;
+  -moz-transition-property: margin-left, color;
+  -o-transition-property: margin-left, color;
+  -webkit-transition-property: margin-left, color;
+  transition-property: margin-left color;
   -moz-transition-timing-function: ease-in-out;
-  -ms-transition-timing-function: ease-in-out;
   -o-transition-timing-function: ease-in-out;
+  -webkit-transition-timing-function: ease-in-out;
   transition-timing-function: ease-in-out;
 }
 
-/* line 35, ../_sass/main-menu.scss */
+/* line 63, ../_sass/main-menu.scss */
+.item:hover {
+  margin-left: 30px;
+  -moz-transition-duration: 300ms;
+  -o-transition-duration: 300ms;
+  -webkit-transition-duration: 300ms;
+  transition-duration: 300ms;
+  -moz-transition-property: margin-left, color;
+  -o-transition-property: margin-left, color;
+  -webkit-transition-property: margin-left, color;
+  transition-property: margin-left color;
+  -moz-transition-timing-function: ease-in-out;
+  -o-transition-timing-function: ease-in-out;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+/* line 71, ../_sass/main-menu.scss */
 a.item {
   text-decoration: none;
   color: black;
 }
 
-/* line 40, ../_sass/main-menu.scss */
+/* line 76, ../_sass/main-menu.scss */
 .item:hover {
   color: #fff;
-  margin-left: 40px;
-  -webkit-transition-property: margin-left color;
-  -moz-transition-property: margin-left color;
-  -ms-transition-property: margin-left color;
-  -o-transition-property: margin-left color;
-  transition-property: margin-left color;
-  -webkit-transition-duration: 300ms;
-  -moz-transition-duration: 300ms;
-  -ms-transition-duration: 300ms;
-  -o-transition-duration: 300ms;
-  transition-duration: 300ms;
-  -webkit-transition-timing-function: ease-in-out;
-  -moz-transition-timing-function: ease-in-out;
-  -ms-transition-timing-function: ease-in-out;
-  -o-transition-timing-function: ease-in-out;
-  transition-timing-function: ease-in-out;
 }
 
-/* line 63, ../_sass/main-menu.scss */
+/* line 80, ../_sass/main-menu.scss */
 .item-background {
   height: 20px;
   background-color: #AC97BD;
@@ -69,109 +77,417 @@ a.item {
   background-position: top-left;
 }
 
-/* line 76, ../_sass/main-menu.scss */
+/* line 93, ../_sass/main-menu.scss */
 .item-container {
   clear: both;
   position: relative;
   margin: 2px 0 3px 0;
 }
 
-/* line 83, ../_sass/main-menu.scss */
-.m_ajuntament {
-  background-color: #7063a4;
+/* line 99, ../_sass/main-menu.scss */
+.menu-section {
+  text-align: right;
+  color: white;
+  height: 0;
+  visibility: hidden;
+  margin-left: 30px;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+/* line 111, ../_sass/main-menu.scss */
+.menu-section ul {
+  padding: 0;
+}
+/* line 115, ../_sass/main-menu.scss */
+.menu-section ul li {
+  list-style: none;
+  width: 100%;
+  padding: 0;
+}
+/* line 120, ../_sass/main-menu.scss */
+.menu-section ul li a {
+  color: white;
+  padding-right: 10px;
+  width: 100%;
+  display: block;
+}
+/* line 127, ../_sass/main-menu.scss */
+.menu-section ul li strong {
+  padding-right: 10px;
+  display: block;
 }
 
-/* line 86, ../_sass/main-menu.scss */
+/* line 134, ../_sass/main-menu.scss */
+#ms_ajuntament.expanded {
+  height: 200px;
+  visibility: visible;
+  background-color: #816f8d;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 144, ../_sass/main-menu.scss */
+#ms_economia.expanded {
+  height: 80px;
+  visibility: visible;
+  background-color: #9b6f5a;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 154, ../_sass/main-menu.scss */
+#ms_urbanisme.expanded {
+  height: 140px;
+  visibility: visible;
+  background-color: #9b3c5a;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 164, ../_sass/main-menu.scss */
+#ms_serveis.expanded {
+  height: 120px;
+  visibility: visible;
+  background-color: #4e6f8d;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 174, ../_sass/main-menu.scss */
+#ms_medi-ambient.expanded {
+  height: 100px;
+  visibility: visible;
+  background-color: #81895a;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 184, ../_sass/main-menu.scss */
+#ms_esports.expanded {
+  height: 60px;
+  visibility: visible;
+  background-color: #b4565a;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 194, ../_sass/main-menu.scss */
+#ms_educacio.expanded {
+  height: 40px;
+  visibility: visible;
+  background-color: #ce3c8d;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 204, ../_sass/main-menu.scss */
+#ms_cultura.expanded {
+  height: 380px;
+  visibility: visible;
+  background-color: #6856a7;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 214, ../_sass/main-menu.scss */
+#ms_turisme.expanded {
+  height: 80px;
+  visibility: visible;
+  background-color: #4e895a;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 224, ../_sass/main-menu.scss */
+#ms_festes.expanded {
+  height: 140px;
+  visibility: visible;
+  background-color: #ed9220;
+  -moz-transition-duration: 500ms;
+  -o-transition-duration: 500ms;
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  -moz-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+  -webkit-transition-property: height, visibility;
+  transition-property: height visibility;
+  -moz-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+
+/* line 234, ../_sass/main-menu.scss */
+#ms_ajuntament strong {
+  background-color: #473c4e;
+}
+
+/* line 235, ../_sass/main-menu.scss */
+#ms_cultura strong {
+  background-color: #473B6E;
+}
+
+/* line 236, ../_sass/main-menu.scss */
+#ms_festes strong {
+  background-color: #986A31;
+}
+
+/* line 239, ../_sass/main-menu.scss */
+.m_ajuntament {
+  background-color: #2E448D;
+}
+
+/* line 240, ../_sass/main-menu.scss */
 .m_ajuntament:hover {
   background-color: #816f8d;
 }
 
-/* line 89, ../_sass/main-menu.scss */
+/* line 242, ../_sass/main-menu.scss */
 .m_economia {
   background-color: #CE895A;
 }
 
-/* line 92, ../_sass/main-menu.scss */
+/* line 243, ../_sass/main-menu.scss */
 .m_economia:hover {
   background-color: #9b6f5a;
 }
 
-/* line 95, ../_sass/main-menu.scss */
+/* line 245, ../_sass/main-menu.scss */
 .m_urbanisme {
   background-color: #A6775F;
 }
 
-/* line 98, ../_sass/main-menu.scss */
+/* line 246, ../_sass/main-menu.scss */
 .m_urbanisme:hover {
   background-color: #9b3c5a;
 }
 
-/* line 101, ../_sass/main-menu.scss */
+/* line 248, ../_sass/main-menu.scss */
 .m_serveis {
   background-color: #56A89C;
 }
 
-/* line 104, ../_sass/main-menu.scss */
+/* line 249, ../_sass/main-menu.scss */
 .m_serveis:hover {
   background-color: #4e6f8d;
 }
 
-/* line 107, ../_sass/main-menu.scss */
+/* line 251, ../_sass/main-menu.scss */
 .m_medi-ambient {
   background-color: #9EC400;
 }
 
-/* line 110, ../_sass/main-menu.scss */
+/* line 252, ../_sass/main-menu.scss */
 .m_medi-ambient:hover {
   background-color: #81895a;
 }
 
-/* line 113, ../_sass/main-menu.scss */
+/* line 254, ../_sass/main-menu.scss */
 .m_esports {
   background-color: #D91C40;
 }
 
-/* line 116, ../_sass/main-menu.scss */
+/* line 255, ../_sass/main-menu.scss */
 .m_esports:hover {
   background-color: #b4565a;
 }
 
-/* line 119, ../_sass/main-menu.scss */
+/* line 257, ../_sass/main-menu.scss */
 .m_educacio {
   background-color: #FF0066;
 }
 
-/* line 122, ../_sass/main-menu.scss */
+/* line 258, ../_sass/main-menu.scss */
 .m_educacio:hover {
   background-color: #ce3c8d;
 }
 
-/* line 125, ../_sass/main-menu.scss */
+/* line 260, ../_sass/main-menu.scss */
 .m_cultura {
   background-color: #00A3DE;
 }
 
-/* line 128, ../_sass/main-menu.scss */
+/* line 261, ../_sass/main-menu.scss */
 .m_cultura:hover {
   background-color: #6856a7;
 }
 
-/* line 131, ../_sass/main-menu.scss */
+/* line 263, ../_sass/main-menu.scss */
 .m_turisme {
   background-color: #4E895A;
 }
 
-/* line 134, ../_sass/main-menu.scss */
+/* line 264, ../_sass/main-menu.scss */
 .m_turisme:hover {
   background-color: #4e895a;
 }
 
-/* line 137, ../_sass/main-menu.scss */
+/* line 266, ../_sass/main-menu.scss */
 .m_festes {
   background-color: #CCCC00;
 }
 
-/* line 140, ../_sass/main-menu.scss */
+/* line 267, ../_sass/main-menu.scss */
 .m_festes:hover {
   background-color: #ed9220;
+}
+
+/* line 275, ../_sass/main-menu.scss */
+#ms_ajuntament .current a {
+  color: #816f8d;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 276, ../_sass/main-menu.scss */
+#ms_economia .current a {
+  color: #9b6f5a;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 277, ../_sass/main-menu.scss */
+#ms_urbanisme .current a {
+  color: #9b3c5a;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 278, ../_sass/main-menu.scss */
+#ms_serveis .current a {
+  color: #4e6f8d;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 279, ../_sass/main-menu.scss */
+#ms_medi-ambient .current a {
+  color: #81895a;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 280, ../_sass/main-menu.scss */
+#ms_esports .current a {
+  color: #b4565a;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 281, ../_sass/main-menu.scss */
+#ms_educacio .current a {
+  color: #ce3c8d;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 282, ../_sass/main-menu.scss */
+#ms_cultura .current a {
+  color: #6856a7;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 283, ../_sass/main-menu.scss */
+#ms_turisme .current a {
+  color: #4e895a;
+  background-color: rgba(204, 204, 204, 0.7);
+}
+
+/* line 284, ../_sass/main-menu.scss */
+#ms_festes .current a {
+  color: #ed9220;
+  background-color: rgba(204, 204, 204, 0.7);
 }

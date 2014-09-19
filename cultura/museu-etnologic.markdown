@@ -5,7 +5,8 @@ title: Museu Etnològic
 jqueryui: true
 imggallery: true
 ---
-<div id="vista-general">
+
+<div id="vista-general" class="center">
     <a href="/images/cultura/etnologic/vistaGeneral.png" rel="img-gal" title="Vista general del museu etnològic">
         <img src="/images/cultura/etnologic/vistaGeneral_thumb.png" alt="Vista general del museu etnologic" />
     </a>
@@ -31,7 +32,7 @@ Els textos es veuen ampliats amb dos protagonistes originals: Les ferramentes qu
 
 Trobem a l'entrar al Museu els panells explicatius de la introducció del cultiu de l'arròs a les terres del Mediterrani. Seguix la preparació de la terra on s'exhibixen diferents aladres i una completa col·lecció de post de ganivets a destacar també la curiosa segadora de séquies. Seguidament s'analitzen la sembra plantada que es realitzava sempre amb els camps inundats, per la qual cosa se tènia que fer el planter en terres preparades a l'efecte.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/etnologic/util01.png" rel="img-gal" title="Post de ganivets. Tabla de fusta amb ganivets per a rasurar la terra superficialment amb traccio animal">
         <img src="/images/cultura/etnologic/util01_thumb.png" alt="Post de ganivets. Tabla de fusta amb ganivets per a rasurar la terra superficialment amb traccio animal." />
     </a>
@@ -47,7 +48,7 @@ Una de les peces importants és la barca, imprescindible per al transport de les
 
 Seguim amb la batuda i destaquem l'era amb tots els elements que intervenen en aquesta important labor. De gran interés la col·lecció de rulos.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/etnologic/util03.png" rel="img-gal" title="Carreto, Carro de fusta per a transportar l'arros trillat en l'era.">
         <img src="/images/cultura/etnologic/util03_thumb.png" alt="Carreto, Carro de fusta per a transportar l'arros trillat en l'era." />
     </a>
@@ -58,7 +59,7 @@ Seguim amb la batuda i destaquem l'era amb tots els elements que intervenen en a
 
 El recorregut pel Museu acaba introduint-nos en el món del molí i la posterior comercialització. Les marques comercials destaquen la varietat Bomba que a Pego tenia especials característiques.
 
-<div class="museu-img-cont">
+<div class="center">
     <a href="/images/cultura/etnologic/util05.png" rel="img-gal" title="Moli de prova, moli xicotet per a comprovar la qualitat de l'arros en el moli amb xicotetes quantitats.">
         <img src="/images/cultura/etnologic/util05_thumb.png" alt="Moli de prova, moli xicotet per a comprovar la qualitat de l'arros en el moli amb xicotetes quantitats." />
     </a>
