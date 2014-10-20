@@ -44,6 +44,7 @@ description: En aquesta secció es poden descarregar els impresos i instancies d
 ### Ajuntament
 * [Recurs de Reposició IBI (2008)](/pdf/ajuntament/Recurso_Reposicion_IBI.pdf)
 * [Sol·licitud d'incripció de Associacions](/pdf/ajuntament/Inscripcio_Associacions.pdf)
+* [Sol·licitud d'espai per a associacions](/pdf/ajuntament/sollicitud-espais-associacions.pdf)
 
 
 ### Urbanisme
