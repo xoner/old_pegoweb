@@ -1,4 +1,5 @@
 * [Creama](/economia/creama.html)
 * [Agenda XXI](/economia/agenda-xxi.html)
 * [Suma](/economia/suma.html)
-* [Utilitat c&agrave;lcul plusvalia](/economia/utilitat-calcul-plusvalia.html)
+* [Període Mitjà de Pagament a Proveïdors](/economia/pmp-proveidors.html)
+* [Utilitat c&agrave;lcul plusvàlua](/economia/utilitat-calcul-plusvalia.html)

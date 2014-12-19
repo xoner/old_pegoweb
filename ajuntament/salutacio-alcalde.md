@@ -4,12 +4,13 @@ section: ajuntament
 title: Salutació de l'alcalde
 description: Salutació de l'alcalde de Pego als visitants de la plana web.
 ---
-<div class="inline-image">
+
+<div class="salone-image center">
 <img src="/images/ajuntament/salutacio-alcalde.jpg" alt="Enrique Moll Briones, Alcalde de Pego" title="Enrique Moll Briones, Alcalde de Pego" />
 </div>
 
-<div class="center" markdown="1">
-**Enrique Moll Briones**
+<div class="center">
+<strong>Enrique Moll Briones</strong>
 </div>
 
 <div style="text-align:justify" markdown="1">

@@ -26,10 +26,11 @@ $(document).ready(function(){
             $(this).parents('li').addClass('current');
         }
     });
+
     if ($('.tabs').length > 0) {$('.tabs').tabs();};
 
     // automatically expand the section menu.toggleClass
-    var sectionMatch = /^(http|https):\/\/[\w\.]*(:\d*)+\/([\w-]*)\/*.*$/.exec(window.location.href);
+    var sectionMatch = /^(http|https):\/\/[\w\.]*(:\d*)*\/([\w-]*)\/*.*$/.exec(window.location.href);
     if(sectionMatch !== null) {
         var section = sectionMatch[3];
 

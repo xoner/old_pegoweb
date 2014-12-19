@@ -148,7 +148,7 @@ a.item {
 
 /* line 144, ../_sass/main-menu.scss */
 #ms_economia.expanded {
-  height: 80px;
+  height: 120px;
   visibility: visible;
   background-color: #9b6f5a;
   -moz-transition-duration: 500ms;

@@ -333,6 +333,12 @@ body {
     }
 }
 
+@media (max-width: 990px){
+    #carousel-aj {
+        display: none;
+    }
+}
+
 
 .section-header-ajuntament { @include section-header($col_ajuntament, $col_ajuntament_dos); }
 .section-header-blog{ @include section-header($col_news, $col_news_dos); }
